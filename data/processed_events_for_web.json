@@ -1,5 +1,5 @@
 {
-  "generation_timestamp": "2025-07-21T08:24:04.752061",
+  "generation_timestamp": "2025-07-22T08:21:36.046826",
   "upcoming_hearings": [
     {
       "event_data": {
@@ -29,8 +29,8 @@
         "SyntheticMeetingTopic": "Oversight - The Department of Probation's Organizational Strategy."
       },
       "first_seen_timestamp": "2025-06-24T08:20:29.024387",
-      "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-      "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+      "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+      "last_processed_timestamp": "2025-07-22T08:21:35.813397",
       "last_significant_change_timestamp": "2025-06-24T08:20:29.024387",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -76,8 +76,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-06-12T08:19:38.458151",
-      "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-      "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+      "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+      "last_processed_timestamp": "2025-07-22T08:21:35.813397",
       "last_significant_change_timestamp": "2025-06-12T08:19:38.458151",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -115,8 +115,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-06-18T08:19:57.520137",
-      "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-      "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+      "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+      "last_processed_timestamp": "2025-07-22T08:21:35.813397",
       "last_significant_change_timestamp": "2025-06-18T08:19:57.520137",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -125,53 +125,6 @@
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-06-18T08:19:57.520137",
       "user_facing_tags": []
-    },
-    {
-      "event_data": {
-        "EventId": 21769,
-        "EventGuid": "34AC5711-157E-4FD5-8D9D-EDCDBCE2A705",
-        "EventLastModifiedUtc": "2025-07-17T17:54:37.47",
-        "EventRowVersion": "AAAAAOfbLwQ=",
-        "EventBodyId": 34,
-        "EventBodyName": "Subcommittee on Zoning and Franchises",
-        "EventDate": "2025-08-12T00:00:00",
-        "EventTime": "11:00 AM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "250 Broadway - Committee Room, 16th Floor",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/8/21769_A_Subcommittee_on_Zoning_and_Franchises_25-08-12_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2025-07-17T17:54:37.353",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": null,
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21769&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "See Land Use Calendar"
-      },
-      "first_seen_timestamp": "2025-07-18T08:20:40.706104",
-      "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-      "last_processed_timestamp": "2025-07-21T08:24:04.676281",
-      "last_significant_change_timestamp": "2025-07-18T08:20:40.706104",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": {
-        "original_event_id": "21702",
-        "original_date": "2025-07-24T00:00:00",
-        "original_time": "11:00 AM",
-        "original_status_when_deferred": "Deferred",
-        "match_timestamp": "2025-07-18T08:20:40.706104"
-      },
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2025-07-18T08:20:40.706104",
-      "user_facing_tags": [
-        "rescheduled_hearing_tag"
-      ]
     },
     {
       "event_data": {
@@ -201,8 +154,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-07-18T08:20:40.706104",
-      "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-      "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+      "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+      "last_processed_timestamp": "2025-07-22T08:21:35.813397",
       "last_significant_change_timestamp": "2025-07-18T08:20:40.706104",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -240,8 +193,8 @@
         "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
       },
       "first_seen_timestamp": "2025-07-15T08:20:46.851808",
-      "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-      "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+      "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+      "last_processed_timestamp": "2025-07-22T08:21:35.813397",
       "last_significant_change_timestamp": "2025-07-15T08:20:46.851808",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -287,8 +240,8 @@
         "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
       },
       "first_seen_timestamp": "2025-05-28T08:19:27.445523",
-      "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-      "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+      "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+      "last_processed_timestamp": "2025-07-22T08:21:35.813397",
       "last_significant_change_timestamp": "2025-05-28T08:19:27.445523",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -297,6 +250,57 @@
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-05-28T08:19:27.445523",
       "user_facing_tags": []
+    },
+    {
+      "event_data": {
+        "EventId": 21772,
+        "EventGuid": "0D48A317-B95A-4D66-B529-82083F207E10",
+        "EventLastModifiedUtc": "2025-07-21T18:59:17.187",
+        "EventRowVersion": "AAAAAOfbgCU=",
+        "EventBodyId": 34,
+        "EventBodyName": "Subcommittee on Zoning and Franchises",
+        "EventDate": "2025-08-20T00:00:00",
+        "EventTime": "11:00 AM",
+        "EventVideoStatus": "Public",
+        "EventAgendaStatusId": 2,
+        "EventAgendaStatusName": "Final",
+        "EventMinutesStatusId": 1,
+        "EventMinutesStatusName": "Draft",
+        "EventLocation": "250 Broadway - Committee Room, 16th Floor",
+        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/8/21772_A_Subcommittee_on_Zoning_and_Franchises_25-08-20_Committee_Agenda.pdf",
+        "EventMinutesFile": null,
+        "EventAgendaLastPublishedUTC": "2025-07-21T18:59:17.067",
+        "EventMinutesLastPublishedUTC": null,
+        "EventComment": null,
+        "EventVideoPath": null,
+        "EventMedia": null,
+        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21772&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+        "EventItems": [],
+        "SyntheticMeetingTopic": "See Land Use Calendar"
+      },
+      "first_seen_timestamp": "2025-07-22T08:21:35.813397",
+      "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+      "last_processed_timestamp": "2025-07-22T08:21:35.813397",
+      "last_significant_change_timestamp": "2025-07-22T08:21:35.813397",
+      "current_status": "active",
+      "original_event_details_if_rescheduled": {
+        "original_event_id": "21769",
+        "original_date": "2025-08-12T00:00:00",
+        "original_time": "11:00 AM",
+        "original_status_when_deferred": "Deferred",
+        "match_timestamp": "2025-07-22T08:21:35.813397"
+      },
+      "rescheduled_event_details_if_deferred": null,
+      "processing_tags": [
+        "newly_added",
+        "newly_added_as_reschedule_target"
+      ],
+      "last_alert_type": "new",
+      "last_alert_timestamp": "2025-07-22T08:21:35.813397",
+      "user_facing_tags": [
+        "new_hearing_tag",
+        "rescheduled_hearing_tag"
+      ]
     },
     {
       "event_data": {
@@ -326,8 +330,8 @@
         "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
       },
       "first_seen_timestamp": "2025-05-28T08:19:27.445523",
-      "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-      "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+      "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+      "last_processed_timestamp": "2025-07-22T08:21:35.813397",
       "last_significant_change_timestamp": "2025-05-28T08:19:27.445523",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -364,8 +368,8 @@
         "EventItems": []
       },
       "first_seen_timestamp": "2025-07-18T08:20:40.706104",
-      "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-      "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+      "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+      "last_processed_timestamp": "2025-07-22T08:21:35.813397",
       "last_significant_change_timestamp": "2025-07-19T08:18:43.865790",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -403,8 +407,8 @@
         "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
       },
       "first_seen_timestamp": "2025-05-28T08:19:27.445523",
-      "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-      "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+      "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+      "last_processed_timestamp": "2025-07-22T08:21:35.813397",
       "last_significant_change_timestamp": "2025-05-28T08:19:27.445523",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -472,6 +476,7 @@
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active"
       ],
       "last_alert_type": "new",
@@ -506,8 +511,8 @@
         "SyntheticMeetingTopic": "Correcting excess pay differentials for paraprofessionals arising from pattern bargaining practices."
       },
       "first_seen_timestamp": "2025-06-29T08:17:06.290480",
-      "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-      "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+      "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+      "last_processed_timestamp": "2025-07-22T08:21:35.813397",
       "last_significant_change_timestamp": "2025-06-29T08:17:06.290480",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -518,8 +523,223 @@
       "user_facing_tags": []
     }
   ],
-  "updates_since_last_run": [],
+  "updates_since_last_run": [
+    {
+      "type": "new",
+      "alert_timestamp": "2025-07-22T08:21:35.813397",
+      "data": {
+        "event_data": {
+          "EventId": 21772,
+          "EventGuid": "0D48A317-B95A-4D66-B529-82083F207E10",
+          "EventLastModifiedUtc": "2025-07-21T18:59:17.187",
+          "EventRowVersion": "AAAAAOfbgCU=",
+          "EventBodyId": 34,
+          "EventBodyName": "Subcommittee on Zoning and Franchises",
+          "EventDate": "2025-08-20T00:00:00",
+          "EventTime": "11:00 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - Committee Room, 16th Floor",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/8/21772_A_Subcommittee_on_Zoning_and_Franchises_25-08-20_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-07-21T18:59:17.067",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21772&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "See Land Use Calendar"
+        },
+        "first_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
+        "last_significant_change_timestamp": "2025-07-22T08:21:35.813397",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": {
+          "original_event_id": "21769",
+          "original_date": "2025-08-12T00:00:00",
+          "original_time": "11:00 AM",
+          "original_status_when_deferred": "Deferred",
+          "match_timestamp": "2025-07-22T08:21:35.813397"
+        },
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added",
+          "newly_added_as_reschedule_target"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-07-22T08:21:35.813397"
+      }
+    },
+    {
+      "type": "deferred",
+      "alert_timestamp": "2025-07-22T08:21:35.813397",
+      "data": {
+        "event_data": {
+          "EventId": 21769,
+          "EventGuid": "34AC5711-157E-4FD5-8D9D-EDCDBCE2A705",
+          "EventLastModifiedUtc": "2025-07-21T19:00:55.827",
+          "EventRowVersion": "AAAAAOfbgD0=",
+          "EventBodyId": 34,
+          "EventBodyName": "Subcommittee on Zoning and Franchises",
+          "EventDate": "2025-08-12T00:00:00",
+          "EventTime": "11:00 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 4,
+          "EventAgendaStatusName": "Deferred",
+          "EventMinutesStatusId": 4,
+          "EventMinutesStatusName": "Deferred",
+          "EventLocation": "250 Broadway - Committee Room, 16th Floor",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/8/21769_A_Subcommittee_on_Zoning_and_Franchises_25-08-12_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-07-21T19:00:55.797",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21769&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": []
+        },
+        "first_seen_timestamp": "2025-07-18T08:20:40.706104",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
+        "last_significant_change_timestamp": "2025-07-22T08:21:35.813397",
+        "current_status": "deferred_rescheduled_internal",
+        "original_event_details_if_rescheduled": {
+          "original_event_id": "21702",
+          "original_date": "2025-07-24T00:00:00",
+          "original_time": "11:00 AM",
+          "original_status_when_deferred": "Deferred",
+          "match_timestamp": "2025-07-18T08:20:40.706104"
+        },
+        "rescheduled_event_details_if_deferred": {
+          "matched_event_id": "21772",
+          "new_date": "2025-08-20T00:00:00",
+          "new_time": "11:00 AM",
+          "new_location": "250 Broadway - Committee Room, 16th Floor",
+          "match_timestamp": "2025-07-22T08:21:35.813397"
+        },
+        "processing_tags": [
+          "became_deferred",
+          "became_rescheduled_match_found_for_original"
+        ],
+        "last_alert_type": "deferred",
+        "last_alert_timestamp": "2025-07-22T08:21:35.813397"
+      }
+    }
+  ],
   "updates_last_7_days": [
+    {
+      "type": "new",
+      "alert_timestamp": "2025-07-22T08:21:35.813397",
+      "data": {
+        "event_data": {
+          "EventId": 21772,
+          "EventGuid": "0D48A317-B95A-4D66-B529-82083F207E10",
+          "EventLastModifiedUtc": "2025-07-21T18:59:17.187",
+          "EventRowVersion": "AAAAAOfbgCU=",
+          "EventBodyId": 34,
+          "EventBodyName": "Subcommittee on Zoning and Franchises",
+          "EventDate": "2025-08-20T00:00:00",
+          "EventTime": "11:00 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - Committee Room, 16th Floor",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/8/21772_A_Subcommittee_on_Zoning_and_Franchises_25-08-20_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-07-21T18:59:17.067",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21772&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "See Land Use Calendar"
+        },
+        "first_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
+        "last_significant_change_timestamp": "2025-07-22T08:21:35.813397",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": {
+          "original_event_id": "21769",
+          "original_date": "2025-08-12T00:00:00",
+          "original_time": "11:00 AM",
+          "original_status_when_deferred": "Deferred",
+          "match_timestamp": "2025-07-22T08:21:35.813397"
+        },
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added",
+          "newly_added_as_reschedule_target"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-07-22T08:21:35.813397"
+      }
+    },
+    {
+      "type": "deferred",
+      "alert_timestamp": "2025-07-22T08:21:35.813397",
+      "data": {
+        "event_data": {
+          "EventId": 21769,
+          "EventGuid": "34AC5711-157E-4FD5-8D9D-EDCDBCE2A705",
+          "EventLastModifiedUtc": "2025-07-21T19:00:55.827",
+          "EventRowVersion": "AAAAAOfbgD0=",
+          "EventBodyId": 34,
+          "EventBodyName": "Subcommittee on Zoning and Franchises",
+          "EventDate": "2025-08-12T00:00:00",
+          "EventTime": "11:00 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 4,
+          "EventAgendaStatusName": "Deferred",
+          "EventMinutesStatusId": 4,
+          "EventMinutesStatusName": "Deferred",
+          "EventLocation": "250 Broadway - Committee Room, 16th Floor",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/8/21769_A_Subcommittee_on_Zoning_and_Franchises_25-08-12_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-07-21T19:00:55.797",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21769&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": []
+        },
+        "first_seen_timestamp": "2025-07-18T08:20:40.706104",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
+        "last_significant_change_timestamp": "2025-07-22T08:21:35.813397",
+        "current_status": "deferred_rescheduled_internal",
+        "original_event_details_if_rescheduled": {
+          "original_event_id": "21702",
+          "original_date": "2025-07-24T00:00:00",
+          "original_time": "11:00 AM",
+          "original_status_when_deferred": "Deferred",
+          "match_timestamp": "2025-07-18T08:20:40.706104"
+        },
+        "rescheduled_event_details_if_deferred": {
+          "matched_event_id": "21772",
+          "new_date": "2025-08-20T00:00:00",
+          "new_time": "11:00 AM",
+          "new_location": "250 Broadway - Committee Room, 16th Floor",
+          "match_timestamp": "2025-07-22T08:21:35.813397"
+        },
+        "processing_tags": [
+          "became_deferred",
+          "became_rescheduled_match_found_for_original"
+        ],
+        "last_alert_type": "deferred",
+        "last_alert_timestamp": "2025-07-22T08:21:35.813397"
+      }
+    },
     {
       "type": "new",
       "alert_timestamp": "2025-07-18T08:20:40.706104",
@@ -550,8 +770,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-07-18T08:20:40.706104",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
         "last_significant_change_timestamp": "2025-07-19T08:18:43.865790",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -592,59 +812,11 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-07-18T08:20:40.706104",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
         "last_significant_change_timestamp": "2025-07-18T08:20:40.706104",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-07-18T08:20:40.706104"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-07-18T08:20:40.706104",
-      "data": {
-        "event_data": {
-          "EventId": 21769,
-          "EventGuid": "34AC5711-157E-4FD5-8D9D-EDCDBCE2A705",
-          "EventLastModifiedUtc": "2025-07-17T17:54:37.47",
-          "EventRowVersion": "AAAAAOfbLwQ=",
-          "EventBodyId": 34,
-          "EventBodyName": "Subcommittee on Zoning and Franchises",
-          "EventDate": "2025-08-12T00:00:00",
-          "EventTime": "11:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - Committee Room, 16th Floor",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/8/21769_A_Subcommittee_on_Zoning_and_Franchises_25-08-12_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-07-17T17:54:37.353",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21769&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "See Land Use Calendar"
-        },
-        "first_seen_timestamp": "2025-07-18T08:20:40.706104",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
-        "last_significant_change_timestamp": "2025-07-18T08:20:40.706104",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": {
-          "original_event_id": "21702",
-          "original_date": "2025-07-24T00:00:00",
-          "original_time": "11:00 AM",
-          "original_status_when_deferred": "Deferred",
-          "match_timestamp": "2025-07-18T08:20:40.706104"
-        },
         "rescheduled_event_details_if_deferred": null,
         "processing_tags": [],
         "last_alert_type": "new",
@@ -681,8 +853,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-06-12T08:19:38.458151",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
         "last_significant_change_timestamp": "2025-07-18T08:20:40.706104",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -696,142 +868,119 @@
         "processing_tags": [],
         "last_alert_type": "deferred",
         "last_alert_timestamp": "2025-07-16T08:20:33.452460"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-07-15T08:20:46.851808",
-      "data": {
-        "event_data": {
-          "EventId": 21764,
-          "EventGuid": "AAFC2BDF-A99E-4EF3-8386-E41D84B3240B",
-          "EventLastModifiedUtc": "2025-07-14T19:46:36.987",
-          "EventRowVersion": "AAAAAOfawIs=",
-          "EventBodyId": 11,
-          "EventBodyName": "Committee on Finance",
-          "EventDate": "2025-08-14T00:00:00",
-          "EventTime": "10:30 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "Committee Room - City Hall",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/8/21764_A_Committee_on_Finance_25-08-14_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-07-14T19:46:36.86",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21764&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
-        },
-        "first_seen_timestamp": "2025-07-15T08:20:46.851808",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
-        "last_significant_change_timestamp": "2025-07-15T08:20:46.851808",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": {
-          "original_event_id": "21738",
-          "original_date": "2025-07-09T00:00:00",
-          "original_time": "10:30 AM",
-          "original_status_when_deferred": "Deferred",
-          "match_timestamp": "2025-07-15T08:20:46.851808"
-        },
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-07-15T08:20:46.851808"
-      }
-    },
-    {
-      "type": "deferred",
-      "alert_timestamp": "2025-07-15T08:20:46.851808",
-      "data": {
-        "event_data": {
-          "EventId": 21760,
-          "EventGuid": "AB7F5931-6BE5-484D-89BF-DC057B605877",
-          "EventLastModifiedUtc": "2025-07-14T15:50:16.917",
-          "EventRowVersion": "AAAAAOfafEM=",
-          "EventBodyId": 5244,
-          "EventBodyName": "Committee on Women and Gender Equity",
-          "EventDate": "2025-07-14T00:00:00",
-          "EventTime": "1:30 PM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 4,
-          "EventAgendaStatusName": "Deferred",
-          "EventMinutesStatusId": 4,
-          "EventMinutesStatusName": "Deferred",
-          "EventLocation": "Council Chambers - City Hall",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/7/21760_A_Committee_on_Women_and_Gender_Equity_25-07-14_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-07-14T15:50:16.75",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21760&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": []
-        },
-        "first_seen_timestamp": "2025-07-11T08:20:06.320930",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
-        "last_significant_change_timestamp": "2025-07-15T08:20:46.851808",
-        "current_status": "deferred_pending_match",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "deferred",
-        "last_alert_timestamp": "2025-07-15T08:20:46.851808"
-      }
-    },
-    {
-      "type": "deferred",
-      "alert_timestamp": "2025-07-15T08:20:46.851808",
-      "data": {
-        "event_data": {
-          "EventId": 21756,
-          "EventGuid": "ED692980-47FB-4725-AA65-F1E2F59C4B2A",
-          "EventLastModifiedUtc": "2025-07-09T18:51:38.883",
-          "EventRowVersion": "AAAAAOfaf/M=",
-          "EventBodyId": 5239,
-          "EventBodyName": "Committee on Fire and Emergency Management",
-          "EventDate": "2025-07-14T00:00:00",
-          "EventTime": "12:00 PM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 4,
-          "EventAgendaStatusName": "Deferred",
-          "EventMinutesStatusId": 4,
-          "EventMinutesStatusName": "Deferred",
-          "EventLocation": "Council Chambers - City Hall",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/7/21756_A_Committee_on_Fire_and_Emergency_Management_25-07-14_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-07-09T18:51:38.763",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21756&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": []
-        },
-        "first_seen_timestamp": "2025-07-10T08:20:28.177225",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
-        "last_significant_change_timestamp": "2025-07-15T08:20:46.851808",
-        "current_status": "deferred_pending_match",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "deferred",
-        "last_alert_timestamp": "2025-07-15T08:20:46.851808"
       }
     }
   ],
   "updates_last_30_days": [
     {
       "type": "new",
+      "alert_timestamp": "2025-07-22T08:21:35.813397",
+      "data": {
+        "event_data": {
+          "EventId": 21772,
+          "EventGuid": "0D48A317-B95A-4D66-B529-82083F207E10",
+          "EventLastModifiedUtc": "2025-07-21T18:59:17.187",
+          "EventRowVersion": "AAAAAOfbgCU=",
+          "EventBodyId": 34,
+          "EventBodyName": "Subcommittee on Zoning and Franchises",
+          "EventDate": "2025-08-20T00:00:00",
+          "EventTime": "11:00 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - Committee Room, 16th Floor",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/8/21772_A_Subcommittee_on_Zoning_and_Franchises_25-08-20_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-07-21T18:59:17.067",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21772&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "See Land Use Calendar"
+        },
+        "first_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
+        "last_significant_change_timestamp": "2025-07-22T08:21:35.813397",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": {
+          "original_event_id": "21769",
+          "original_date": "2025-08-12T00:00:00",
+          "original_time": "11:00 AM",
+          "original_status_when_deferred": "Deferred",
+          "match_timestamp": "2025-07-22T08:21:35.813397"
+        },
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added",
+          "newly_added_as_reschedule_target"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-07-22T08:21:35.813397"
+      }
+    },
+    {
+      "type": "deferred",
+      "alert_timestamp": "2025-07-22T08:21:35.813397",
+      "data": {
+        "event_data": {
+          "EventId": 21769,
+          "EventGuid": "34AC5711-157E-4FD5-8D9D-EDCDBCE2A705",
+          "EventLastModifiedUtc": "2025-07-21T19:00:55.827",
+          "EventRowVersion": "AAAAAOfbgD0=",
+          "EventBodyId": 34,
+          "EventBodyName": "Subcommittee on Zoning and Franchises",
+          "EventDate": "2025-08-12T00:00:00",
+          "EventTime": "11:00 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 4,
+          "EventAgendaStatusName": "Deferred",
+          "EventMinutesStatusId": 4,
+          "EventMinutesStatusName": "Deferred",
+          "EventLocation": "250 Broadway - Committee Room, 16th Floor",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/8/21769_A_Subcommittee_on_Zoning_and_Franchises_25-08-12_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-07-21T19:00:55.797",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21769&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": []
+        },
+        "first_seen_timestamp": "2025-07-18T08:20:40.706104",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
+        "last_significant_change_timestamp": "2025-07-22T08:21:35.813397",
+        "current_status": "deferred_rescheduled_internal",
+        "original_event_details_if_rescheduled": {
+          "original_event_id": "21702",
+          "original_date": "2025-07-24T00:00:00",
+          "original_time": "11:00 AM",
+          "original_status_when_deferred": "Deferred",
+          "match_timestamp": "2025-07-18T08:20:40.706104"
+        },
+        "rescheduled_event_details_if_deferred": {
+          "matched_event_id": "21772",
+          "new_date": "2025-08-20T00:00:00",
+          "new_time": "11:00 AM",
+          "new_location": "250 Broadway - Committee Room, 16th Floor",
+          "match_timestamp": "2025-07-22T08:21:35.813397"
+        },
+        "processing_tags": [
+          "became_deferred",
+          "became_rescheduled_match_found_for_original"
+        ],
+        "last_alert_type": "deferred",
+        "last_alert_timestamp": "2025-07-22T08:21:35.813397"
+      }
+    },
+    {
+      "type": "new",
       "alert_timestamp": "2025-07-18T08:20:40.706104",
       "data": {
         "event_data": {
@@ -860,8 +1009,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-07-18T08:20:40.706104",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
         "last_significant_change_timestamp": "2025-07-19T08:18:43.865790",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -902,59 +1051,11 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-07-18T08:20:40.706104",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
         "last_significant_change_timestamp": "2025-07-18T08:20:40.706104",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-07-18T08:20:40.706104"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-07-18T08:20:40.706104",
-      "data": {
-        "event_data": {
-          "EventId": 21769,
-          "EventGuid": "34AC5711-157E-4FD5-8D9D-EDCDBCE2A705",
-          "EventLastModifiedUtc": "2025-07-17T17:54:37.47",
-          "EventRowVersion": "AAAAAOfbLwQ=",
-          "EventBodyId": 34,
-          "EventBodyName": "Subcommittee on Zoning and Franchises",
-          "EventDate": "2025-08-12T00:00:00",
-          "EventTime": "11:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - Committee Room, 16th Floor",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/8/21769_A_Subcommittee_on_Zoning_and_Franchises_25-08-12_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-07-17T17:54:37.353",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21769&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "See Land Use Calendar"
-        },
-        "first_seen_timestamp": "2025-07-18T08:20:40.706104",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
-        "last_significant_change_timestamp": "2025-07-18T08:20:40.706104",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": {
-          "original_event_id": "21702",
-          "original_date": "2025-07-24T00:00:00",
-          "original_time": "11:00 AM",
-          "original_status_when_deferred": "Deferred",
-          "match_timestamp": "2025-07-18T08:20:40.706104"
-        },
         "rescheduled_event_details_if_deferred": null,
         "processing_tags": [],
         "last_alert_type": "new",
@@ -991,8 +1092,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-06-12T08:19:38.458151",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
         "last_significant_change_timestamp": "2025-07-18T08:20:40.706104",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -1039,8 +1140,8 @@
           "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
         },
         "first_seen_timestamp": "2025-07-15T08:20:46.851808",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
         "last_significant_change_timestamp": "2025-07-15T08:20:46.851808",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -1086,8 +1187,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-07-11T08:20:06.320930",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
         "last_significant_change_timestamp": "2025-07-15T08:20:46.851808",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -1127,8 +1228,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-07-10T08:20:28.177225",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
         "last_significant_change_timestamp": "2025-07-15T08:20:46.851808",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -1168,8 +1269,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-06-29T08:17:06.290480",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
         "last_significant_change_timestamp": "2025-07-15T08:20:46.851808",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -1216,8 +1317,8 @@
           "SyntheticMeetingTopic": "Correcting excess pay differentials for paraprofessionals arising from pattern bargaining practices."
         },
         "first_seen_timestamp": "2025-06-29T08:17:06.290480",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
         "last_significant_change_timestamp": "2025-06-29T08:17:06.290480",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1288,6 +1389,7 @@
           "vanished_from_api_while_active",
           "vanished_from_api_while_active",
           "vanished_from_api_while_active",
+          "vanished_from_api_while_active",
           "vanished_from_api_while_active"
         ],
         "last_alert_type": "new",
@@ -1324,8 +1426,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-06-26T08:19:57.884073",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
         "last_significant_change_timestamp": "2025-06-28T08:17:11.967575",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -1365,8 +1467,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-06-05T08:19:40.689684",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
         "last_significant_change_timestamp": "2025-06-25T08:21:00.095596",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": {
@@ -1413,8 +1515,8 @@
           "SyntheticMeetingTopic": "Oversight - The Department of Probation's Organizational Strategy."
         },
         "first_seen_timestamp": "2025-06-24T08:20:29.024387",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
         "last_significant_change_timestamp": "2025-06-24T08:20:29.024387",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -1460,8 +1562,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-05-31T08:17:16.612632",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
+        "last_seen_timestamp": "2025-07-22T08:21:35.813397",
+        "last_processed_timestamp": "2025-07-22T08:21:35.813397",
         "last_significant_change_timestamp": "2025-06-24T08:20:29.024387",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -1476,56 +1578,9 @@
         "last_alert_type": "deferred",
         "last_alert_timestamp": "2025-06-24T08:20:29.024387"
       }
-    },
-    {
-      "type": "deferred",
-      "alert_timestamp": "2025-06-22T08:17:43.019733",
-      "data": {
-        "event_data": {
-          "EventId": 21505,
-          "EventGuid": "EA76A86A-E81B-4616-A38A-647C59CB28FF",
-          "EventLastModifiedUtc": "2025-06-20T13:53:23.97",
-          "EventRowVersion": "AAAAAOfQHOM=",
-          "EventBodyId": 1,
-          "EventBodyName": "City Council",
-          "EventDate": "2025-07-10T00:00:00",
-          "EventTime": "1:30 PM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 4,
-          "EventAgendaStatusName": "Deferred",
-          "EventMinutesStatusId": 4,
-          "EventMinutesStatusName": "Deferred",
-          "EventLocation": "Council Chambers - City Hall",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/7/21505_A_City_Council_25-07-10_Council_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-06-20T13:53:23.937",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21505&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": []
-        },
-        "first_seen_timestamp": "2025-05-28T08:19:27.445523",
-        "last_seen_timestamp": "2025-07-21T08:24:04.676281",
-        "last_processed_timestamp": "2025-07-21T08:24:04.676281",
-        "last_significant_change_timestamp": "2025-06-22T08:17:43.019733",
-        "current_status": "deferred_rescheduled_internal",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": {
-          "matched_event_id": "21713",
-          "new_date": "2025-07-14T00:00:00",
-          "new_time": "1:30 PM",
-          "new_location": "Council Chambers - City Hall",
-          "match_timestamp": "2025-06-22T08:17:43.019733"
-        },
-        "processing_tags": [],
-        "last_alert_type": "deferred",
-        "last_alert_timestamp": "2025-06-22T08:17:43.019733"
-      }
     }
   ],
-  "source_newly_added_ids_count": 0,
-  "source_newly_deferred_ids_count": 0,
-  "source_newly_rescheduled_pairs_count": 0
+  "source_newly_added_ids_count": 1,
+  "source_newly_deferred_ids_count": 1,
+  "source_newly_rescheduled_pairs_count": 1
 }
