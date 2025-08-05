@@ -1,5 +1,5 @@
 {
-  "generation_timestamp": "2025-08-04T08:22:50.868617",
+  "generation_timestamp": "2025-08-05T08:21:53.281786",
   "upcoming_hearings": [
     {
       "event_data": {
@@ -29,8 +29,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-06-12T08:19:38.458151",
-      "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-      "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+      "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+      "last_processed_timestamp": "2025-08-05T08:21:52.209094",
       "last_significant_change_timestamp": "2025-06-12T08:19:38.458151",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -68,8 +68,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-06-18T08:19:57.520137",
-      "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-      "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+      "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+      "last_processed_timestamp": "2025-08-05T08:21:52.209094",
       "last_significant_change_timestamp": "2025-06-18T08:19:57.520137",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -107,8 +107,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-07-18T08:20:40.706104",
-      "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-      "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+      "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+      "last_processed_timestamp": "2025-08-05T08:21:52.209094",
       "last_significant_change_timestamp": "2025-07-18T08:20:40.706104",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -146,8 +146,8 @@
         "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
       },
       "first_seen_timestamp": "2025-07-15T08:20:46.851808",
-      "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-      "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+      "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+      "last_processed_timestamp": "2025-08-05T08:21:52.209094",
       "last_significant_change_timestamp": "2025-07-15T08:20:46.851808",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -193,8 +193,8 @@
         "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
       },
       "first_seen_timestamp": "2025-05-28T08:19:27.445523",
-      "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-      "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+      "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+      "last_processed_timestamp": "2025-08-05T08:21:52.209094",
       "last_significant_change_timestamp": "2025-05-28T08:19:27.445523",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -232,8 +232,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-07-22T08:21:35.813397",
-      "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-      "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+      "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+      "last_processed_timestamp": "2025-08-05T08:21:52.209094",
       "last_significant_change_timestamp": "2025-07-22T08:21:35.813397",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -279,8 +279,8 @@
         "SyntheticMeetingTopic": "Oversight - TLC \u2013 Commuter Vans, For-Hire Vehicles, and Licensing in NYC\u2019s Evolving Transportation Landscape."
       },
       "first_seen_timestamp": "2025-07-30T08:21:15.309768",
-      "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-      "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+      "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+      "last_processed_timestamp": "2025-08-05T08:21:52.209094",
       "last_significant_change_timestamp": "2025-07-30T08:21:15.309768",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -292,13 +292,13 @@
     },
     {
       "event_data": {
-        "EventId": 21507,
-        "EventGuid": "D088905A-C966-4EDF-B683-0B71DFB9E546",
-        "EventLastModifiedUtc": "2025-03-20T15:49:29.58",
-        "EventRowVersion": "AAAAAOe3V7Q=",
+        "EventId": 21783,
+        "EventGuid": "CF60EA0D-98C5-4504-9CE0-668838402A19",
+        "EventLastModifiedUtc": "2025-08-04T19:23:51.923",
+        "EventRowVersion": "AAAAAOfeal4=",
         "EventBodyId": 1,
         "EventBodyName": "City Council",
-        "EventDate": "2025-09-18T00:00:00",
+        "EventDate": "2025-09-17T00:00:00",
         "EventTime": "1:30 PM",
         "EventVideoStatus": "Public",
         "EventAgendaStatusId": 2,
@@ -306,28 +306,32 @@
         "EventMinutesStatusId": 1,
         "EventMinutesStatusName": "Draft",
         "EventLocation": "Council Chambers - City Hall",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21507_A_City_Council_25-09-18_Council_Agenda.pdf",
+        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21783_A_City_Council_25-09-17_Committee_Agenda.pdf",
         "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2025-03-20T15:49:28.597",
+        "EventAgendaLastPublishedUTC": "2025-08-04T19:23:51.887",
         "EventMinutesLastPublishedUTC": null,
         "EventComment": null,
         "EventVideoPath": null,
         "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21507&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21783&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
         "EventItems": [],
-        "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
+        "SyntheticMeetingTopic": null
       },
-      "first_seen_timestamp": "2025-05-28T08:19:27.445523",
-      "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-      "last_processed_timestamp": "2025-08-04T08:22:50.702259",
-      "last_significant_change_timestamp": "2025-05-28T08:19:27.445523",
+      "first_seen_timestamp": "2025-08-05T08:21:52.209094",
+      "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+      "last_processed_timestamp": "2025-08-05T08:21:52.209094",
+      "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
+      "processing_tags": [
+        "newly_added"
+      ],
       "last_alert_type": "new",
-      "last_alert_timestamp": "2025-05-28T08:19:27.445523",
-      "user_facing_tags": []
+      "last_alert_timestamp": "2025-08-05T08:21:52.209094",
+      "user_facing_tags": [
+        "new_hearing_tag"
+      ]
     },
     {
       "event_data": {
@@ -356,8 +360,8 @@
         "EventItems": []
       },
       "first_seen_timestamp": "2025-07-18T08:20:40.706104",
-      "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-      "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+      "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+      "last_processed_timestamp": "2025-08-05T08:21:52.209094",
       "last_significant_change_timestamp": "2025-07-19T08:18:43.865790",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -395,8 +399,8 @@
         "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
       },
       "first_seen_timestamp": "2025-05-28T08:19:27.445523",
-      "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-      "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+      "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+      "last_processed_timestamp": "2025-08-05T08:21:52.209094",
       "last_significant_change_timestamp": "2025-05-28T08:19:27.445523",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -405,6 +409,92 @@
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-05-28T08:19:27.445523",
       "user_facing_tags": []
+    },
+    {
+      "event_data": {
+        "EventId": 21778,
+        "EventGuid": "4BC528B9-1ABF-4D01-9D79-8C520D0DA25E",
+        "EventLastModifiedUtc": "2025-08-04T15:45:02.53",
+        "EventRowVersion": "AAAAAOfeWoo=",
+        "EventBodyId": 15,
+        "EventBodyName": "Committee on Higher Education",
+        "EventDate": "2025-09-30T00:00:00",
+        "EventTime": "1:00 PM",
+        "EventVideoStatus": "Public",
+        "EventAgendaStatusId": 2,
+        "EventAgendaStatusName": "Final",
+        "EventMinutesStatusId": 1,
+        "EventMinutesStatusName": "Draft",
+        "EventLocation": "Council Chambers - City Hall",
+        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21778_A_Committee_on_Higher_Education_25-09-30_Committee_Agenda.pdf",
+        "EventMinutesFile": null,
+        "EventAgendaLastPublishedUTC": "2025-08-04T15:45:02.457",
+        "EventMinutesLastPublishedUTC": null,
+        "EventComment": "Jointly with the Committee on Cultural Affairs, Libraries and International Intergroup Relations.",
+        "EventVideoPath": null,
+        "EventMedia": null,
+        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21778&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+        "EventItems": [],
+        "SyntheticMeetingTopic": "Oversight - Pathways for CUNY Students into the Arts and Cultural Jobs Sector."
+      },
+      "first_seen_timestamp": "2025-08-05T08:21:52.209094",
+      "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+      "last_processed_timestamp": "2025-08-05T08:21:52.209094",
+      "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
+      "current_status": "active",
+      "original_event_details_if_rescheduled": null,
+      "rescheduled_event_details_if_deferred": null,
+      "processing_tags": [
+        "newly_added"
+      ],
+      "last_alert_type": "new",
+      "last_alert_timestamp": "2025-08-05T08:21:52.209094",
+      "user_facing_tags": [
+        "new_hearing_tag"
+      ]
+    },
+    {
+      "event_data": {
+        "EventId": 21779,
+        "EventGuid": "9448C4B1-B567-4ECA-BF55-6CAFCD8ECB41",
+        "EventLastModifiedUtc": "2025-08-04T15:45:37.04",
+        "EventRowVersion": "AAAAAOfeWvM=",
+        "EventBodyId": 5105,
+        "EventBodyName": "Committee on Cultural Affairs, Libraries and International Intergroup Relations",
+        "EventDate": "2025-09-30T00:00:00",
+        "EventTime": "1:00 PM",
+        "EventVideoStatus": "Public",
+        "EventAgendaStatusId": 2,
+        "EventAgendaStatusName": "Final",
+        "EventMinutesStatusId": 1,
+        "EventMinutesStatusName": "Draft",
+        "EventLocation": "Council Chambers - City Hall",
+        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21779_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Intergroup_Relations_25-09-30_Committee_Agenda.pdf",
+        "EventMinutesFile": null,
+        "EventAgendaLastPublishedUTC": "2025-08-04T15:45:36.977",
+        "EventMinutesLastPublishedUTC": null,
+        "EventComment": "Jointly with the Committee on Higher Education",
+        "EventVideoPath": null,
+        "EventMedia": null,
+        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21779&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+        "EventItems": [],
+        "SyntheticMeetingTopic": "Oversight - Pathways for CUNY Students into the Arts and Cultural Jobs Sector."
+      },
+      "first_seen_timestamp": "2025-08-05T08:21:52.209094",
+      "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+      "last_processed_timestamp": "2025-08-05T08:21:52.209094",
+      "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
+      "current_status": "active",
+      "original_event_details_if_rescheduled": null,
+      "rescheduled_event_details_if_deferred": null,
+      "processing_tags": [
+        "newly_added"
+      ],
+      "last_alert_type": "new",
+      "last_alert_timestamp": "2025-08-05T08:21:52.209094",
+      "user_facing_tags": [
+        "new_hearing_tag"
+      ]
     },
     {
       "event_data": {
@@ -478,6 +568,7 @@
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active"
       ],
       "last_alert_type": "new",
@@ -512,8 +603,8 @@
         "SyntheticMeetingTopic": "Correcting excess pay differentials for paraprofessionals arising from pattern bargaining practices."
       },
       "first_seen_timestamp": "2025-06-29T08:17:06.290480",
-      "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-      "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+      "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+      "last_processed_timestamp": "2025-08-05T08:21:52.209094",
       "last_significant_change_timestamp": "2025-06-29T08:17:06.290480",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -524,8 +615,449 @@
       "user_facing_tags": []
     }
   ],
-  "updates_since_last_run": [],
+  "updates_since_last_run": [
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-05T08:21:52.209094",
+      "data": {
+        "event_data": {
+          "EventId": 21778,
+          "EventGuid": "4BC528B9-1ABF-4D01-9D79-8C520D0DA25E",
+          "EventLastModifiedUtc": "2025-08-04T15:45:02.53",
+          "EventRowVersion": "AAAAAOfeWoo=",
+          "EventBodyId": 15,
+          "EventBodyName": "Committee on Higher Education",
+          "EventDate": "2025-09-30T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21778_A_Committee_on_Higher_Education_25-09-30_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-04T15:45:02.457",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on Cultural Affairs, Libraries and International Intergroup Relations.",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21778&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Pathways for CUNY Students into the Arts and Cultural Jobs Sector."
+        },
+        "first_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
+        "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-05T08:21:52.209094"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-05T08:21:52.209094",
+      "data": {
+        "event_data": {
+          "EventId": 21779,
+          "EventGuid": "9448C4B1-B567-4ECA-BF55-6CAFCD8ECB41",
+          "EventLastModifiedUtc": "2025-08-04T15:45:37.04",
+          "EventRowVersion": "AAAAAOfeWvM=",
+          "EventBodyId": 5105,
+          "EventBodyName": "Committee on Cultural Affairs, Libraries and International Intergroup Relations",
+          "EventDate": "2025-09-30T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21779_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Intergroup_Relations_25-09-30_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-04T15:45:36.977",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on Higher Education",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21779&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Pathways for CUNY Students into the Arts and Cultural Jobs Sector."
+        },
+        "first_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
+        "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-05T08:21:52.209094"
+      }
+    },
+    {
+      "type": "deferred",
+      "alert_timestamp": "2025-08-05T08:21:52.209094",
+      "data": {
+        "event_data": {
+          "EventId": 21507,
+          "EventGuid": "D088905A-C966-4EDF-B683-0B71DFB9E546",
+          "EventLastModifiedUtc": "2025-08-04T19:22:29.493",
+          "EventRowVersion": "AAAAAOfeal8=",
+          "EventBodyId": 1,
+          "EventBodyName": "City Council",
+          "EventDate": "2025-09-18T00:00:00",
+          "EventTime": "1:30 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 4,
+          "EventAgendaStatusName": "Deferred",
+          "EventMinutesStatusId": 4,
+          "EventMinutesStatusName": "Deferred",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21507_A_City_Council_25-09-18_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-04T19:22:29.427",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21507&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": []
+        },
+        "first_seen_timestamp": "2025-05-28T08:19:27.445523",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
+        "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
+        "current_status": "deferred_pending_match",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "became_deferred"
+        ],
+        "last_alert_type": "deferred",
+        "last_alert_timestamp": "2025-08-05T08:21:52.209094"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-05T08:21:52.209094",
+      "data": {
+        "event_data": {
+          "EventId": 21783,
+          "EventGuid": "CF60EA0D-98C5-4504-9CE0-668838402A19",
+          "EventLastModifiedUtc": "2025-08-04T19:23:51.923",
+          "EventRowVersion": "AAAAAOfeal4=",
+          "EventBodyId": 1,
+          "EventBodyName": "City Council",
+          "EventDate": "2025-09-17T00:00:00",
+          "EventTime": "1:30 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21783_A_City_Council_25-09-17_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-04T19:23:51.887",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21783&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": null
+        },
+        "first_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
+        "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-05T08:21:52.209094"
+      }
+    },
+    {
+      "type": "deferred",
+      "alert_timestamp": "2025-08-05T08:21:52.209094",
+      "data": {
+        "event_data": {
+          "EventId": 21776,
+          "EventGuid": "DFA7D23C-F0BD-4BC1-81BC-6CDD56C104D3",
+          "EventLastModifiedUtc": "2025-08-04T19:44:05.557",
+          "EventRowVersion": "AAAAAOfeaoE=",
+          "EventBodyId": 5294,
+          "EventBodyName": "Committee on Children and Youth",
+          "EventDate": "2025-09-17T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 4,
+          "EventAgendaStatusName": "Deferred",
+          "EventMinutesStatusId": 4,
+          "EventMinutesStatusName": "Deferred",
+          "EventLocation": "Committee Room - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21776_A_Committee_on_Children_and_Youth_25-09-17_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-04T19:44:05.307",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21776&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Afterschool Expansion and DYCD\u2019s Concept Paper."
+        },
+        "first_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
+        "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
+        "current_status": "deferred_pending_match",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added",
+          "became_deferred_on_first_seen"
+        ],
+        "last_alert_type": "deferred",
+        "last_alert_timestamp": "2025-08-05T08:21:52.209094"
+      }
+    }
+  ],
   "updates_last_7_days": [
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-05T08:21:52.209094",
+      "data": {
+        "event_data": {
+          "EventId": 21778,
+          "EventGuid": "4BC528B9-1ABF-4D01-9D79-8C520D0DA25E",
+          "EventLastModifiedUtc": "2025-08-04T15:45:02.53",
+          "EventRowVersion": "AAAAAOfeWoo=",
+          "EventBodyId": 15,
+          "EventBodyName": "Committee on Higher Education",
+          "EventDate": "2025-09-30T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21778_A_Committee_on_Higher_Education_25-09-30_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-04T15:45:02.457",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on Cultural Affairs, Libraries and International Intergroup Relations.",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21778&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Pathways for CUNY Students into the Arts and Cultural Jobs Sector."
+        },
+        "first_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
+        "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-05T08:21:52.209094"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-05T08:21:52.209094",
+      "data": {
+        "event_data": {
+          "EventId": 21779,
+          "EventGuid": "9448C4B1-B567-4ECA-BF55-6CAFCD8ECB41",
+          "EventLastModifiedUtc": "2025-08-04T15:45:37.04",
+          "EventRowVersion": "AAAAAOfeWvM=",
+          "EventBodyId": 5105,
+          "EventBodyName": "Committee on Cultural Affairs, Libraries and International Intergroup Relations",
+          "EventDate": "2025-09-30T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21779_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Intergroup_Relations_25-09-30_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-04T15:45:36.977",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on Higher Education",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21779&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Pathways for CUNY Students into the Arts and Cultural Jobs Sector."
+        },
+        "first_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
+        "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-05T08:21:52.209094"
+      }
+    },
+    {
+      "type": "deferred",
+      "alert_timestamp": "2025-08-05T08:21:52.209094",
+      "data": {
+        "event_data": {
+          "EventId": 21507,
+          "EventGuid": "D088905A-C966-4EDF-B683-0B71DFB9E546",
+          "EventLastModifiedUtc": "2025-08-04T19:22:29.493",
+          "EventRowVersion": "AAAAAOfeal8=",
+          "EventBodyId": 1,
+          "EventBodyName": "City Council",
+          "EventDate": "2025-09-18T00:00:00",
+          "EventTime": "1:30 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 4,
+          "EventAgendaStatusName": "Deferred",
+          "EventMinutesStatusId": 4,
+          "EventMinutesStatusName": "Deferred",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21507_A_City_Council_25-09-18_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-04T19:22:29.427",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21507&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": []
+        },
+        "first_seen_timestamp": "2025-05-28T08:19:27.445523",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
+        "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
+        "current_status": "deferred_pending_match",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "became_deferred"
+        ],
+        "last_alert_type": "deferred",
+        "last_alert_timestamp": "2025-08-05T08:21:52.209094"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-05T08:21:52.209094",
+      "data": {
+        "event_data": {
+          "EventId": 21783,
+          "EventGuid": "CF60EA0D-98C5-4504-9CE0-668838402A19",
+          "EventLastModifiedUtc": "2025-08-04T19:23:51.923",
+          "EventRowVersion": "AAAAAOfeal4=",
+          "EventBodyId": 1,
+          "EventBodyName": "City Council",
+          "EventDate": "2025-09-17T00:00:00",
+          "EventTime": "1:30 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21783_A_City_Council_25-09-17_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-04T19:23:51.887",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21783&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": null
+        },
+        "first_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
+        "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-05T08:21:52.209094"
+      }
+    },
+    {
+      "type": "deferred",
+      "alert_timestamp": "2025-08-05T08:21:52.209094",
+      "data": {
+        "event_data": {
+          "EventId": 21776,
+          "EventGuid": "DFA7D23C-F0BD-4BC1-81BC-6CDD56C104D3",
+          "EventLastModifiedUtc": "2025-08-04T19:44:05.557",
+          "EventRowVersion": "AAAAAOfeaoE=",
+          "EventBodyId": 5294,
+          "EventBodyName": "Committee on Children and Youth",
+          "EventDate": "2025-09-17T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 4,
+          "EventAgendaStatusName": "Deferred",
+          "EventMinutesStatusId": 4,
+          "EventMinutesStatusName": "Deferred",
+          "EventLocation": "Committee Room - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21776_A_Committee_on_Children_and_Youth_25-09-17_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-04T19:44:05.307",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21776&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Afterschool Expansion and DYCD\u2019s Concept Paper."
+        },
+        "first_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
+        "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
+        "current_status": "deferred_pending_match",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added",
+          "became_deferred_on_first_seen"
+        ],
+        "last_alert_type": "deferred",
+        "last_alert_timestamp": "2025-08-05T08:21:52.209094"
+      }
+    },
     {
       "type": "new",
       "alert_timestamp": "2025-07-30T08:21:15.309768",
@@ -557,8 +1089,8 @@
           "SyntheticMeetingTopic": "Oversight - TLC \u2013 Commuter Vans, For-Hire Vehicles, and Licensing in NYC\u2019s Evolving Transportation Landscape."
         },
         "first_seen_timestamp": "2025-07-30T08:21:15.309768",
-        "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-        "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
         "last_significant_change_timestamp": "2025-07-30T08:21:15.309768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -572,6 +1104,226 @@
   "updates_last_30_days": [
     {
       "type": "new",
+      "alert_timestamp": "2025-08-05T08:21:52.209094",
+      "data": {
+        "event_data": {
+          "EventId": 21778,
+          "EventGuid": "4BC528B9-1ABF-4D01-9D79-8C520D0DA25E",
+          "EventLastModifiedUtc": "2025-08-04T15:45:02.53",
+          "EventRowVersion": "AAAAAOfeWoo=",
+          "EventBodyId": 15,
+          "EventBodyName": "Committee on Higher Education",
+          "EventDate": "2025-09-30T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21778_A_Committee_on_Higher_Education_25-09-30_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-04T15:45:02.457",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on Cultural Affairs, Libraries and International Intergroup Relations.",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21778&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Pathways for CUNY Students into the Arts and Cultural Jobs Sector."
+        },
+        "first_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
+        "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-05T08:21:52.209094"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-05T08:21:52.209094",
+      "data": {
+        "event_data": {
+          "EventId": 21779,
+          "EventGuid": "9448C4B1-B567-4ECA-BF55-6CAFCD8ECB41",
+          "EventLastModifiedUtc": "2025-08-04T15:45:37.04",
+          "EventRowVersion": "AAAAAOfeWvM=",
+          "EventBodyId": 5105,
+          "EventBodyName": "Committee on Cultural Affairs, Libraries and International Intergroup Relations",
+          "EventDate": "2025-09-30T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21779_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Intergroup_Relations_25-09-30_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-04T15:45:36.977",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on Higher Education",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21779&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Pathways for CUNY Students into the Arts and Cultural Jobs Sector."
+        },
+        "first_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
+        "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-05T08:21:52.209094"
+      }
+    },
+    {
+      "type": "deferred",
+      "alert_timestamp": "2025-08-05T08:21:52.209094",
+      "data": {
+        "event_data": {
+          "EventId": 21507,
+          "EventGuid": "D088905A-C966-4EDF-B683-0B71DFB9E546",
+          "EventLastModifiedUtc": "2025-08-04T19:22:29.493",
+          "EventRowVersion": "AAAAAOfeal8=",
+          "EventBodyId": 1,
+          "EventBodyName": "City Council",
+          "EventDate": "2025-09-18T00:00:00",
+          "EventTime": "1:30 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 4,
+          "EventAgendaStatusName": "Deferred",
+          "EventMinutesStatusId": 4,
+          "EventMinutesStatusName": "Deferred",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21507_A_City_Council_25-09-18_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-04T19:22:29.427",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21507&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": []
+        },
+        "first_seen_timestamp": "2025-05-28T08:19:27.445523",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
+        "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
+        "current_status": "deferred_pending_match",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "became_deferred"
+        ],
+        "last_alert_type": "deferred",
+        "last_alert_timestamp": "2025-08-05T08:21:52.209094"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-05T08:21:52.209094",
+      "data": {
+        "event_data": {
+          "EventId": 21783,
+          "EventGuid": "CF60EA0D-98C5-4504-9CE0-668838402A19",
+          "EventLastModifiedUtc": "2025-08-04T19:23:51.923",
+          "EventRowVersion": "AAAAAOfeal4=",
+          "EventBodyId": 1,
+          "EventBodyName": "City Council",
+          "EventDate": "2025-09-17T00:00:00",
+          "EventTime": "1:30 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21783_A_City_Council_25-09-17_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-04T19:23:51.887",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21783&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": null
+        },
+        "first_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
+        "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-05T08:21:52.209094"
+      }
+    },
+    {
+      "type": "deferred",
+      "alert_timestamp": "2025-08-05T08:21:52.209094",
+      "data": {
+        "event_data": {
+          "EventId": 21776,
+          "EventGuid": "DFA7D23C-F0BD-4BC1-81BC-6CDD56C104D3",
+          "EventLastModifiedUtc": "2025-08-04T19:44:05.557",
+          "EventRowVersion": "AAAAAOfeaoE=",
+          "EventBodyId": 5294,
+          "EventBodyName": "Committee on Children and Youth",
+          "EventDate": "2025-09-17T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 4,
+          "EventAgendaStatusName": "Deferred",
+          "EventMinutesStatusId": 4,
+          "EventMinutesStatusName": "Deferred",
+          "EventLocation": "Committee Room - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21776_A_Committee_on_Children_and_Youth_25-09-17_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-04T19:44:05.307",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21776&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Afterschool Expansion and DYCD\u2019s Concept Paper."
+        },
+        "first_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
+        "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
+        "current_status": "deferred_pending_match",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added",
+          "became_deferred_on_first_seen"
+        ],
+        "last_alert_type": "deferred",
+        "last_alert_timestamp": "2025-08-05T08:21:52.209094"
+      }
+    },
+    {
+      "type": "new",
       "alert_timestamp": "2025-07-30T08:21:15.309768",
       "data": {
         "event_data": {
@@ -601,8 +1353,8 @@
           "SyntheticMeetingTopic": "Oversight - TLC \u2013 Commuter Vans, For-Hire Vehicles, and Licensing in NYC\u2019s Evolving Transportation Landscape."
         },
         "first_seen_timestamp": "2025-07-30T08:21:15.309768",
-        "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-        "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
         "last_significant_change_timestamp": "2025-07-30T08:21:15.309768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -643,8 +1395,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-07-22T08:21:35.813397",
-        "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-        "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
         "last_significant_change_timestamp": "2025-07-22T08:21:35.813397",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -690,8 +1442,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-07-18T08:20:40.706104",
-        "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-        "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
         "last_significant_change_timestamp": "2025-07-22T08:21:35.813397",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": {
@@ -743,8 +1495,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-07-18T08:20:40.706104",
-        "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-        "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
         "last_significant_change_timestamp": "2025-07-19T08:18:43.865790",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -785,8 +1537,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-07-18T08:20:40.706104",
-        "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-        "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
         "last_significant_change_timestamp": "2025-07-18T08:20:40.706104",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -826,8 +1578,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-06-12T08:19:38.458151",
-        "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-        "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
         "last_significant_change_timestamp": "2025-07-18T08:20:40.706104",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -874,8 +1626,8 @@
           "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
         },
         "first_seen_timestamp": "2025-07-15T08:20:46.851808",
-        "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-        "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
         "last_significant_change_timestamp": "2025-07-15T08:20:46.851808",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -921,8 +1673,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-07-11T08:20:06.320930",
-        "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-        "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
         "last_significant_change_timestamp": "2025-07-15T08:20:46.851808",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -962,8 +1714,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-07-10T08:20:28.177225",
-        "last_seen_timestamp": "2025-08-04T08:22:50.702259",
-        "last_processed_timestamp": "2025-08-04T08:22:50.702259",
+        "last_seen_timestamp": "2025-08-05T08:21:52.209094",
+        "last_processed_timestamp": "2025-08-05T08:21:52.209094",
         "last_significant_change_timestamp": "2025-07-15T08:20:46.851808",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -974,7 +1726,7 @@
       }
     }
   ],
-  "source_newly_added_ids_count": 0,
-  "source_newly_deferred_ids_count": 0,
+  "source_newly_added_ids_count": 4,
+  "source_newly_deferred_ids_count": 2,
   "source_newly_rescheduled_pairs_count": 0
 }
