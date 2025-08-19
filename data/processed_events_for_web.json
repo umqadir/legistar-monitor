@@ -1,5 +1,5 @@
 {
-  "generation_timestamp": "2025-08-18T08:21:59.921407",
+  "generation_timestamp": "2025-08-19T08:19:38.659826",
   "upcoming_hearings": [
     {
       "event_data": {
@@ -29,8 +29,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-07-22T08:21:35.813397",
-      "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-      "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
       "last_significant_change_timestamp": "2025-07-22T08:21:35.813397",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -76,8 +76,8 @@
         "SyntheticMeetingTopic": "Oversight - Legionnaires\u2019 Disease, Cooling Tower Inspections, and Keeping New Yorkers Safe."
       },
       "first_seen_timestamp": "2025-08-13T08:20:16.767971",
-      "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-      "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
       "last_significant_change_timestamp": "2025-08-13T08:20:16.767971",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -91,12 +91,12 @@
       "event_data": {
         "EventId": 21784,
         "EventGuid": "09124597-C77E-4273-977E-D7B0ED21702A",
-        "EventLastModifiedUtc": "2025-08-07T16:49:23.19",
-        "EventRowVersion": "AAAAAOfevHY=",
+        "EventLastModifiedUtc": "2025-08-18T18:00:48.413",
+        "EventRowVersion": "AAAAAOfgRns=",
         "EventBodyId": 34,
         "EventBodyName": "Subcommittee on Zoning and Franchises",
         "EventDate": "2025-09-09T00:00:00",
-        "EventTime": "11:00 AM",
+        "EventTime": "10:00 AM",
         "EventVideoStatus": "Public",
         "EventAgendaStatusId": 2,
         "EventAgendaStatusName": "Final",
@@ -105,23 +105,24 @@
         "EventLocation": "Council Chambers - City Hall",
         "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21784_A_Subcommittee_on_Zoning_and_Franchises_25-09-09_Committee_Agenda.pdf",
         "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2025-08-07T16:49:23.097",
+        "EventAgendaLastPublishedUTC": "2025-08-18T18:00:48.3",
         "EventMinutesLastPublishedUTC": null,
         "EventComment": null,
         "EventVideoPath": null,
         "EventMedia": null,
         "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21784&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "See Land Use Calendar"
+        "EventItems": []
       },
       "first_seen_timestamp": "2025-08-09T08:18:12.069860",
-      "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-      "last_processed_timestamp": "2025-08-18T08:21:59.869859",
-      "last_significant_change_timestamp": "2025-08-09T08:18:12.069860",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
+      "last_significant_change_timestamp": "2025-08-19T08:19:37.207856",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
+      "processing_tags": [
+        "data_changed"
+      ],
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-08-09T08:18:12.069860",
       "user_facing_tags": []
@@ -154,8 +155,8 @@
         "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
       },
       "first_seen_timestamp": "2025-08-14T08:20:41.387346",
-      "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-      "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
       "last_significant_change_timestamp": "2025-08-14T08:20:41.387346",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -193,8 +194,8 @@
         "SyntheticMeetingTopic": "Agenda - 1:30pm"
       },
       "first_seen_timestamp": "2025-08-14T08:20:41.387346",
-      "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-      "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
       "last_significant_change_timestamp": "2025-08-14T08:20:41.387346",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -232,8 +233,8 @@
         "SyntheticMeetingTopic": "Oversight - TLC \u2013 Commuter Vans, For-Hire Vehicles, and Licensing in NYC\u2019s Evolving Transportation Landscape."
       },
       "first_seen_timestamp": "2025-07-30T08:21:15.309768",
-      "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-      "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
       "last_significant_change_timestamp": "2025-07-30T08:21:15.309768",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -271,8 +272,8 @@
         "SyntheticMeetingTopic": "Oversight - Fire Safety and Permitting Approval for Community Energy Storage Facilities."
       },
       "first_seen_timestamp": "2025-08-07T08:21:29.658767",
-      "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-      "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
       "last_significant_change_timestamp": "2025-08-07T08:21:29.658767",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -281,6 +282,135 @@
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-08-07T08:21:29.658767",
       "user_facing_tags": []
+    },
+    {
+      "event_data": {
+        "EventId": 21780,
+        "EventGuid": "B1462CA4-7873-4A7C-A1F6-B1C95ED85774",
+        "EventLastModifiedUtc": "2025-08-18T15:32:25.983",
+        "EventRowVersion": "AAAAAOfgRMQ=",
+        "EventBodyId": 12,
+        "EventBodyName": "Committee on General Welfare",
+        "EventDate": "2025-09-15T00:00:00",
+        "EventTime": "1:00 PM",
+        "EventVideoStatus": "Public",
+        "EventAgendaStatusId": 2,
+        "EventAgendaStatusName": "Final",
+        "EventMinutesStatusId": 1,
+        "EventMinutesStatusName": "Draft",
+        "EventLocation": "Council Chambers - City Hall",
+        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21780_A_Committee_on_General_Welfare_25-09-15_Committee_Agenda.pdf",
+        "EventMinutesFile": null,
+        "EventAgendaLastPublishedUTC": "2025-08-18T15:32:25.92",
+        "EventMinutesLastPublishedUTC": null,
+        "EventComment": "Jointly with the Committee on Governmental Operations, State & Federal Legislation and the Committee on Hospitals",
+        "EventVideoPath": null,
+        "EventMedia": null,
+        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21780&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+        "EventItems": [],
+        "SyntheticMeetingTopic": "Oversight - The Impacts of Federal Budget Cuts."
+      },
+      "first_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
+      "last_significant_change_timestamp": "2025-08-19T08:19:37.207856",
+      "current_status": "active",
+      "original_event_details_if_rescheduled": null,
+      "rescheduled_event_details_if_deferred": null,
+      "processing_tags": [
+        "newly_added"
+      ],
+      "last_alert_type": "new",
+      "last_alert_timestamp": "2025-08-19T08:19:37.207856",
+      "user_facing_tags": [
+        "new_hearing_tag"
+      ]
+    },
+    {
+      "event_data": {
+        "EventId": 21781,
+        "EventGuid": "569A0844-6A7B-4668-85B4-332596C0B083",
+        "EventLastModifiedUtc": "2025-08-18T15:33:54.413",
+        "EventRowVersion": "AAAAAOfgROQ=",
+        "EventBodyId": 5293,
+        "EventBodyName": "Committee on Governmental Operations, State & Federal Legislation",
+        "EventDate": "2025-09-15T00:00:00",
+        "EventTime": "1:00 PM",
+        "EventVideoStatus": "Public",
+        "EventAgendaStatusId": 2,
+        "EventAgendaStatusName": "Final",
+        "EventMinutesStatusId": 1,
+        "EventMinutesStatusName": "Draft",
+        "EventLocation": "Council Chambers - City Hall",
+        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21781_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_25-09-15_Committee_Agenda.pdf",
+        "EventMinutesFile": null,
+        "EventAgendaLastPublishedUTC": "2025-08-18T15:33:54.08",
+        "EventMinutesLastPublishedUTC": null,
+        "EventComment": "Jointly with the Committee on General Welfare and the Committee on Hospitals.",
+        "EventVideoPath": null,
+        "EventMedia": null,
+        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21781&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+        "EventItems": [],
+        "SyntheticMeetingTopic": "Oversight - The Impacts of Federal Budget Cuts."
+      },
+      "first_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
+      "last_significant_change_timestamp": "2025-08-19T08:19:37.207856",
+      "current_status": "active",
+      "original_event_details_if_rescheduled": null,
+      "rescheduled_event_details_if_deferred": null,
+      "processing_tags": [
+        "newly_added"
+      ],
+      "last_alert_type": "new",
+      "last_alert_timestamp": "2025-08-19T08:19:37.207856",
+      "user_facing_tags": [
+        "new_hearing_tag"
+      ]
+    },
+    {
+      "event_data": {
+        "EventId": 21782,
+        "EventGuid": "D7D26F4A-D60E-434E-9B0C-9E04C3A3C9FE",
+        "EventLastModifiedUtc": "2025-08-18T15:31:47.19",
+        "EventRowVersion": "AAAAAOfgRJk=",
+        "EventBodyId": 5241,
+        "EventBodyName": "Committee on Hospitals",
+        "EventDate": "2025-09-15T00:00:00",
+        "EventTime": "1:00 PM",
+        "EventVideoStatus": "Public",
+        "EventAgendaStatusId": 2,
+        "EventAgendaStatusName": "Final",
+        "EventMinutesStatusId": 1,
+        "EventMinutesStatusName": "Draft",
+        "EventLocation": "Council Chambers - City Hall",
+        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21782_A_Committee_on_Hospitals_25-09-15_Committee_Agenda.pdf",
+        "EventMinutesFile": null,
+        "EventAgendaLastPublishedUTC": "2025-08-18T15:31:47.077",
+        "EventMinutesLastPublishedUTC": null,
+        "EventComment": "Jointly with the Committee on General Welfare and the Committee on Governmental Operations, State & Federal Legislation",
+        "EventVideoPath": null,
+        "EventMedia": null,
+        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21782&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+        "EventItems": [],
+        "SyntheticMeetingTopic": "Oversight - The Impacts of Federal Budget Cuts."
+      },
+      "first_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
+      "last_significant_change_timestamp": "2025-08-19T08:19:37.207856",
+      "current_status": "active",
+      "original_event_details_if_rescheduled": null,
+      "rescheduled_event_details_if_deferred": null,
+      "processing_tags": [
+        "newly_added"
+      ],
+      "last_alert_type": "new",
+      "last_alert_timestamp": "2025-08-19T08:19:37.207856",
+      "user_facing_tags": [
+        "new_hearing_tag"
+      ]
     },
     {
       "event_data": {
@@ -310,8 +440,8 @@
         "SyntheticMeetingTopic": "Oversight - Addressing the Mental Health Needs of Immigrants in NYC."
       },
       "first_seen_timestamp": "2025-08-12T08:20:08.697711",
-      "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-      "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
       "last_significant_change_timestamp": "2025-08-12T08:20:08.697711",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -349,8 +479,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-08-15T08:20:00.743854",
-      "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-      "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
       "last_significant_change_timestamp": "2025-08-15T08:20:00.743854",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -388,8 +518,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-08-15T08:20:00.743854",
-      "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-      "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
       "last_significant_change_timestamp": "2025-08-15T08:20:00.743854",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -427,8 +557,8 @@
         "SyntheticMeetingTopic": "Oversight - Afterschool Expansion and DYCD\u2019s Concept Paper."
       },
       "first_seen_timestamp": "2025-08-06T08:21:40.655498",
-      "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-      "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
       "last_significant_change_timestamp": "2025-08-06T08:21:40.655498",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -474,8 +604,8 @@
         "SyntheticMeetingTopic": "Oversight - NYPD Officer Discipline and the Civilian Complaint Review Board."
       },
       "first_seen_timestamp": "2025-08-13T08:20:16.767971",
-      "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-      "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
       "last_significant_change_timestamp": "2025-08-13T08:20:16.767971",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -512,8 +642,8 @@
         "EventItems": []
       },
       "first_seen_timestamp": "2025-07-18T08:20:40.706104",
-      "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-      "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
       "last_significant_change_timestamp": "2025-07-19T08:18:43.865790",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -551,8 +681,8 @@
         "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
       },
       "first_seen_timestamp": "2025-05-28T08:19:27.445523",
-      "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-      "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
       "last_significant_change_timestamp": "2025-05-28T08:19:27.445523",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -590,8 +720,8 @@
         "SyntheticMeetingTopic": "Oversight - Pathways for CUNY Students into the Arts and Cultural Jobs Sector."
       },
       "first_seen_timestamp": "2025-08-05T08:21:52.209094",
-      "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-      "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
       "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -629,8 +759,8 @@
         "SyntheticMeetingTopic": "Oversight - Pathways for CUNY Students into the Arts and Cultural Jobs Sector."
       },
       "first_seen_timestamp": "2025-08-05T08:21:52.209094",
-      "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-      "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
       "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -639,6 +769,49 @@
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-08-05T08:21:52.209094",
       "user_facing_tags": []
+    },
+    {
+      "event_data": {
+        "EventId": 21817,
+        "EventGuid": "043EE80A-5759-444F-83DB-16C2394F679E",
+        "EventLastModifiedUtc": "2025-08-18T18:49:51.887",
+        "EventRowVersion": "AAAAAOfgRx8=",
+        "EventBodyId": 9,
+        "EventBodyName": "Committee on Education",
+        "EventDate": "2025-09-30T00:00:00",
+        "EventTime": "1:00 PM",
+        "EventVideoStatus": "Public",
+        "EventAgendaStatusId": 2,
+        "EventAgendaStatusName": "Final",
+        "EventMinutesStatusId": 1,
+        "EventMinutesStatusName": "Draft",
+        "EventLocation": "Committee Room - City Hall",
+        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21817_A_Committee_on_Education_25-09-30_Committee_Agenda.pdf",
+        "EventMinutesFile": null,
+        "EventAgendaLastPublishedUTC": "2025-08-18T18:49:51.723",
+        "EventMinutesLastPublishedUTC": null,
+        "EventComment": null,
+        "EventVideoPath": null,
+        "EventMedia": null,
+        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21817&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+        "EventItems": [],
+        "SyntheticMeetingTopic": "Oversight - Language Access in NYC Public Schools."
+      },
+      "first_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
+      "last_significant_change_timestamp": "2025-08-19T08:19:37.207856",
+      "current_status": "active",
+      "original_event_details_if_rescheduled": null,
+      "rescheduled_event_details_if_deferred": null,
+      "processing_tags": [
+        "newly_added"
+      ],
+      "last_alert_type": "new",
+      "last_alert_timestamp": "2025-08-19T08:19:37.207856",
+      "user_facing_tags": [
+        "new_hearing_tag"
+      ]
     },
     {
       "event_data": {
@@ -668,8 +841,8 @@
         "SyntheticMeetingTopic": "Oversight - Maintaining, Greening, and Enhancing the City\u2019s Sidewalks, Medians, and Streetscapes."
       },
       "first_seen_timestamp": "2025-08-07T08:21:29.658767",
-      "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-      "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
       "last_significant_change_timestamp": "2025-08-07T08:21:29.658767",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -764,6 +937,7 @@
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active"
       ],
       "last_alert_type": "new",
@@ -798,8 +972,8 @@
         "SyntheticMeetingTopic": "Correcting excess pay differentials for paraprofessionals arising from pattern bargaining practices."
       },
       "first_seen_timestamp": "2025-06-29T08:17:06.290480",
-      "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-      "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+      "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+      "last_processed_timestamp": "2025-08-19T08:19:37.207856",
       "last_significant_change_timestamp": "2025-06-29T08:17:06.290480",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -810,8 +984,361 @@
       "user_facing_tags": []
     }
   ],
-  "updates_since_last_run": [],
+  "updates_since_last_run": [
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-19T08:19:37.207856",
+      "data": {
+        "event_data": {
+          "EventId": 21817,
+          "EventGuid": "043EE80A-5759-444F-83DB-16C2394F679E",
+          "EventLastModifiedUtc": "2025-08-18T18:49:51.887",
+          "EventRowVersion": "AAAAAOfgRx8=",
+          "EventBodyId": 9,
+          "EventBodyName": "Committee on Education",
+          "EventDate": "2025-09-30T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Committee Room - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21817_A_Committee_on_Education_25-09-30_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-18T18:49:51.723",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21817&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Language Access in NYC Public Schools."
+        },
+        "first_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
+        "last_significant_change_timestamp": "2025-08-19T08:19:37.207856",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-19T08:19:37.207856"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-19T08:19:37.207856",
+      "data": {
+        "event_data": {
+          "EventId": 21780,
+          "EventGuid": "B1462CA4-7873-4A7C-A1F6-B1C95ED85774",
+          "EventLastModifiedUtc": "2025-08-18T15:32:25.983",
+          "EventRowVersion": "AAAAAOfgRMQ=",
+          "EventBodyId": 12,
+          "EventBodyName": "Committee on General Welfare",
+          "EventDate": "2025-09-15T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21780_A_Committee_on_General_Welfare_25-09-15_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-18T15:32:25.92",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on Governmental Operations, State & Federal Legislation and the Committee on Hospitals",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21780&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - The Impacts of Federal Budget Cuts."
+        },
+        "first_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
+        "last_significant_change_timestamp": "2025-08-19T08:19:37.207856",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-19T08:19:37.207856"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-19T08:19:37.207856",
+      "data": {
+        "event_data": {
+          "EventId": 21781,
+          "EventGuid": "569A0844-6A7B-4668-85B4-332596C0B083",
+          "EventLastModifiedUtc": "2025-08-18T15:33:54.413",
+          "EventRowVersion": "AAAAAOfgROQ=",
+          "EventBodyId": 5293,
+          "EventBodyName": "Committee on Governmental Operations, State & Federal Legislation",
+          "EventDate": "2025-09-15T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21781_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_25-09-15_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-18T15:33:54.08",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on General Welfare and the Committee on Hospitals.",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21781&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - The Impacts of Federal Budget Cuts."
+        },
+        "first_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
+        "last_significant_change_timestamp": "2025-08-19T08:19:37.207856",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-19T08:19:37.207856"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-19T08:19:37.207856",
+      "data": {
+        "event_data": {
+          "EventId": 21782,
+          "EventGuid": "D7D26F4A-D60E-434E-9B0C-9E04C3A3C9FE",
+          "EventLastModifiedUtc": "2025-08-18T15:31:47.19",
+          "EventRowVersion": "AAAAAOfgRJk=",
+          "EventBodyId": 5241,
+          "EventBodyName": "Committee on Hospitals",
+          "EventDate": "2025-09-15T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21782_A_Committee_on_Hospitals_25-09-15_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-18T15:31:47.077",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on General Welfare and the Committee on Governmental Operations, State & Federal Legislation",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21782&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - The Impacts of Federal Budget Cuts."
+        },
+        "first_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
+        "last_significant_change_timestamp": "2025-08-19T08:19:37.207856",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-19T08:19:37.207856"
+      }
+    }
+  ],
   "updates_last_7_days": [
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-19T08:19:37.207856",
+      "data": {
+        "event_data": {
+          "EventId": 21817,
+          "EventGuid": "043EE80A-5759-444F-83DB-16C2394F679E",
+          "EventLastModifiedUtc": "2025-08-18T18:49:51.887",
+          "EventRowVersion": "AAAAAOfgRx8=",
+          "EventBodyId": 9,
+          "EventBodyName": "Committee on Education",
+          "EventDate": "2025-09-30T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Committee Room - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21817_A_Committee_on_Education_25-09-30_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-18T18:49:51.723",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21817&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Language Access in NYC Public Schools."
+        },
+        "first_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
+        "last_significant_change_timestamp": "2025-08-19T08:19:37.207856",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-19T08:19:37.207856"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-19T08:19:37.207856",
+      "data": {
+        "event_data": {
+          "EventId": 21780,
+          "EventGuid": "B1462CA4-7873-4A7C-A1F6-B1C95ED85774",
+          "EventLastModifiedUtc": "2025-08-18T15:32:25.983",
+          "EventRowVersion": "AAAAAOfgRMQ=",
+          "EventBodyId": 12,
+          "EventBodyName": "Committee on General Welfare",
+          "EventDate": "2025-09-15T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21780_A_Committee_on_General_Welfare_25-09-15_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-18T15:32:25.92",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on Governmental Operations, State & Federal Legislation and the Committee on Hospitals",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21780&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - The Impacts of Federal Budget Cuts."
+        },
+        "first_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
+        "last_significant_change_timestamp": "2025-08-19T08:19:37.207856",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-19T08:19:37.207856"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-19T08:19:37.207856",
+      "data": {
+        "event_data": {
+          "EventId": 21781,
+          "EventGuid": "569A0844-6A7B-4668-85B4-332596C0B083",
+          "EventLastModifiedUtc": "2025-08-18T15:33:54.413",
+          "EventRowVersion": "AAAAAOfgROQ=",
+          "EventBodyId": 5293,
+          "EventBodyName": "Committee on Governmental Operations, State & Federal Legislation",
+          "EventDate": "2025-09-15T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21781_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_25-09-15_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-18T15:33:54.08",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on General Welfare and the Committee on Hospitals.",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21781&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - The Impacts of Federal Budget Cuts."
+        },
+        "first_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
+        "last_significant_change_timestamp": "2025-08-19T08:19:37.207856",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-19T08:19:37.207856"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-19T08:19:37.207856",
+      "data": {
+        "event_data": {
+          "EventId": 21782,
+          "EventGuid": "D7D26F4A-D60E-434E-9B0C-9E04C3A3C9FE",
+          "EventLastModifiedUtc": "2025-08-18T15:31:47.19",
+          "EventRowVersion": "AAAAAOfgRJk=",
+          "EventBodyId": 5241,
+          "EventBodyName": "Committee on Hospitals",
+          "EventDate": "2025-09-15T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21782_A_Committee_on_Hospitals_25-09-15_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-18T15:31:47.077",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on General Welfare and the Committee on Governmental Operations, State & Federal Legislation",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21782&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - The Impacts of Federal Budget Cuts."
+        },
+        "first_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
+        "last_significant_change_timestamp": "2025-08-19T08:19:37.207856",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-19T08:19:37.207856"
+      }
+    },
     {
       "type": "new",
       "alert_timestamp": "2025-08-15T08:20:00.743854",
@@ -843,8 +1370,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-08-15T08:20:00.743854",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-15T08:20:00.743854",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -885,8 +1412,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-08-15T08:20:00.743854",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-15T08:20:00.743854",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -926,8 +1453,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-08-12T08:20:08.697711",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-15T08:20:00.743854",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": {
@@ -973,8 +1500,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-08-05T08:21:52.209094",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-14T08:20:41.387346",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -1015,8 +1542,8 @@
           "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
         },
         "first_seen_timestamp": "2025-08-14T08:20:41.387346",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-14T08:20:41.387346",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -1057,8 +1584,8 @@
           "SyntheticMeetingTopic": "Agenda - 1:30pm"
         },
         "first_seen_timestamp": "2025-08-14T08:20:41.387346",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-14T08:20:41.387346",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1099,8 +1626,8 @@
           "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
         },
         "first_seen_timestamp": "2025-08-14T08:20:41.387346",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-14T08:20:41.387346",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1140,8 +1667,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-08-09T08:18:12.069860",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-13T08:20:16.767971",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -1182,8 +1709,8 @@
           "SyntheticMeetingTopic": "Oversight - NYPD Officer Discipline and the Civilian Complaint Review Board."
         },
         "first_seen_timestamp": "2025-08-13T08:20:16.767971",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-13T08:20:16.767971",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1224,8 +1751,8 @@
           "SyntheticMeetingTopic": "Oversight - Legionnaires\u2019 Disease, Cooling Tower Inspections, and Keeping New Yorkers Safe."
         },
         "first_seen_timestamp": "2025-08-13T08:20:16.767971",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-13T08:20:16.767971",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1266,8 +1793,8 @@
           "SyntheticMeetingTopic": "Oversight - Addressing the Mental Health Needs of Immigrants in NYC."
         },
         "first_seen_timestamp": "2025-08-12T08:20:08.697711",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-12T08:20:08.697711",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1281,6 +1808,182 @@
   "updates_last_30_days": [
     {
       "type": "new",
+      "alert_timestamp": "2025-08-19T08:19:37.207856",
+      "data": {
+        "event_data": {
+          "EventId": 21817,
+          "EventGuid": "043EE80A-5759-444F-83DB-16C2394F679E",
+          "EventLastModifiedUtc": "2025-08-18T18:49:51.887",
+          "EventRowVersion": "AAAAAOfgRx8=",
+          "EventBodyId": 9,
+          "EventBodyName": "Committee on Education",
+          "EventDate": "2025-09-30T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Committee Room - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21817_A_Committee_on_Education_25-09-30_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-18T18:49:51.723",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21817&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Language Access in NYC Public Schools."
+        },
+        "first_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
+        "last_significant_change_timestamp": "2025-08-19T08:19:37.207856",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-19T08:19:37.207856"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-19T08:19:37.207856",
+      "data": {
+        "event_data": {
+          "EventId": 21780,
+          "EventGuid": "B1462CA4-7873-4A7C-A1F6-B1C95ED85774",
+          "EventLastModifiedUtc": "2025-08-18T15:32:25.983",
+          "EventRowVersion": "AAAAAOfgRMQ=",
+          "EventBodyId": 12,
+          "EventBodyName": "Committee on General Welfare",
+          "EventDate": "2025-09-15T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21780_A_Committee_on_General_Welfare_25-09-15_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-18T15:32:25.92",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on Governmental Operations, State & Federal Legislation and the Committee on Hospitals",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21780&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - The Impacts of Federal Budget Cuts."
+        },
+        "first_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
+        "last_significant_change_timestamp": "2025-08-19T08:19:37.207856",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-19T08:19:37.207856"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-19T08:19:37.207856",
+      "data": {
+        "event_data": {
+          "EventId": 21781,
+          "EventGuid": "569A0844-6A7B-4668-85B4-332596C0B083",
+          "EventLastModifiedUtc": "2025-08-18T15:33:54.413",
+          "EventRowVersion": "AAAAAOfgROQ=",
+          "EventBodyId": 5293,
+          "EventBodyName": "Committee on Governmental Operations, State & Federal Legislation",
+          "EventDate": "2025-09-15T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21781_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_25-09-15_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-18T15:33:54.08",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on General Welfare and the Committee on Hospitals.",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21781&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - The Impacts of Federal Budget Cuts."
+        },
+        "first_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
+        "last_significant_change_timestamp": "2025-08-19T08:19:37.207856",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-19T08:19:37.207856"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-08-19T08:19:37.207856",
+      "data": {
+        "event_data": {
+          "EventId": 21782,
+          "EventGuid": "D7D26F4A-D60E-434E-9B0C-9E04C3A3C9FE",
+          "EventLastModifiedUtc": "2025-08-18T15:31:47.19",
+          "EventRowVersion": "AAAAAOfgRJk=",
+          "EventBodyId": 5241,
+          "EventBodyName": "Committee on Hospitals",
+          "EventDate": "2025-09-15T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21782_A_Committee_on_Hospitals_25-09-15_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-08-18T15:31:47.077",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on General Welfare and the Committee on Governmental Operations, State & Federal Legislation",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21782&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - The Impacts of Federal Budget Cuts."
+        },
+        "first_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
+        "last_significant_change_timestamp": "2025-08-19T08:19:37.207856",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-08-19T08:19:37.207856"
+      }
+    },
+    {
+      "type": "new",
       "alert_timestamp": "2025-08-15T08:20:00.743854",
       "data": {
         "event_data": {
@@ -1310,8 +2013,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-08-15T08:20:00.743854",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-15T08:20:00.743854",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1352,8 +2055,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-08-15T08:20:00.743854",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-15T08:20:00.743854",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1393,8 +2096,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-08-12T08:20:08.697711",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-15T08:20:00.743854",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": {
@@ -1440,8 +2143,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-08-05T08:21:52.209094",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-14T08:20:41.387346",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -1482,8 +2185,8 @@
           "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
         },
         "first_seen_timestamp": "2025-08-14T08:20:41.387346",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-14T08:20:41.387346",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -1524,8 +2227,8 @@
           "SyntheticMeetingTopic": "Agenda - 1:30pm"
         },
         "first_seen_timestamp": "2025-08-14T08:20:41.387346",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-14T08:20:41.387346",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1566,8 +2269,8 @@
           "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
         },
         "first_seen_timestamp": "2025-08-14T08:20:41.387346",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-14T08:20:41.387346",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1607,8 +2310,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-08-09T08:18:12.069860",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-13T08:20:16.767971",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -1649,8 +2352,8 @@
           "SyntheticMeetingTopic": "Oversight - NYPD Officer Discipline and the Civilian Complaint Review Board."
         },
         "first_seen_timestamp": "2025-08-13T08:20:16.767971",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-13T08:20:16.767971",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1691,8 +2394,8 @@
           "SyntheticMeetingTopic": "Oversight - Legionnaires\u2019 Disease, Cooling Tower Inspections, and Keeping New Yorkers Safe."
         },
         "first_seen_timestamp": "2025-08-13T08:20:16.767971",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-13T08:20:16.767971",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1733,8 +2436,8 @@
           "SyntheticMeetingTopic": "Oversight - Addressing the Mental Health Needs of Immigrants in NYC."
         },
         "first_seen_timestamp": "2025-08-12T08:20:08.697711",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-12T08:20:08.697711",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1751,12 +2454,12 @@
         "event_data": {
           "EventId": 21784,
           "EventGuid": "09124597-C77E-4273-977E-D7B0ED21702A",
-          "EventLastModifiedUtc": "2025-08-07T16:49:23.19",
-          "EventRowVersion": "AAAAAOfevHY=",
+          "EventLastModifiedUtc": "2025-08-18T18:00:48.413",
+          "EventRowVersion": "AAAAAOfgRns=",
           "EventBodyId": 34,
           "EventBodyName": "Subcommittee on Zoning and Franchises",
           "EventDate": "2025-09-09T00:00:00",
-          "EventTime": "11:00 AM",
+          "EventTime": "10:00 AM",
           "EventVideoStatus": "Public",
           "EventAgendaStatusId": 2,
           "EventAgendaStatusName": "Final",
@@ -1765,23 +2468,24 @@
           "EventLocation": "Council Chambers - City Hall",
           "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21784_A_Subcommittee_on_Zoning_and_Franchises_25-09-09_Committee_Agenda.pdf",
           "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-08-07T16:49:23.097",
+          "EventAgendaLastPublishedUTC": "2025-08-18T18:00:48.3",
           "EventMinutesLastPublishedUTC": null,
           "EventComment": null,
           "EventVideoPath": null,
           "EventMedia": null,
           "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21784&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "See Land Use Calendar"
+          "EventItems": []
         },
         "first_seen_timestamp": "2025-08-09T08:18:12.069860",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
-        "last_significant_change_timestamp": "2025-08-09T08:18:12.069860",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
+        "last_significant_change_timestamp": "2025-08-19T08:19:37.207856",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
+        "processing_tags": [
+          "data_changed"
+        ],
         "last_alert_type": "new",
         "last_alert_timestamp": "2025-08-09T08:18:12.069860"
       }
@@ -1817,8 +2521,8 @@
           "SyntheticMeetingTopic": "Oversight - Maintaining, Greening, and Enhancing the City\u2019s Sidewalks, Medians, and Streetscapes."
         },
         "first_seen_timestamp": "2025-08-07T08:21:29.658767",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-07T08:21:29.658767",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1859,8 +2563,8 @@
           "SyntheticMeetingTopic": "Oversight - Fire Safety and Permitting Approval for Community Energy Storage Facilities."
         },
         "first_seen_timestamp": "2025-08-07T08:21:29.658767",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-07T08:21:29.658767",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1901,8 +2605,8 @@
           "SyntheticMeetingTopic": "Oversight - Afterschool Expansion and DYCD\u2019s Concept Paper."
         },
         "first_seen_timestamp": "2025-08-06T08:21:40.655498",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-06T08:21:40.655498",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -1949,8 +2653,8 @@
           "SyntheticMeetingTopic": "Oversight - Pathways for CUNY Students into the Arts and Cultural Jobs Sector."
         },
         "first_seen_timestamp": "2025-08-05T08:21:52.209094",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1991,8 +2695,8 @@
           "SyntheticMeetingTopic": "Oversight - Pathways for CUNY Students into the Arts and Cultural Jobs Sector."
         },
         "first_seen_timestamp": "2025-08-05T08:21:52.209094",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2032,8 +2736,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-05-28T08:19:27.445523",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-05T08:21:52.209094",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -2074,8 +2778,8 @@
           "SyntheticMeetingTopic": "Oversight - Afterschool Expansion and DYCD\u2019s Concept Paper."
         },
         "first_seen_timestamp": "2025-08-05T08:21:52.209094",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-08-06T08:21:40.655498",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -2122,8 +2826,8 @@
           "SyntheticMeetingTopic": "Oversight - TLC \u2013 Commuter Vans, For-Hire Vehicles, and Licensing in NYC\u2019s Evolving Transportation Landscape."
         },
         "first_seen_timestamp": "2025-07-30T08:21:15.309768",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-07-30T08:21:15.309768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2164,8 +2868,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-07-22T08:21:35.813397",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-07-22T08:21:35.813397",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -2211,8 +2915,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-07-18T08:20:40.706104",
-        "last_seen_timestamp": "2025-08-18T08:21:59.869859",
-        "last_processed_timestamp": "2025-08-18T08:21:59.869859",
+        "last_seen_timestamp": "2025-08-19T08:19:37.207856",
+        "last_processed_timestamp": "2025-08-19T08:19:37.207856",
         "last_significant_change_timestamp": "2025-07-22T08:21:35.813397",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": {
@@ -2235,7 +2939,7 @@
       }
     }
   ],
-  "source_newly_added_ids_count": 0,
+  "source_newly_added_ids_count": 4,
   "source_newly_deferred_ids_count": 0,
   "source_newly_rescheduled_pairs_count": 0
 }
