@@ -1,277 +1,6 @@
 {
-  "generation_timestamp": "2025-09-30T08:20:15.718447",
+  "generation_timestamp": "2025-10-01T08:19:21.285161",
   "upcoming_hearings": [
-    {
-      "event_data": {
-        "EventId": 21833,
-        "EventGuid": "0B922FC8-1615-4724-A847-2EC11A1CF44F",
-        "EventLastModifiedUtc": "2025-08-29T12:19:40.153",
-        "EventRowVersion": "AAAAAOfhZlo=",
-        "EventBodyId": 5261,
-        "EventBodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
-        "EventDate": "2025-09-30T00:00:00",
-        "EventTime": "10:00 AM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "Committee Room - City Hall",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21833_A_Subcommittee_on_Landmarks%2C_Public_Sitings_and_Dispositions_25-09-30_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2025-08-29T12:19:40.107",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": null,
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21833&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "See Land Use Calendar"
-      },
-      "first_seen_timestamp": "2025-08-30T08:16:24.904909",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
-      "last_significant_change_timestamp": "2025-08-30T08:16:24.904909",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2025-08-30T08:16:24.904909",
-      "user_facing_tags": []
-    },
-    {
-      "event_data": {
-        "EventId": 21864,
-        "EventGuid": "9F9FA2E0-D192-42B8-8C36-F2C6AB6CDA67",
-        "EventLastModifiedUtc": "2025-09-18T02:20:08.6",
-        "EventRowVersion": "AAAAAOfk+70=",
-        "EventBodyId": 5213,
-        "EventBodyName": "Committee on Technology",
-        "EventDate": "2025-09-30T00:00:00",
-        "EventTime": "10:00 AM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "Council Chambers - City Hall",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21864_A_Committee_on_Technology_25-09-30_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2025-09-18T02:20:08.567",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": "Jointly with the Committee on Public Safety, the Committee on Public Housing and the Committee on Oversight and Investigations.",
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21864&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Oversight - The Use of Surveillance in NYCHA Developments."
-      },
-      "first_seen_timestamp": "2025-09-18T08:17:58.407511",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
-      "last_significant_change_timestamp": "2025-09-18T08:17:58.407511",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2025-09-18T08:17:58.407511",
-      "user_facing_tags": []
-    },
-    {
-      "event_data": {
-        "EventId": 21865,
-        "EventGuid": "F47F30F2-6172-4653-B139-6AEEFE43C295",
-        "EventLastModifiedUtc": "2025-09-18T02:19:34.523",
-        "EventRowVersion": "AAAAAOfk+64=",
-        "EventBodyId": 19,
-        "EventBodyName": "Committee on Public Safety",
-        "EventDate": "2025-09-30T00:00:00",
-        "EventTime": "10:00 AM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "Council Chambers - City Hall",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21865_A_Committee_on_Public_Safety_25-09-30_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2025-09-18T02:19:34.49",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": "Jointly with the Committee on Technology, the Committee on Public Housing and the Committee on Oversight and Investigations",
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21865&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Oversight - The Use of Surveillance in NYCHA Developments."
-      },
-      "first_seen_timestamp": "2025-09-18T08:17:58.407511",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
-      "last_significant_change_timestamp": "2025-09-18T08:17:58.407511",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2025-09-18T08:17:58.407511",
-      "user_facing_tags": []
-    },
-    {
-      "event_data": {
-        "EventId": 21866,
-        "EventGuid": "8E308CED-72AF-4A97-A952-D5970AB4EAF8",
-        "EventLastModifiedUtc": "2025-09-18T02:19:01.52",
-        "EventRowVersion": "AAAAAOfk+54=",
-        "EventBodyId": 5212,
-        "EventBodyName": "Committee on Public Housing",
-        "EventDate": "2025-09-30T00:00:00",
-        "EventTime": "10:00 AM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "Council Chambers - City Hall",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21866_A_Committee_on_Public_Housing_25-09-30_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2025-09-18T02:19:01.49",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": "Jointly with the Committee on Technology, the Committee on Public Safety and the Committee on Oversight and Investigations",
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21866&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Oversight - The Use of Surveillance in NYCHA Developments."
-      },
-      "first_seen_timestamp": "2025-09-18T08:17:58.407511",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
-      "last_significant_change_timestamp": "2025-09-18T08:17:58.407511",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2025-09-18T08:17:58.407511",
-      "user_facing_tags": []
-    },
-    {
-      "event_data": {
-        "EventId": 21867,
-        "EventGuid": "17500943-E4A6-4FD8-9FF9-69D6F4149353",
-        "EventLastModifiedUtc": "2025-09-18T02:18:28.547",
-        "EventRowVersion": "AAAAAOfk+44=",
-        "EventBodyId": 5107,
-        "EventBodyName": "Committee on Oversight and Investigations",
-        "EventDate": "2025-09-30T00:00:00",
-        "EventTime": "10:00 AM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "Council Chambers - City Hall",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21867_A_Committee_on_Oversight_and_Investigations_25-09-30_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2025-09-18T02:18:28.44",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": "Jointly with the Committee on Technology, the Committee on Public Safety and the Committee on Public Housing",
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21867&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Oversight - The Use of Surveillance in NYCHA Developments."
-      },
-      "first_seen_timestamp": "2025-09-18T08:17:58.407511",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
-      "last_significant_change_timestamp": "2025-09-18T08:17:58.407511",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2025-09-18T08:17:58.407511",
-      "user_facing_tags": []
-    },
-    {
-      "event_data": {
-        "EventId": 21778,
-        "EventGuid": "4BC528B9-1ABF-4D01-9D79-8C520D0DA25E",
-        "EventLastModifiedUtc": "2025-09-25T13:54:11.083",
-        "EventRowVersion": "AAAAAOfmWn8=",
-        "EventBodyId": 15,
-        "EventBodyName": "Committee on Higher Education",
-        "EventDate": "2025-09-30T00:00:00",
-        "EventTime": "1:00 PM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 3",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21778_A_Committee_on_Higher_Education_25-09-30_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2025-09-25T13:54:10.973",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": null,
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21778&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": []
-      },
-      "first_seen_timestamp": "2025-08-05T08:21:52.209094",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
-      "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2025-08-05T08:21:52.209094",
-      "user_facing_tags": []
-    },
-    {
-      "event_data": {
-        "EventId": 21817,
-        "EventGuid": "043EE80A-5759-444F-83DB-16C2394F679E",
-        "EventLastModifiedUtc": "2025-08-22T17:15:16.52",
-        "EventRowVersion": "AAAAAOfk4eA=",
-        "EventBodyId": 9,
-        "EventBodyName": "Committee on Education",
-        "EventDate": "2025-09-30T00:00:00",
-        "EventTime": "1:00 PM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21817_A_Committee_on_Education_25-09-30_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2025-08-22T17:15:16.477",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": null,
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21817&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": []
-      },
-      "first_seen_timestamp": "2025-08-19T08:19:37.207856",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
-      "last_significant_change_timestamp": "2025-09-18T08:17:58.407511",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2025-08-19T08:19:37.207856",
-      "user_facing_tags": []
-    },
     {
       "event_data": {
         "EventId": 21775,
@@ -299,8 +28,8 @@
         "EventItems": []
       },
       "first_seen_timestamp": "2025-08-07T08:21:29.658767",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-18T08:17:58.407511",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -337,8 +66,8 @@
         "EventItems": []
       },
       "first_seen_timestamp": "2025-09-06T08:15:41.333261",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -384,8 +113,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-09-23T08:18:32.435829",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-23T08:18:32.435829",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -423,8 +152,8 @@
         "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
       },
       "first_seen_timestamp": "2025-09-05T08:18:27.333523",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-05T08:18:27.333523",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -470,8 +199,8 @@
         "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
       },
       "first_seen_timestamp": "2025-09-04T08:18:08.899272",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-04T08:18:08.899272",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -517,8 +246,8 @@
         "SyntheticMeetingTopic": "Oversight - Cybersecurity for Small Businesses."
       },
       "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -556,8 +285,8 @@
         "SyntheticMeetingTopic": "Oversight  - The: Hart Island Capital Projects Proposal."
       },
       "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -595,8 +324,8 @@
         "SyntheticMeetingTopic": "Oversight  - The: Hart Island Capital Projects Proposal."
       },
       "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -634,8 +363,8 @@
         "SyntheticMeetingTopic": "Oversight  - The: Hart Island Capital Projects Proposal."
       },
       "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -673,8 +402,8 @@
         "SyntheticMeetingTopic": "Oversight - Housing Tax Incentives."
       },
       "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -712,8 +441,8 @@
         "SyntheticMeetingTopic": "Oversight - Housing Tax Incentives."
       },
       "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -751,8 +480,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-09-26T08:19:59.936416",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -790,8 +519,8 @@
         "SyntheticMeetingTopic": "Oversight - Examining the Adequacy of Domestic and Gender-based Violence Data in NYC."
       },
       "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -800,57 +529,6 @@
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-09-27T08:16:14.797768",
       "user_facing_tags": []
-    },
-    {
-      "event_data": {
-        "EventId": 21919,
-        "EventGuid": "ADDD5DE1-BC0C-443F-B996-FD3C774C2340",
-        "EventLastModifiedUtc": "2025-09-29T17:48:02.303",
-        "EventRowVersion": "AAAAAOfn6Hs=",
-        "EventBodyId": 5239,
-        "EventBodyName": "Committee on Fire and Emergency Management",
-        "EventDate": "2025-10-17T00:00:00",
-        "EventTime": "10:00 AM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21919_A_Committee_on_Fire_and_Emergency_Management_25-10-17_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2025-09-29T17:48:02.253",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": null,
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21919&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Oversight - Fire Safety and Permitting Approval for Community Energy Storage Facilities."
-      },
-      "first_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
-      "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": {
-        "original_event_id": "21820",
-        "original_date": "2025-09-26T00:00:00",
-        "original_time": "10:00 AM",
-        "original_status_when_deferred": "Deferred",
-        "match_timestamp": "2025-09-30T08:20:14.829046"
-      },
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [
-        "newly_added",
-        "newly_added_as_reschedule_target"
-      ],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2025-09-30T08:20:14.829046",
-      "user_facing_tags": [
-        "new_hearing_tag",
-        "rescheduled_hearing_tag"
-      ]
     },
     {
       "event_data": {
@@ -880,8 +558,8 @@
         "SyntheticMeetingTopic": "Oversight - The Reading and Writing Crisis Among College Students."
       },
       "first_seen_timestamp": "2025-09-23T08:18:32.435829",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-23T08:18:32.435829",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -919,8 +597,8 @@
         "SyntheticMeetingTopic": "Oversight - Stormwater Resiliency in a Changing Climate."
       },
       "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -966,8 +644,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-09-26T08:19:59.936416",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1004,8 +682,8 @@
         "EventItems": []
       },
       "first_seen_timestamp": "2025-09-16T08:19:29.312184",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -1050,8 +728,8 @@
         "EventItems": []
       },
       "first_seen_timestamp": "2025-09-16T08:19:29.312184",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -1067,6 +745,92 @@
       "last_alert_timestamp": "2025-09-16T08:19:29.312184",
       "user_facing_tags": [
         "rescheduled_hearing_tag"
+      ]
+    },
+    {
+      "event_data": {
+        "EventId": 21852,
+        "EventGuid": "1DFAD020-0761-4625-9ED7-B2A888921478",
+        "EventLastModifiedUtc": "2025-09-30T21:16:17.127",
+        "EventRowVersion": "AAAAAOfoOYY=",
+        "EventBodyId": 5241,
+        "EventBodyName": "Committee on Hospitals",
+        "EventDate": "2025-10-23T00:00:00",
+        "EventTime": "1:00 PM",
+        "EventVideoStatus": "Public",
+        "EventAgendaStatusId": 2,
+        "EventAgendaStatusName": "Final",
+        "EventMinutesStatusId": 1,
+        "EventMinutesStatusName": "Draft",
+        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
+        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21852_A_Committee_on_Hospitals_25-10-23_Committee_Agenda.pdf",
+        "EventMinutesFile": null,
+        "EventAgendaLastPublishedUTC": "2025-09-30T21:16:17.097",
+        "EventMinutesLastPublishedUTC": null,
+        "EventComment": "Jointly with the Committee on Women and Gender Equity.",
+        "EventVideoPath": null,
+        "EventMedia": null,
+        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21852&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+        "EventItems": [],
+        "SyntheticMeetingTopic": "Oversight - Improving Maternal Health in New York City."
+      },
+      "first_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+      "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
+      "current_status": "active",
+      "original_event_details_if_rescheduled": null,
+      "rescheduled_event_details_if_deferred": null,
+      "processing_tags": [
+        "newly_added"
+      ],
+      "last_alert_type": "new",
+      "last_alert_timestamp": "2025-10-01T08:19:19.412411",
+      "user_facing_tags": [
+        "new_hearing_tag"
+      ]
+    },
+    {
+      "event_data": {
+        "EventId": 21913,
+        "EventGuid": "FCEF377F-945C-4E7D-9D46-661BC8BF35DD",
+        "EventLastModifiedUtc": "2025-09-30T21:14:52.453",
+        "EventRowVersion": "AAAAAOfoOWU=",
+        "EventBodyId": 5244,
+        "EventBodyName": "Committee on Women and Gender Equity",
+        "EventDate": "2025-10-23T00:00:00",
+        "EventTime": "1:00 PM",
+        "EventVideoStatus": "Public",
+        "EventAgendaStatusId": 2,
+        "EventAgendaStatusName": "Final",
+        "EventMinutesStatusId": 1,
+        "EventMinutesStatusName": "Draft",
+        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
+        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21913_A_Committee_on_Women_and_Gender_Equity_25-10-23_Committee_Agenda.pdf",
+        "EventMinutesFile": null,
+        "EventAgendaLastPublishedUTC": "2025-09-30T21:14:52.407",
+        "EventMinutesLastPublishedUTC": null,
+        "EventComment": "Jointly with the Committee on Hospitals",
+        "EventVideoPath": null,
+        "EventMedia": null,
+        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21913&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+        "EventItems": [],
+        "SyntheticMeetingTopic": "Oversight - Improving Maternal Health in New York City."
+      },
+      "first_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+      "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
+      "current_status": "active",
+      "original_event_details_if_rescheduled": null,
+      "rescheduled_event_details_if_deferred": null,
+      "processing_tags": [
+        "newly_added"
+      ],
+      "last_alert_type": "new",
+      "last_alert_timestamp": "2025-10-01T08:19:19.412411",
+      "user_facing_tags": [
+        "new_hearing_tag"
       ]
     },
     {
@@ -1097,19 +861,68 @@
         "SyntheticMeetingTopic": "Oversight \u2013 Legal Services for Immigrant New Yorkers."
       },
       "first_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [
-        "newly_added"
-      ],
+      "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-09-30T08:20:14.829046",
       "user_facing_tags": [
         "new_hearing_tag"
+      ]
+    },
+    {
+      "event_data": {
+        "EventId": 21928,
+        "EventGuid": "FB1BE603-31F5-42FD-8BAE-E09A5177AFDE",
+        "EventLastModifiedUtc": "2025-09-30T16:59:03.263",
+        "EventRowVersion": "AAAAAOfoIo0=",
+        "EventBodyId": 5239,
+        "EventBodyName": "Committee on Fire and Emergency Management",
+        "EventDate": "2025-10-28T00:00:00",
+        "EventTime": "10:00 AM",
+        "EventVideoStatus": "Public",
+        "EventAgendaStatusId": 2,
+        "EventAgendaStatusName": "Final",
+        "EventMinutesStatusId": 1,
+        "EventMinutesStatusName": "Draft",
+        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
+        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21928_A_Committee_on_Fire_and_Emergency_Management_25-10-28_Committee_Agenda.pdf",
+        "EventMinutesFile": null,
+        "EventAgendaLastPublishedUTC": "2025-09-30T16:59:03.247",
+        "EventMinutesLastPublishedUTC": null,
+        "EventComment": null,
+        "EventVideoPath": null,
+        "EventMedia": null,
+        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21928&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+        "EventItems": [],
+        "SyntheticMeetingTopic": "Oversight - Fire Safety and Permitting Approval for Community Energy Storage Facilities."
+      },
+      "first_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+      "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
+      "current_status": "active",
+      "original_event_details_if_rescheduled": {
+        "original_event_id": "21919",
+        "original_date": "2025-10-17T00:00:00",
+        "original_time": "10:00 AM",
+        "original_status_when_deferred": "Deferred",
+        "match_timestamp": "2025-10-01T08:19:19.412411"
+      },
+      "rescheduled_event_details_if_deferred": null,
+      "processing_tags": [
+        "newly_added",
+        "newly_added_as_reschedule_target"
+      ],
+      "last_alert_type": "new",
+      "last_alert_timestamp": "2025-10-01T08:19:19.412411",
+      "user_facing_tags": [
+        "new_hearing_tag",
+        "rescheduled_hearing_tag"
       ]
     },
     {
@@ -1140,8 +953,8 @@
         "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
       },
       "first_seen_timestamp": "2025-08-28T08:18:34.046646",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-08-28T08:18:34.046646",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -1157,6 +970,49 @@
       "last_alert_timestamp": "2025-08-28T08:18:34.046646",
       "user_facing_tags": [
         "rescheduled_hearing_tag"
+      ]
+    },
+    {
+      "event_data": {
+        "EventId": 21921,
+        "EventGuid": "E484125E-3F75-40BE-A1EA-45315155A410",
+        "EventLastModifiedUtc": "2025-09-30T18:54:06.6",
+        "EventRowVersion": "AAAAAOfoLgE=",
+        "EventBodyId": 5107,
+        "EventBodyName": "Committee on Oversight and Investigations",
+        "EventDate": "2025-10-30T00:00:00",
+        "EventTime": "10:00 AM",
+        "EventVideoStatus": "Public",
+        "EventAgendaStatusId": 2,
+        "EventAgendaStatusName": "Final",
+        "EventMinutesStatusId": 1,
+        "EventMinutesStatusName": "Draft",
+        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 3",
+        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21921_A_Committee_on_Oversight_and_Investigations_25-10-30_Committee_Agenda.pdf",
+        "EventMinutesFile": null,
+        "EventAgendaLastPublishedUTC": "2025-09-30T18:54:06.49",
+        "EventMinutesLastPublishedUTC": null,
+        "EventComment": null,
+        "EventVideoPath": null,
+        "EventMedia": null,
+        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21921&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+        "EventItems": [],
+        "SyntheticMeetingTopic": "Oversight - Right to Counsel in Housing Court."
+      },
+      "first_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+      "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
+      "current_status": "active",
+      "original_event_details_if_rescheduled": null,
+      "rescheduled_event_details_if_deferred": null,
+      "processing_tags": [
+        "newly_added"
+      ],
+      "last_alert_type": "new",
+      "last_alert_timestamp": "2025-10-01T08:19:19.412411",
+      "user_facing_tags": [
+        "new_hearing_tag"
       ]
     },
     {
@@ -1187,15 +1043,13 @@
         "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
       },
       "first_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [
-        "newly_added"
-      ],
+      "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-09-30T08:20:14.829046",
       "user_facing_tags": [
@@ -1230,8 +1084,8 @@
         "SyntheticMeetingTopic": "Agenda 1:30 p.m."
       },
       "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1269,8 +1123,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-09-26T08:19:59.936416",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1308,8 +1162,8 @@
         "SyntheticMeetingTopic": "Agenda 1:30 p.m."
       },
       "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1347,8 +1201,8 @@
         "SyntheticMeetingTopic": "Agenda 1:30 p.m."
       },
       "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1386,8 +1240,8 @@
         "SyntheticMeetingTopic": "Agenda 1:30 p.m."
       },
       "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1525,6 +1379,7 @@
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active"
       ],
       "last_alert_type": "new",
@@ -1559,8 +1414,8 @@
         "SyntheticMeetingTopic": "Correcting excess pay differentials for paraprofessionals arising from pattern bargaining practices."
       },
       "first_seen_timestamp": "2025-06-29T08:17:06.290480",
-      "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+      "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+      "last_processed_timestamp": "2025-10-01T08:19:19.412411",
       "last_significant_change_timestamp": "2025-06-29T08:17:06.290480",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1605,6 +1460,7 @@
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
       "processing_tags": [
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
@@ -1658,6 +1514,7 @@
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active"
       ],
       "last_alert_type": "new",
@@ -1668,38 +1525,38 @@
   "updates_since_last_run": [
     {
       "type": "new",
-      "alert_timestamp": "2025-09-30T08:20:14.829046",
+      "alert_timestamp": "2025-10-01T08:19:19.412411",
       "data": {
         "event_data": {
-          "EventId": 21923,
-          "EventGuid": "8383828F-388F-499D-8B9D-72C88DD24728",
-          "EventLastModifiedUtc": "2025-09-29T19:37:54.373",
-          "EventRowVersion": "AAAAAOfn798=",
-          "EventBodyId": 11,
-          "EventBodyName": "Committee on Finance",
-          "EventDate": "2025-11-12T00:00:00",
+          "EventId": 21921,
+          "EventGuid": "E484125E-3F75-40BE-A1EA-45315155A410",
+          "EventLastModifiedUtc": "2025-09-30T18:54:06.6",
+          "EventRowVersion": "AAAAAOfoLgE=",
+          "EventBodyId": 5107,
+          "EventBodyName": "Committee on Oversight and Investigations",
+          "EventDate": "2025-10-30T00:00:00",
           "EventTime": "10:00 AM",
           "EventVideoStatus": "Public",
           "EventAgendaStatusId": 2,
           "EventAgendaStatusName": "Final",
           "EventMinutesStatusId": 1,
           "EventMinutesStatusName": "Draft",
-          "EventLocation": "Committee Room - City Hall",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/21923_A_Committee_on_Finance_25-11-12_Committee_Agenda.pdf",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 3",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21921_A_Committee_on_Oversight_and_Investigations_25-10-30_Committee_Agenda.pdf",
           "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-09-29T19:37:54.23",
+          "EventAgendaLastPublishedUTC": "2025-09-30T18:54:06.49",
           "EventMinutesLastPublishedUTC": null,
           "EventComment": null,
           "EventVideoPath": null,
           "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21923&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21921&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
           "EventItems": [],
-          "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
+          "SyntheticMeetingTopic": "Oversight - Right to Counsel in Housing Court."
         },
-        "first_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
-        "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
+        "first_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+        "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
@@ -1707,20 +1564,20 @@
           "newly_added"
         ],
         "last_alert_type": "new",
-        "last_alert_timestamp": "2025-09-30T08:20:14.829046"
+        "last_alert_timestamp": "2025-10-01T08:19:19.412411"
       }
     },
     {
       "type": "new",
-      "alert_timestamp": "2025-09-30T08:20:14.829046",
+      "alert_timestamp": "2025-10-01T08:19:19.412411",
       "data": {
         "event_data": {
-          "EventId": 21918,
-          "EventGuid": "33590A55-6563-4DD5-B822-6F071FD10906",
-          "EventLastModifiedUtc": "2025-09-29T17:57:27.963",
-          "EventRowVersion": "AAAAAOfn6kc=",
-          "EventBodyId": 5119,
-          "EventBodyName": "Committee on Immigration",
+          "EventId": 21928,
+          "EventGuid": "FB1BE603-31F5-42FD-8BAE-E09A5177AFDE",
+          "EventLastModifiedUtc": "2025-09-30T16:59:03.263",
+          "EventRowVersion": "AAAAAOfoIo0=",
+          "EventBodyId": 5239,
+          "EventBodyName": "Committee on Fire and Emergency Management",
           "EventDate": "2025-10-28T00:00:00",
           "EventTime": "10:00 AM",
           "EventVideoStatus": "Public",
@@ -1728,73 +1585,29 @@
           "EventAgendaStatusName": "Final",
           "EventMinutesStatusId": 1,
           "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21918_A_Committee_on_Immigration_25-10-28_Committee_Agenda.pdf",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21928_A_Committee_on_Fire_and_Emergency_Management_25-10-28_Committee_Agenda.pdf",
           "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-09-29T17:57:27.827",
+          "EventAgendaLastPublishedUTC": "2025-09-30T16:59:03.247",
           "EventMinutesLastPublishedUTC": null,
           "EventComment": null,
           "EventVideoPath": null,
           "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21918&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Oversight \u2013 Legal Services for Immigrant New Yorkers."
-        },
-        "first_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
-        "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-09-30T08:20:14.829046"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-09-30T08:20:14.829046",
-      "data": {
-        "event_data": {
-          "EventId": 21919,
-          "EventGuid": "ADDD5DE1-BC0C-443F-B996-FD3C774C2340",
-          "EventLastModifiedUtc": "2025-09-29T17:48:02.303",
-          "EventRowVersion": "AAAAAOfn6Hs=",
-          "EventBodyId": 5239,
-          "EventBodyName": "Committee on Fire and Emergency Management",
-          "EventDate": "2025-10-17T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21919_A_Committee_on_Fire_and_Emergency_Management_25-10-17_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-09-29T17:48:02.253",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21919&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21928&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
           "EventItems": [],
           "SyntheticMeetingTopic": "Oversight - Fire Safety and Permitting Approval for Community Energy Storage Facilities."
         },
-        "first_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
-        "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
+        "first_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+        "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
-          "original_event_id": "21820",
-          "original_date": "2025-09-26T00:00:00",
+          "original_event_id": "21919",
+          "original_date": "2025-10-17T00:00:00",
           "original_time": "10:00 AM",
           "original_status_when_deferred": "Deferred",
-          "match_timestamp": "2025-09-30T08:20:14.829046"
+          "match_timestamp": "2025-10-01T08:19:19.412411"
         },
         "rescheduled_event_details_if_deferred": null,
         "processing_tags": [
@@ -1802,13 +1615,396 @@
           "newly_added_as_reschedule_target"
         ],
         "last_alert_type": "new",
-        "last_alert_timestamp": "2025-09-30T08:20:14.829046"
+        "last_alert_timestamp": "2025-10-01T08:19:19.412411"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-10-01T08:19:19.412411",
+      "data": {
+        "event_data": {
+          "EventId": 21852,
+          "EventGuid": "1DFAD020-0761-4625-9ED7-B2A888921478",
+          "EventLastModifiedUtc": "2025-09-30T21:16:17.127",
+          "EventRowVersion": "AAAAAOfoOYY=",
+          "EventBodyId": 5241,
+          "EventBodyName": "Committee on Hospitals",
+          "EventDate": "2025-10-23T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21852_A_Committee_on_Hospitals_25-10-23_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-09-30T21:16:17.097",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on Women and Gender Equity.",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21852&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Improving Maternal Health in New York City."
+        },
+        "first_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+        "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-10-01T08:19:19.412411"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-10-01T08:19:19.412411",
+      "data": {
+        "event_data": {
+          "EventId": 21913,
+          "EventGuid": "FCEF377F-945C-4E7D-9D46-661BC8BF35DD",
+          "EventLastModifiedUtc": "2025-09-30T21:14:52.453",
+          "EventRowVersion": "AAAAAOfoOWU=",
+          "EventBodyId": 5244,
+          "EventBodyName": "Committee on Women and Gender Equity",
+          "EventDate": "2025-10-23T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21913_A_Committee_on_Women_and_Gender_Equity_25-10-23_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-09-30T21:14:52.407",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on Hospitals",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21913&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Improving Maternal Health in New York City."
+        },
+        "first_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+        "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-10-01T08:19:19.412411"
+      }
+    },
+    {
+      "type": "deferred",
+      "alert_timestamp": "2025-10-01T08:19:19.412411",
+      "data": {
+        "event_data": {
+          "EventId": 21919,
+          "EventGuid": "ADDD5DE1-BC0C-443F-B996-FD3C774C2340",
+          "EventLastModifiedUtc": "2025-09-30T16:57:19.65",
+          "EventRowVersion": "AAAAAOfoIdQ=",
+          "EventBodyId": 5239,
+          "EventBodyName": "Committee on Fire and Emergency Management",
+          "EventDate": "2025-10-17T00:00:00",
+          "EventTime": "10:00 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 4,
+          "EventAgendaStatusName": "Deferred",
+          "EventMinutesStatusId": 4,
+          "EventMinutesStatusName": "Deferred",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21919_A_Committee_on_Fire_and_Emergency_Management_25-10-17_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-09-30T16:57:19.513",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21919&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": []
+        },
+        "first_seen_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+        "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
+        "current_status": "deferred_rescheduled_internal",
+        "original_event_details_if_rescheduled": {
+          "original_event_id": "21820",
+          "original_date": "2025-09-26T00:00:00",
+          "original_time": "10:00 AM",
+          "original_status_when_deferred": "Deferred",
+          "match_timestamp": "2025-09-30T08:20:14.829046"
+        },
+        "rescheduled_event_details_if_deferred": {
+          "matched_event_id": "21928",
+          "new_date": "2025-10-28T00:00:00",
+          "new_time": "10:00 AM",
+          "new_location": "250 Broadway - 8th Floor - Hearing Room 2",
+          "match_timestamp": "2025-10-01T08:19:19.412411"
+        },
+        "processing_tags": [
+          "became_deferred",
+          "became_rescheduled_match_found_for_original"
+        ],
+        "last_alert_type": "deferred",
+        "last_alert_timestamp": "2025-10-01T08:19:19.412411"
       }
     }
   ],
   "updates_last_7_days": [
     {
       "type": "new",
+      "alert_timestamp": "2025-10-01T08:19:19.412411",
+      "data": {
+        "event_data": {
+          "EventId": 21921,
+          "EventGuid": "E484125E-3F75-40BE-A1EA-45315155A410",
+          "EventLastModifiedUtc": "2025-09-30T18:54:06.6",
+          "EventRowVersion": "AAAAAOfoLgE=",
+          "EventBodyId": 5107,
+          "EventBodyName": "Committee on Oversight and Investigations",
+          "EventDate": "2025-10-30T00:00:00",
+          "EventTime": "10:00 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 3",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21921_A_Committee_on_Oversight_and_Investigations_25-10-30_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-09-30T18:54:06.49",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21921&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Right to Counsel in Housing Court."
+        },
+        "first_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+        "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-10-01T08:19:19.412411"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-10-01T08:19:19.412411",
+      "data": {
+        "event_data": {
+          "EventId": 21928,
+          "EventGuid": "FB1BE603-31F5-42FD-8BAE-E09A5177AFDE",
+          "EventLastModifiedUtc": "2025-09-30T16:59:03.263",
+          "EventRowVersion": "AAAAAOfoIo0=",
+          "EventBodyId": 5239,
+          "EventBodyName": "Committee on Fire and Emergency Management",
+          "EventDate": "2025-10-28T00:00:00",
+          "EventTime": "10:00 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21928_A_Committee_on_Fire_and_Emergency_Management_25-10-28_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-09-30T16:59:03.247",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21928&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Fire Safety and Permitting Approval for Community Energy Storage Facilities."
+        },
+        "first_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+        "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": {
+          "original_event_id": "21919",
+          "original_date": "2025-10-17T00:00:00",
+          "original_time": "10:00 AM",
+          "original_status_when_deferred": "Deferred",
+          "match_timestamp": "2025-10-01T08:19:19.412411"
+        },
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added",
+          "newly_added_as_reschedule_target"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-10-01T08:19:19.412411"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-10-01T08:19:19.412411",
+      "data": {
+        "event_data": {
+          "EventId": 21852,
+          "EventGuid": "1DFAD020-0761-4625-9ED7-B2A888921478",
+          "EventLastModifiedUtc": "2025-09-30T21:16:17.127",
+          "EventRowVersion": "AAAAAOfoOYY=",
+          "EventBodyId": 5241,
+          "EventBodyName": "Committee on Hospitals",
+          "EventDate": "2025-10-23T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21852_A_Committee_on_Hospitals_25-10-23_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-09-30T21:16:17.097",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on Women and Gender Equity.",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21852&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Improving Maternal Health in New York City."
+        },
+        "first_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+        "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-10-01T08:19:19.412411"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-10-01T08:19:19.412411",
+      "data": {
+        "event_data": {
+          "EventId": 21913,
+          "EventGuid": "FCEF377F-945C-4E7D-9D46-661BC8BF35DD",
+          "EventLastModifiedUtc": "2025-09-30T21:14:52.453",
+          "EventRowVersion": "AAAAAOfoOWU=",
+          "EventBodyId": 5244,
+          "EventBodyName": "Committee on Women and Gender Equity",
+          "EventDate": "2025-10-23T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21913_A_Committee_on_Women_and_Gender_Equity_25-10-23_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-09-30T21:14:52.407",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on Hospitals",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21913&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Improving Maternal Health in New York City."
+        },
+        "first_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+        "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-10-01T08:19:19.412411"
+      }
+    },
+    {
+      "type": "deferred",
+      "alert_timestamp": "2025-10-01T08:19:19.412411",
+      "data": {
+        "event_data": {
+          "EventId": 21919,
+          "EventGuid": "ADDD5DE1-BC0C-443F-B996-FD3C774C2340",
+          "EventLastModifiedUtc": "2025-09-30T16:57:19.65",
+          "EventRowVersion": "AAAAAOfoIdQ=",
+          "EventBodyId": 5239,
+          "EventBodyName": "Committee on Fire and Emergency Management",
+          "EventDate": "2025-10-17T00:00:00",
+          "EventTime": "10:00 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 4,
+          "EventAgendaStatusName": "Deferred",
+          "EventMinutesStatusId": 4,
+          "EventMinutesStatusName": "Deferred",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21919_A_Committee_on_Fire_and_Emergency_Management_25-10-17_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-09-30T16:57:19.513",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21919&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": []
+        },
+        "first_seen_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+        "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
+        "current_status": "deferred_rescheduled_internal",
+        "original_event_details_if_rescheduled": {
+          "original_event_id": "21820",
+          "original_date": "2025-09-26T00:00:00",
+          "original_time": "10:00 AM",
+          "original_status_when_deferred": "Deferred",
+          "match_timestamp": "2025-09-30T08:20:14.829046"
+        },
+        "rescheduled_event_details_if_deferred": {
+          "matched_event_id": "21928",
+          "new_date": "2025-10-28T00:00:00",
+          "new_time": "10:00 AM",
+          "new_location": "250 Broadway - 8th Floor - Hearing Room 2",
+          "match_timestamp": "2025-10-01T08:19:19.412411"
+        },
+        "processing_tags": [
+          "became_deferred",
+          "became_rescheduled_match_found_for_original"
+        ],
+        "last_alert_type": "deferred",
+        "last_alert_timestamp": "2025-10-01T08:19:19.412411"
+      }
+    },
+    {
+      "type": "new",
       "alert_timestamp": "2025-09-30T08:20:14.829046",
       "data": {
         "event_data": {
@@ -1838,15 +2034,13 @@
           "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
         },
         "first_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2025-09-30T08:20:14.829046"
       }
@@ -1882,66 +2076,13 @@
           "SyntheticMeetingTopic": "Oversight \u2013 Legal Services for Immigrant New Yorkers."
         },
         "first_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-09-30T08:20:14.829046"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-09-30T08:20:14.829046",
-      "data": {
-        "event_data": {
-          "EventId": 21919,
-          "EventGuid": "ADDD5DE1-BC0C-443F-B996-FD3C774C2340",
-          "EventLastModifiedUtc": "2025-09-29T17:48:02.303",
-          "EventRowVersion": "AAAAAOfn6Hs=",
-          "EventBodyId": 5239,
-          "EventBodyName": "Committee on Fire and Emergency Management",
-          "EventDate": "2025-10-17T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21919_A_Committee_on_Fire_and_Emergency_Management_25-10-17_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-09-29T17:48:02.253",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21919&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Oversight - Fire Safety and Permitting Approval for Community Energy Storage Facilities."
-        },
-        "first_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
-        "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": {
-          "original_event_id": "21820",
-          "original_date": "2025-09-26T00:00:00",
-          "original_time": "10:00 AM",
-          "original_status_when_deferred": "Deferred",
-          "match_timestamp": "2025-09-30T08:20:14.829046"
-        },
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added",
-          "newly_added_as_reschedule_target"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2025-09-30T08:20:14.829046"
       }
@@ -1977,8 +2118,8 @@
           "SyntheticMeetingTopic": "Agenda 1:30 p.m."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2019,8 +2160,8 @@
           "SyntheticMeetingTopic": "Agenda 1:30 p.m."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2061,8 +2202,8 @@
           "SyntheticMeetingTopic": "Agenda 1:30 p.m."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2103,8 +2244,8 @@
           "SyntheticMeetingTopic": "Agenda 1:30 p.m."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2145,8 +2286,8 @@
           "SyntheticMeetingTopic": "Oversight - Examining the Adequacy of Domestic and Gender-based Violence Data in NYC."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2187,8 +2328,8 @@
           "SyntheticMeetingTopic": "Oversight - Housing Tax Incentives."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2229,8 +2370,8 @@
           "SyntheticMeetingTopic": "Oversight - Housing Tax Incentives."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2270,8 +2411,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-08-22T08:19:11.769532",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": {
@@ -2288,9 +2429,7 @@
           "new_location": "250 Broadway - 8th Floor - Hearing Room 1",
           "match_timestamp": "2025-09-30T08:20:14.829046"
         },
-        "processing_tags": [
-          "became_rescheduled_match_found_for_original"
-        ],
+        "processing_tags": [],
         "last_alert_type": "deferred",
         "last_alert_timestamp": "2025-09-27T08:16:14.797768"
       }
@@ -2326,8 +2465,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-09-26T08:19:59.936416",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2368,8 +2507,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-09-26T08:19:59.936416",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2410,8 +2549,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-09-26T08:19:59.936416",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2452,8 +2591,8 @@
           "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
         },
         "first_seen_timestamp": "2025-09-25T08:19:00.026025",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-25T08:19:00.026025",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -2467,6 +2606,245 @@
   "updates_last_30_days": [
     {
       "type": "new",
+      "alert_timestamp": "2025-10-01T08:19:19.412411",
+      "data": {
+        "event_data": {
+          "EventId": 21921,
+          "EventGuid": "E484125E-3F75-40BE-A1EA-45315155A410",
+          "EventLastModifiedUtc": "2025-09-30T18:54:06.6",
+          "EventRowVersion": "AAAAAOfoLgE=",
+          "EventBodyId": 5107,
+          "EventBodyName": "Committee on Oversight and Investigations",
+          "EventDate": "2025-10-30T00:00:00",
+          "EventTime": "10:00 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 3",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21921_A_Committee_on_Oversight_and_Investigations_25-10-30_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-09-30T18:54:06.49",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21921&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Right to Counsel in Housing Court."
+        },
+        "first_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+        "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-10-01T08:19:19.412411"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-10-01T08:19:19.412411",
+      "data": {
+        "event_data": {
+          "EventId": 21928,
+          "EventGuid": "FB1BE603-31F5-42FD-8BAE-E09A5177AFDE",
+          "EventLastModifiedUtc": "2025-09-30T16:59:03.263",
+          "EventRowVersion": "AAAAAOfoIo0=",
+          "EventBodyId": 5239,
+          "EventBodyName": "Committee on Fire and Emergency Management",
+          "EventDate": "2025-10-28T00:00:00",
+          "EventTime": "10:00 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21928_A_Committee_on_Fire_and_Emergency_Management_25-10-28_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-09-30T16:59:03.247",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21928&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Fire Safety and Permitting Approval for Community Energy Storage Facilities."
+        },
+        "first_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+        "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": {
+          "original_event_id": "21919",
+          "original_date": "2025-10-17T00:00:00",
+          "original_time": "10:00 AM",
+          "original_status_when_deferred": "Deferred",
+          "match_timestamp": "2025-10-01T08:19:19.412411"
+        },
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added",
+          "newly_added_as_reschedule_target"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-10-01T08:19:19.412411"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-10-01T08:19:19.412411",
+      "data": {
+        "event_data": {
+          "EventId": 21852,
+          "EventGuid": "1DFAD020-0761-4625-9ED7-B2A888921478",
+          "EventLastModifiedUtc": "2025-09-30T21:16:17.127",
+          "EventRowVersion": "AAAAAOfoOYY=",
+          "EventBodyId": 5241,
+          "EventBodyName": "Committee on Hospitals",
+          "EventDate": "2025-10-23T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21852_A_Committee_on_Hospitals_25-10-23_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-09-30T21:16:17.097",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on Women and Gender Equity.",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21852&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Improving Maternal Health in New York City."
+        },
+        "first_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+        "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-10-01T08:19:19.412411"
+      }
+    },
+    {
+      "type": "new",
+      "alert_timestamp": "2025-10-01T08:19:19.412411",
+      "data": {
+        "event_data": {
+          "EventId": 21913,
+          "EventGuid": "FCEF377F-945C-4E7D-9D46-661BC8BF35DD",
+          "EventLastModifiedUtc": "2025-09-30T21:14:52.453",
+          "EventRowVersion": "AAAAAOfoOWU=",
+          "EventBodyId": 5244,
+          "EventBodyName": "Committee on Women and Gender Equity",
+          "EventDate": "2025-10-23T00:00:00",
+          "EventTime": "1:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21913_A_Committee_on_Women_and_Gender_Equity_25-10-23_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-09-30T21:14:52.407",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "Jointly with the Committee on Hospitals",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21913&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Oversight - Improving Maternal Health in New York City."
+        },
+        "first_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+        "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-10-01T08:19:19.412411"
+      }
+    },
+    {
+      "type": "deferred",
+      "alert_timestamp": "2025-10-01T08:19:19.412411",
+      "data": {
+        "event_data": {
+          "EventId": 21919,
+          "EventGuid": "ADDD5DE1-BC0C-443F-B996-FD3C774C2340",
+          "EventLastModifiedUtc": "2025-09-30T16:57:19.65",
+          "EventRowVersion": "AAAAAOfoIdQ=",
+          "EventBodyId": 5239,
+          "EventBodyName": "Committee on Fire and Emergency Management",
+          "EventDate": "2025-10-17T00:00:00",
+          "EventTime": "10:00 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 4,
+          "EventAgendaStatusName": "Deferred",
+          "EventMinutesStatusId": 4,
+          "EventMinutesStatusName": "Deferred",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21919_A_Committee_on_Fire_and_Emergency_Management_25-10-17_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-09-30T16:57:19.513",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21919&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": []
+        },
+        "first_seen_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
+        "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
+        "current_status": "deferred_rescheduled_internal",
+        "original_event_details_if_rescheduled": {
+          "original_event_id": "21820",
+          "original_date": "2025-09-26T00:00:00",
+          "original_time": "10:00 AM",
+          "original_status_when_deferred": "Deferred",
+          "match_timestamp": "2025-09-30T08:20:14.829046"
+        },
+        "rescheduled_event_details_if_deferred": {
+          "matched_event_id": "21928",
+          "new_date": "2025-10-28T00:00:00",
+          "new_time": "10:00 AM",
+          "new_location": "250 Broadway - 8th Floor - Hearing Room 2",
+          "match_timestamp": "2025-10-01T08:19:19.412411"
+        },
+        "processing_tags": [
+          "became_deferred",
+          "became_rescheduled_match_found_for_original"
+        ],
+        "last_alert_type": "deferred",
+        "last_alert_timestamp": "2025-10-01T08:19:19.412411"
+      }
+    },
+    {
+      "type": "new",
       "alert_timestamp": "2025-09-30T08:20:14.829046",
       "data": {
         "event_data": {
@@ -2496,15 +2874,13 @@
           "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
         },
         "first_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2025-09-30T08:20:14.829046"
       }
@@ -2540,66 +2916,13 @@
           "SyntheticMeetingTopic": "Oversight \u2013 Legal Services for Immigrant New Yorkers."
         },
         "first_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-09-30T08:20:14.829046"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-09-30T08:20:14.829046",
-      "data": {
-        "event_data": {
-          "EventId": 21919,
-          "EventGuid": "ADDD5DE1-BC0C-443F-B996-FD3C774C2340",
-          "EventLastModifiedUtc": "2025-09-29T17:48:02.303",
-          "EventRowVersion": "AAAAAOfn6Hs=",
-          "EventBodyId": 5239,
-          "EventBodyName": "Committee on Fire and Emergency Management",
-          "EventDate": "2025-10-17T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21919_A_Committee_on_Fire_and_Emergency_Management_25-10-17_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-09-29T17:48:02.253",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21919&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Oversight - Fire Safety and Permitting Approval for Community Energy Storage Facilities."
-        },
-        "first_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
-        "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": {
-          "original_event_id": "21820",
-          "original_date": "2025-09-26T00:00:00",
-          "original_time": "10:00 AM",
-          "original_status_when_deferred": "Deferred",
-          "match_timestamp": "2025-09-30T08:20:14.829046"
-        },
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added",
-          "newly_added_as_reschedule_target"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2025-09-30T08:20:14.829046"
       }
@@ -2635,8 +2958,8 @@
           "SyntheticMeetingTopic": "Agenda 1:30 p.m."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2677,8 +3000,8 @@
           "SyntheticMeetingTopic": "Agenda 1:30 p.m."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2719,8 +3042,8 @@
           "SyntheticMeetingTopic": "Agenda 1:30 p.m."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2761,8 +3084,8 @@
           "SyntheticMeetingTopic": "Agenda 1:30 p.m."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2803,8 +3126,8 @@
           "SyntheticMeetingTopic": "Oversight - Examining the Adequacy of Domestic and Gender-based Violence Data in NYC."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2845,8 +3168,8 @@
           "SyntheticMeetingTopic": "Oversight - Housing Tax Incentives."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2887,8 +3210,8 @@
           "SyntheticMeetingTopic": "Oversight - Housing Tax Incentives."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2928,8 +3251,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-08-22T08:19:11.769532",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": {
@@ -2946,9 +3269,7 @@
           "new_location": "250 Broadway - 8th Floor - Hearing Room 1",
           "match_timestamp": "2025-09-30T08:20:14.829046"
         },
-        "processing_tags": [
-          "became_rescheduled_match_found_for_original"
-        ],
+        "processing_tags": [],
         "last_alert_type": "deferred",
         "last_alert_timestamp": "2025-09-27T08:16:14.797768"
       }
@@ -2984,8 +3305,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-09-26T08:19:59.936416",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3026,8 +3347,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-09-26T08:19:59.936416",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3068,8 +3389,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-09-26T08:19:59.936416",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3110,8 +3431,8 @@
           "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
         },
         "first_seen_timestamp": "2025-09-25T08:19:00.026025",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-25T08:19:00.026025",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -3164,6 +3485,7 @@
           "vanished_from_api_while_active",
           "vanished_from_api_while_active",
           "vanished_from_api_while_active",
+          "vanished_from_api_while_active",
           "vanished_from_api_while_active"
         ],
         "last_alert_type": "new",
@@ -3201,8 +3523,8 @@
           "SyntheticMeetingTopic": "Oversight - The Reading and Writing Crisis Among College Students."
         },
         "first_seen_timestamp": "2025-09-23T08:18:32.435829",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-23T08:18:32.435829",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3243,8 +3565,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-09-23T08:18:32.435829",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-23T08:18:32.435829",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3299,178 +3621,11 @@
           "vanished_from_api_while_active",
           "vanished_from_api_while_active",
           "vanished_from_api_while_active",
+          "vanished_from_api_while_active",
           "vanished_from_api_while_active"
         ],
         "last_alert_type": "new",
         "last_alert_timestamp": "2025-09-20T08:16:08.219468"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-09-18T08:17:58.407511",
-      "data": {
-        "event_data": {
-          "EventId": 21864,
-          "EventGuid": "9F9FA2E0-D192-42B8-8C36-F2C6AB6CDA67",
-          "EventLastModifiedUtc": "2025-09-18T02:20:08.6",
-          "EventRowVersion": "AAAAAOfk+70=",
-          "EventBodyId": 5213,
-          "EventBodyName": "Committee on Technology",
-          "EventDate": "2025-09-30T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "Council Chambers - City Hall",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21864_A_Committee_on_Technology_25-09-30_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-09-18T02:20:08.567",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "Jointly with the Committee on Public Safety, the Committee on Public Housing and the Committee on Oversight and Investigations.",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21864&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Oversight - The Use of Surveillance in NYCHA Developments."
-        },
-        "first_seen_timestamp": "2025-09-18T08:17:58.407511",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
-        "last_significant_change_timestamp": "2025-09-18T08:17:58.407511",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-09-18T08:17:58.407511"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-09-18T08:17:58.407511",
-      "data": {
-        "event_data": {
-          "EventId": 21865,
-          "EventGuid": "F47F30F2-6172-4653-B139-6AEEFE43C295",
-          "EventLastModifiedUtc": "2025-09-18T02:19:34.523",
-          "EventRowVersion": "AAAAAOfk+64=",
-          "EventBodyId": 19,
-          "EventBodyName": "Committee on Public Safety",
-          "EventDate": "2025-09-30T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "Council Chambers - City Hall",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21865_A_Committee_on_Public_Safety_25-09-30_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-09-18T02:19:34.49",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "Jointly with the Committee on Technology, the Committee on Public Housing and the Committee on Oversight and Investigations",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21865&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Oversight - The Use of Surveillance in NYCHA Developments."
-        },
-        "first_seen_timestamp": "2025-09-18T08:17:58.407511",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
-        "last_significant_change_timestamp": "2025-09-18T08:17:58.407511",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-09-18T08:17:58.407511"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-09-18T08:17:58.407511",
-      "data": {
-        "event_data": {
-          "EventId": 21866,
-          "EventGuid": "8E308CED-72AF-4A97-A952-D5970AB4EAF8",
-          "EventLastModifiedUtc": "2025-09-18T02:19:01.52",
-          "EventRowVersion": "AAAAAOfk+54=",
-          "EventBodyId": 5212,
-          "EventBodyName": "Committee on Public Housing",
-          "EventDate": "2025-09-30T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "Council Chambers - City Hall",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21866_A_Committee_on_Public_Housing_25-09-30_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-09-18T02:19:01.49",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "Jointly with the Committee on Technology, the Committee on Public Safety and the Committee on Oversight and Investigations",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21866&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Oversight - The Use of Surveillance in NYCHA Developments."
-        },
-        "first_seen_timestamp": "2025-09-18T08:17:58.407511",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
-        "last_significant_change_timestamp": "2025-09-18T08:17:58.407511",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-09-18T08:17:58.407511"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-09-18T08:17:58.407511",
-      "data": {
-        "event_data": {
-          "EventId": 21867,
-          "EventGuid": "17500943-E4A6-4FD8-9FF9-69D6F4149353",
-          "EventLastModifiedUtc": "2025-09-18T02:18:28.547",
-          "EventRowVersion": "AAAAAOfk+44=",
-          "EventBodyId": 5107,
-          "EventBodyName": "Committee on Oversight and Investigations",
-          "EventDate": "2025-09-30T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "Council Chambers - City Hall",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/9/21867_A_Committee_on_Oversight_and_Investigations_25-09-30_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-09-18T02:18:28.44",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "Jointly with the Committee on Technology, the Committee on Public Safety and the Committee on Public Housing",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21867&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Oversight - The Use of Surveillance in NYCHA Developments."
-        },
-        "first_seen_timestamp": "2025-09-18T08:17:58.407511",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
-        "last_significant_change_timestamp": "2025-09-18T08:17:58.407511",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-09-18T08:17:58.407511"
       }
     },
     {
@@ -3504,8 +3659,8 @@
           "SyntheticMeetingTopic": "Oversight - Stormwater Resiliency in a Changing Climate."
         },
         "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -3552,8 +3707,8 @@
           "SyntheticMeetingTopic": "Oversight  - The: Hart Island Capital Projects Proposal."
         },
         "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3594,8 +3749,8 @@
           "SyntheticMeetingTopic": "Oversight  - The: Hart Island Capital Projects Proposal."
         },
         "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3636,8 +3791,8 @@
           "SyntheticMeetingTopic": "Oversight  - The: Hart Island Capital Projects Proposal."
         },
         "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3678,8 +3833,8 @@
           "SyntheticMeetingTopic": "Oversight - Cybersecurity for Small Businesses."
         },
         "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3719,8 +3874,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-16T08:19:29.312184",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -3766,8 +3921,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-16T08:19:29.312184",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -3813,8 +3968,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-11T08:18:34.738875",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-16T08:19:29.312184",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -3860,8 +4015,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-11T08:18:34.738875",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-16T08:19:29.312184",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -3907,8 +4062,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-10T08:18:38.693371",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -3954,8 +4109,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-06T08:15:41.333261",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -4001,8 +4156,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-08-26T08:20:30.245583",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-06T08:15:41.333261",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -4049,8 +4204,8 @@
           "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
         },
         "first_seen_timestamp": "2025-09-05T08:18:27.333523",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-05T08:18:27.333523",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -4096,8 +4251,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-08-13T08:20:16.767971",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-06T08:15:41.333261",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -4144,8 +4299,8 @@
           "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
         },
         "first_seen_timestamp": "2025-09-04T08:18:08.899272",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-04T08:18:08.899272",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -4191,8 +4346,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-08-28T08:18:34.046646",
-        "last_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_processed_timestamp": "2025-09-30T08:20:14.829046",
+        "last_seen_timestamp": "2025-10-01T08:19:19.412411",
+        "last_processed_timestamp": "2025-10-01T08:19:19.412411",
         "last_significant_change_timestamp": "2025-09-04T08:18:08.899272",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": {
@@ -4215,7 +4370,7 @@
       }
     }
   ],
-  "source_newly_added_ids_count": 3,
-  "source_newly_deferred_ids_count": 0,
+  "source_newly_added_ids_count": 4,
+  "source_newly_deferred_ids_count": 1,
   "source_newly_rescheduled_pairs_count": 1
 }
