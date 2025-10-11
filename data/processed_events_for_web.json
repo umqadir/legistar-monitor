@@ -1,5 +1,5 @@
 {
-  "generation_timestamp": "2025-10-10T08:19:03.284204",
+  "generation_timestamp": "2025-10-11T08:16:21.332535",
   "upcoming_hearings": [
     {
       "event_data": {
@@ -29,8 +29,8 @@
         "SyntheticMeetingTopic": "Oversight - Cybersecurity for Small Businesses."
       },
       "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -39,6 +39,49 @@
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-09-17T08:18:22.020880",
       "user_facing_tags": []
+    },
+    {
+      "event_data": {
+        "EventId": 21945,
+        "EventGuid": "5194503E-B78D-44DC-B31C-677488FD0DF5",
+        "EventLastModifiedUtc": "2025-10-10T18:59:39.227",
+        "EventRowVersion": "AAAAAOfrHsI=",
+        "EventBodyId": 5261,
+        "EventBodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
+        "EventDate": "2025-10-15T00:00:00",
+        "EventTime": "10:00 AM",
+        "EventVideoStatus": "Public",
+        "EventAgendaStatusId": 2,
+        "EventAgendaStatusName": "Final",
+        "EventMinutesStatusId": 1,
+        "EventMinutesStatusName": "Draft",
+        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 3",
+        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21945_A_Subcommittee_on_Landmarks%2C_Public_Sitings_and_Dispositions_25-10-15_Committee_Agenda.pdf",
+        "EventMinutesFile": null,
+        "EventAgendaLastPublishedUTC": "2025-10-10T18:59:39.097",
+        "EventMinutesLastPublishedUTC": null,
+        "EventComment": null,
+        "EventVideoPath": null,
+        "EventMedia": null,
+        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21945&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+        "EventItems": [],
+        "SyntheticMeetingTopic": "Landmarks, 2149-2153 Pacific Street Article XI, Bronx (G 250088 XAK)"
+      },
+      "first_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
+      "last_significant_change_timestamp": "2025-10-11T08:16:20.805812",
+      "current_status": "active",
+      "original_event_details_if_rescheduled": null,
+      "rescheduled_event_details_if_deferred": null,
+      "processing_tags": [
+        "newly_added"
+      ],
+      "last_alert_type": "new",
+      "last_alert_timestamp": "2025-10-11T08:16:20.805812",
+      "user_facing_tags": [
+        "new_hearing_tag"
+      ]
     },
     {
       "event_data": {
@@ -68,8 +111,8 @@
         "SyntheticMeetingTopic": "Oversight  - The: Hart Island Capital Projects Proposal."
       },
       "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -107,8 +150,8 @@
         "SyntheticMeetingTopic": "Oversight  - The: Hart Island Capital Projects Proposal."
       },
       "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -146,8 +189,8 @@
         "SyntheticMeetingTopic": "Oversight  - The: Hart Island Capital Projects Proposal."
       },
       "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -184,8 +227,8 @@
         "EventItems": []
       },
       "first_seen_timestamp": "2025-09-26T08:19:59.936416",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-03T08:17:50.870337",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -223,8 +266,8 @@
         "SyntheticMeetingTopic": "Oversight - Examining the Adequacy of Domestic and Gender-based Violence Data in NYC."
       },
       "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -262,8 +305,8 @@
         "SyntheticMeetingTopic": "Oversight - Working Conditions Within New York City\u2019s Emergency Response System."
       },
       "first_seen_timestamp": "2025-10-08T08:19:32.659454",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-08T08:19:32.659454",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -271,9 +314,7 @@
       "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-10-08T08:19:32.659454",
-      "user_facing_tags": [
-        "new_hearing_tag"
-      ]
+      "user_facing_tags": []
     },
     {
       "event_data": {
@@ -303,8 +344,8 @@
         "SyntheticMeetingTopic": "Oversight - Working Conditions Within New York City\u2019s Emergency Response System."
       },
       "first_seen_timestamp": "2025-10-08T08:19:32.659454",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-08T08:19:32.659454",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -312,9 +353,7 @@
       "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-10-08T08:19:32.659454",
-      "user_facing_tags": [
-        "new_hearing_tag"
-      ]
+      "user_facing_tags": []
     },
     {
       "event_data": {
@@ -344,8 +383,8 @@
         "SyntheticMeetingTopic": "Oversight - Working Conditions Within New York City\u2019s Emergency Response System."
       },
       "first_seen_timestamp": "2025-10-08T08:19:32.659454",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-08T08:19:32.659454",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -353,9 +392,7 @@
       "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-10-08T08:19:32.659454",
-      "user_facing_tags": [
-        "new_hearing_tag"
-      ]
+      "user_facing_tags": []
     },
     {
       "event_data": {
@@ -385,8 +422,8 @@
         "SyntheticMeetingTopic": "Oversight - Stormwater Resiliency in a Changing Climate."
       },
       "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -432,8 +469,8 @@
         "SyntheticMeetingTopic": "Oversight - NYC: ATWORK Employment Program for New Yorkers with Disabilities."
       },
       "first_seen_timestamp": "2025-10-02T08:18:28.798844",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-02T08:18:28.798844",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -471,8 +508,8 @@
         "SyntheticMeetingTopic": "Oversight - Housing Tax Incentives."
       },
       "first_seen_timestamp": "2025-10-09T08:18:51.162688",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-09T08:18:51.162688",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -519,8 +556,8 @@
         "SyntheticMeetingTopic": "Oversight - Housing Tax Incentives."
       },
       "first_seen_timestamp": "2025-10-09T08:18:51.162688",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-09T08:18:51.162688",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -567,8 +604,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-09-26T08:19:59.936416",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -605,8 +642,8 @@
         "EventItems": []
       },
       "first_seen_timestamp": "2025-09-16T08:19:29.312184",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -651,8 +688,8 @@
         "EventItems": []
       },
       "first_seen_timestamp": "2025-09-16T08:19:29.312184",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -698,8 +735,8 @@
         "SyntheticMeetingTopic": "Oversight - Improving Maternal Health in New York City."
       },
       "first_seen_timestamp": "2025-10-01T08:19:19.412411",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -737,8 +774,8 @@
         "SyntheticMeetingTopic": "Oversight - Improving Maternal Health in New York City."
       },
       "first_seen_timestamp": "2025-10-01T08:19:19.412411",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -776,8 +813,8 @@
         "SyntheticMeetingTopic": "Quarterly advance payments to vendors under certain contracts with the dept of homeless services, the mayor's office of criminal justice and other agencies and to establish a pilot program for quarterly advance payments to vendors under contract."
       },
       "first_seen_timestamp": "2025-10-04T08:16:34.523460",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-04T08:16:34.523460",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -815,8 +852,8 @@
         "SyntheticMeetingTopic": "Oversight - Sustainability in City Government."
       },
       "first_seen_timestamp": "2025-10-07T08:19:31.979820",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-07T08:19:31.979820",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -854,15 +891,13 @@
         "SyntheticMeetingTopic": "Oversight - Updates on NYCHA\u2019s Remediation of Mold."
       },
       "first_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-10T08:19:01.172428",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [
-        "newly_added"
-      ],
+      "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-10-10T08:19:01.172428",
       "user_facing_tags": [
@@ -897,8 +932,8 @@
         "SyntheticMeetingTopic": "Oversight \u2013 Legal Services for Immigrant New Yorkers."
       },
       "first_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -936,8 +971,8 @@
         "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
       },
       "first_seen_timestamp": "2025-10-08T08:19:32.659454",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-08T08:19:32.659454",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -945,9 +980,7 @@
       "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-10-08T08:19:32.659454",
-      "user_facing_tags": [
-        "new_hearing_tag"
-      ]
+      "user_facing_tags": []
     },
     {
       "event_data": {
@@ -976,8 +1009,8 @@
         "EventItems": []
       },
       "first_seen_timestamp": "2025-10-01T08:19:19.412411",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-07T08:19:31.979820",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -1023,8 +1056,8 @@
         "SyntheticMeetingTopic": "Oversight - NYC Ferry Operations and Waterfront Sustainability."
       },
       "first_seen_timestamp": "2025-10-04T08:16:34.523460",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-04T08:16:34.523460",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1062,8 +1095,8 @@
         "SyntheticMeetingTopic": "Oversight - The Reading and Writing Crisis Among College Students."
       },
       "first_seen_timestamp": "2025-10-07T08:19:31.979820",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-07T08:19:31.979820",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -1109,8 +1142,8 @@
         "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
       },
       "first_seen_timestamp": "2025-10-08T08:19:32.659454",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-08T08:19:32.659454",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1118,9 +1151,7 @@
       "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-10-08T08:19:32.659454",
-      "user_facing_tags": [
-        "new_hearing_tag"
-      ]
+      "user_facing_tags": []
     },
     {
       "event_data": {
@@ -1150,8 +1181,8 @@
         "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
       },
       "first_seen_timestamp": "2025-08-28T08:18:34.046646",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-08-28T08:18:34.046646",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -1197,8 +1228,8 @@
         "SyntheticMeetingTopic": "Oversight - Right to Counsel in Housing Court."
       },
       "first_seen_timestamp": "2025-10-01T08:19:19.412411",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1236,8 +1267,8 @@
         "SyntheticMeetingTopic": "Oversight - Evaluating ACS Family Enrichment Centers."
       },
       "first_seen_timestamp": "2025-10-07T08:19:31.979820",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-07T08:19:31.979820",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1275,8 +1306,8 @@
         "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
       },
       "first_seen_timestamp": "2025-09-30T08:20:14.829046",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1314,8 +1345,8 @@
         "SyntheticMeetingTopic": "Agenda 1:30 p.m."
       },
       "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1353,8 +1384,8 @@
         "SyntheticMeetingTopic": "Oversight - New York City\u2019s Bus System (Network, Operations, Equity, and Redesign)."
       },
       "first_seen_timestamp": "2025-10-07T08:19:31.979820",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-10-07T08:19:31.979820",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1392,8 +1423,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-09-26T08:19:59.936416",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1431,8 +1462,8 @@
         "SyntheticMeetingTopic": "Agenda 1:30 p.m."
       },
       "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1470,8 +1501,8 @@
         "SyntheticMeetingTopic": "Agenda 1:30 p.m."
       },
       "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1509,8 +1540,8 @@
         "SyntheticMeetingTopic": "Agenda 1:30 p.m."
       },
       "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1658,6 +1689,7 @@
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active"
       ],
       "last_alert_type": "new",
@@ -1692,8 +1724,8 @@
         "SyntheticMeetingTopic": "Correcting excess pay differentials for paraprofessionals arising from pattern bargaining practices."
       },
       "first_seen_timestamp": "2025-06-29T08:17:06.290480",
-      "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-      "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+      "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+      "last_processed_timestamp": "2025-10-11T08:16:20.805812",
       "last_significant_change_timestamp": "2025-06-29T08:17:06.290480",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1738,6 +1770,7 @@
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
       "processing_tags": [
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
@@ -1811,6 +1844,7 @@
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active"
       ],
       "last_alert_type": "new",
@@ -1821,38 +1855,38 @@
   "updates_since_last_run": [
     {
       "type": "new",
-      "alert_timestamp": "2025-10-10T08:19:01.172428",
+      "alert_timestamp": "2025-10-11T08:16:20.805812",
       "data": {
         "event_data": {
-          "EventId": 21953,
-          "EventGuid": "F791D6CE-A9BB-4B2B-9767-D166ADDB7896",
-          "EventLastModifiedUtc": "2025-10-09T16:25:18.583",
-          "EventRowVersion": "AAAAAOfqouo=",
-          "EventBodyId": 5212,
-          "EventBodyName": "Committee on Public Housing",
-          "EventDate": "2025-10-27T00:00:00",
+          "EventId": 21945,
+          "EventGuid": "5194503E-B78D-44DC-B31C-677488FD0DF5",
+          "EventLastModifiedUtc": "2025-10-10T18:59:39.227",
+          "EventRowVersion": "AAAAAOfrHsI=",
+          "EventBodyId": 5261,
+          "EventBodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
+          "EventDate": "2025-10-15T00:00:00",
           "EventTime": "10:00 AM",
           "EventVideoStatus": "Public",
           "EventAgendaStatusId": 2,
           "EventAgendaStatusName": "Final",
           "EventMinutesStatusId": 1,
           "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21953_A_Committee_on_Public_Housing_25-10-27_Committee_Agenda.pdf",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 3",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21945_A_Subcommittee_on_Landmarks%2C_Public_Sitings_and_Dispositions_25-10-15_Committee_Agenda.pdf",
           "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-10-09T16:25:18.473",
+          "EventAgendaLastPublishedUTC": "2025-10-10T18:59:39.097",
           "EventMinutesLastPublishedUTC": null,
           "EventComment": null,
           "EventVideoPath": null,
           "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21953&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21945&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
           "EventItems": [],
-          "SyntheticMeetingTopic": "Oversight - Updates on NYCHA\u2019s Remediation of Mold."
+          "SyntheticMeetingTopic": "Landmarks, 2149-2153 Pacific Street Article XI, Bronx (G 250088 XAK)"
         },
-        "first_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
-        "last_significant_change_timestamp": "2025-10-10T08:19:01.172428",
+        "first_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
+        "last_significant_change_timestamp": "2025-10-11T08:16:20.805812",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
@@ -1860,101 +1894,57 @@
           "newly_added"
         ],
         "last_alert_type": "new",
-        "last_alert_timestamp": "2025-10-10T08:19:01.172428"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-10-10T08:19:01.172428",
-      "data": {
-        "event_data": {
-          "EventId": 21951,
-          "EventGuid": "230A7FAC-12CE-41F0-BBB3-972A1005D9AF",
-          "EventLastModifiedUtc": "2025-10-10T02:53:02.69",
-          "EventRowVersion": "AAAAAOfq9ZI=",
-          "EventBodyId": 1,
-          "EventBodyName": "City Council",
-          "EventDate": "2025-10-09T00:00:00",
-          "EventTime": "1:30 PM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 2,
-          "EventMinutesStatusName": "Final",
-          "EventLocation": "Council Chambers - City Hall",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21951_A_City_Council_25-10-09_Council_Agenda.pdf",
-          "EventMinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21951_M_City_Council_25-10-09_Meeting_Minutes.pdf",
-          "EventAgendaLastPublishedUTC": "2025-10-09T19:04:05.203",
-          "EventMinutesLastPublishedUTC": "2025-10-10T02:53:02.583",
-          "EventComment": null,
-          "EventVideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_251009-161142.mp4",
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21951&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Roll Call"
-        },
-        "first_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
-        "last_significant_change_timestamp": "2025-10-10T08:19:01.172428",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-10-10T08:19:01.172428"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-10-10T08:19:01.172428",
-      "data": {
-        "event_data": {
-          "EventId": 21952,
-          "EventGuid": "A1E1A489-D568-4F50-BCF7-8C4AF1B97760",
-          "EventLastModifiedUtc": "2025-10-09T16:12:02.06",
-          "EventRowVersion": "AAAAAOfqoLQ=",
-          "EventBodyId": 20,
-          "EventBodyName": "Committee on Rules, Privileges and Elections",
-          "EventDate": "2025-10-09T00:00:00",
-          "EventTime": "11:30 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 2,
-          "EventMinutesStatusName": "Final",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21952_A_Committee_on_Rules%2C_Privileges_and_Elections_25-10-09_Committee_Agenda.pdf",
-          "EventMinutesFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21952_M_Committee_on_Rules%2C_Privileges_and_Elections_25-10-09_Meeting_Minutes.pdf",
-          "EventAgendaLastPublishedUTC": "2025-10-09T12:30:45.987",
-          "EventMinutesLastPublishedUTC": "2025-10-09T16:12:01.98",
-          "EventComment": "VOTE*",
-          "EventVideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-250-8-2_251009-114503.mp4",
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21952&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Amend the Rules of the Council to improve clarity and consistency with Council practices and precedent."
-        },
-        "first_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
-        "last_significant_change_timestamp": "2025-10-10T08:19:01.172428",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-10-10T08:19:01.172428"
+        "last_alert_timestamp": "2025-10-11T08:16:20.805812"
       }
     }
   ],
   "updates_last_7_days": [
     {
       "type": "new",
+      "alert_timestamp": "2025-10-11T08:16:20.805812",
+      "data": {
+        "event_data": {
+          "EventId": 21945,
+          "EventGuid": "5194503E-B78D-44DC-B31C-677488FD0DF5",
+          "EventLastModifiedUtc": "2025-10-10T18:59:39.227",
+          "EventRowVersion": "AAAAAOfrHsI=",
+          "EventBodyId": 5261,
+          "EventBodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
+          "EventDate": "2025-10-15T00:00:00",
+          "EventTime": "10:00 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 3",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21945_A_Subcommittee_on_Landmarks%2C_Public_Sitings_and_Dispositions_25-10-15_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-10-10T18:59:39.097",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21945&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Landmarks, 2149-2153 Pacific Street Article XI, Bronx (G 250088 XAK)"
+        },
+        "first_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
+        "last_significant_change_timestamp": "2025-10-11T08:16:20.805812",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-10-11T08:16:20.805812"
+      }
+    },
+    {
+      "type": "new",
       "alert_timestamp": "2025-10-10T08:19:01.172428",
       "data": {
         "event_data": {
@@ -1984,15 +1974,13 @@
           "SyntheticMeetingTopic": "Oversight - Updates on NYCHA\u2019s Remediation of Mold."
         },
         "first_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-10T08:19:01.172428",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2025-10-10T08:19:01.172428"
       }
@@ -2028,8 +2016,8 @@
           "SyntheticMeetingTopic": "Oversight - Housing Tax Incentives."
         },
         "first_seen_timestamp": "2025-10-09T08:18:51.162688",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-09T08:18:51.162688",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -2076,8 +2064,8 @@
           "SyntheticMeetingTopic": "Oversight - Housing Tax Incentives."
         },
         "first_seen_timestamp": "2025-10-09T08:18:51.162688",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-09T08:18:51.162688",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -2123,8 +2111,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-09T08:18:51.162688",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -2170,8 +2158,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-09T08:18:51.162688",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -2218,8 +2206,8 @@
           "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
         },
         "first_seen_timestamp": "2025-10-08T08:19:32.659454",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-08T08:19:32.659454",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2260,8 +2248,8 @@
           "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
         },
         "first_seen_timestamp": "2025-10-08T08:19:32.659454",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-08T08:19:32.659454",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2302,8 +2290,8 @@
           "SyntheticMeetingTopic": "Oversight - Working Conditions Within New York City\u2019s Emergency Response System."
         },
         "first_seen_timestamp": "2025-10-08T08:19:32.659454",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-08T08:19:32.659454",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2344,8 +2332,8 @@
           "SyntheticMeetingTopic": "Oversight - Working Conditions Within New York City\u2019s Emergency Response System."
         },
         "first_seen_timestamp": "2025-10-08T08:19:32.659454",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-08T08:19:32.659454",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2386,8 +2374,8 @@
           "SyntheticMeetingTopic": "Oversight - Working Conditions Within New York City\u2019s Emergency Response System."
         },
         "first_seen_timestamp": "2025-10-08T08:19:32.659454",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-08T08:19:32.659454",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2428,8 +2416,8 @@
           "SyntheticMeetingTopic": "Oversight - New York City\u2019s Bus System (Network, Operations, Equity, and Redesign)."
         },
         "first_seen_timestamp": "2025-10-07T08:19:31.979820",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-07T08:19:31.979820",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2470,8 +2458,8 @@
           "SyntheticMeetingTopic": "Oversight - Evaluating ACS Family Enrichment Centers."
         },
         "first_seen_timestamp": "2025-10-07T08:19:31.979820",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-07T08:19:31.979820",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2512,8 +2500,8 @@
           "SyntheticMeetingTopic": "Oversight - The Reading and Writing Crisis Among College Students."
         },
         "first_seen_timestamp": "2025-10-07T08:19:31.979820",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-07T08:19:31.979820",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -2560,8 +2548,8 @@
           "SyntheticMeetingTopic": "Oversight - Sustainability in City Government."
         },
         "first_seen_timestamp": "2025-10-07T08:19:31.979820",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-07T08:19:31.979820",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2601,8 +2589,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-23T08:18:32.435829",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-07T08:19:31.979820",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -2649,8 +2637,8 @@
           "SyntheticMeetingTopic": "Oversight - NYC Ferry Operations and Waterfront Sustainability."
         },
         "first_seen_timestamp": "2025-10-04T08:16:34.523460",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-04T08:16:34.523460",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2691,8 +2679,8 @@
           "SyntheticMeetingTopic": "Quarterly advance payments to vendors under certain contracts with the dept of homeless services, the mayor's office of criminal justice and other agencies and to establish a pilot program for quarterly advance payments to vendors under contract."
         },
         "first_seen_timestamp": "2025-10-04T08:16:34.523460",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-04T08:16:34.523460",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2706,6 +2694,50 @@
   "updates_last_30_days": [
     {
       "type": "new",
+      "alert_timestamp": "2025-10-11T08:16:20.805812",
+      "data": {
+        "event_data": {
+          "EventId": 21945,
+          "EventGuid": "5194503E-B78D-44DC-B31C-677488FD0DF5",
+          "EventLastModifiedUtc": "2025-10-10T18:59:39.227",
+          "EventRowVersion": "AAAAAOfrHsI=",
+          "EventBodyId": 5261,
+          "EventBodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
+          "EventDate": "2025-10-15T00:00:00",
+          "EventTime": "10:00 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 3",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/10/21945_A_Subcommittee_on_Landmarks%2C_Public_Sitings_and_Dispositions_25-10-15_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-10-10T18:59:39.097",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21945&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Landmarks, 2149-2153 Pacific Street Article XI, Bronx (G 250088 XAK)"
+        },
+        "first_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
+        "last_significant_change_timestamp": "2025-10-11T08:16:20.805812",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-10-11T08:16:20.805812"
+      }
+    },
+    {
+      "type": "new",
       "alert_timestamp": "2025-10-10T08:19:01.172428",
       "data": {
         "event_data": {
@@ -2735,15 +2767,13 @@
           "SyntheticMeetingTopic": "Oversight - Updates on NYCHA\u2019s Remediation of Mold."
         },
         "first_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-10T08:19:01.172428",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2025-10-10T08:19:01.172428"
       }
@@ -2779,8 +2809,8 @@
           "SyntheticMeetingTopic": "Oversight - Housing Tax Incentives."
         },
         "first_seen_timestamp": "2025-10-09T08:18:51.162688",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-09T08:18:51.162688",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -2827,8 +2857,8 @@
           "SyntheticMeetingTopic": "Oversight - Housing Tax Incentives."
         },
         "first_seen_timestamp": "2025-10-09T08:18:51.162688",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-09T08:18:51.162688",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -2874,8 +2904,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-09T08:18:51.162688",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -2921,8 +2951,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-09T08:18:51.162688",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -2969,8 +2999,8 @@
           "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
         },
         "first_seen_timestamp": "2025-10-08T08:19:32.659454",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-08T08:19:32.659454",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3011,8 +3041,8 @@
           "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
         },
         "first_seen_timestamp": "2025-10-08T08:19:32.659454",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-08T08:19:32.659454",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3053,8 +3083,8 @@
           "SyntheticMeetingTopic": "Oversight - Working Conditions Within New York City\u2019s Emergency Response System."
         },
         "first_seen_timestamp": "2025-10-08T08:19:32.659454",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-08T08:19:32.659454",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3095,8 +3125,8 @@
           "SyntheticMeetingTopic": "Oversight - Working Conditions Within New York City\u2019s Emergency Response System."
         },
         "first_seen_timestamp": "2025-10-08T08:19:32.659454",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-08T08:19:32.659454",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3137,8 +3167,8 @@
           "SyntheticMeetingTopic": "Oversight - Working Conditions Within New York City\u2019s Emergency Response System."
         },
         "first_seen_timestamp": "2025-10-08T08:19:32.659454",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-08T08:19:32.659454",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3179,8 +3209,8 @@
           "SyntheticMeetingTopic": "Oversight - New York City\u2019s Bus System (Network, Operations, Equity, and Redesign)."
         },
         "first_seen_timestamp": "2025-10-07T08:19:31.979820",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-07T08:19:31.979820",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3221,8 +3251,8 @@
           "SyntheticMeetingTopic": "Oversight - Evaluating ACS Family Enrichment Centers."
         },
         "first_seen_timestamp": "2025-10-07T08:19:31.979820",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-07T08:19:31.979820",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3263,8 +3293,8 @@
           "SyntheticMeetingTopic": "Oversight - The Reading and Writing Crisis Among College Students."
         },
         "first_seen_timestamp": "2025-10-07T08:19:31.979820",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-07T08:19:31.979820",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -3311,8 +3341,8 @@
           "SyntheticMeetingTopic": "Oversight - Sustainability in City Government."
         },
         "first_seen_timestamp": "2025-10-07T08:19:31.979820",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-07T08:19:31.979820",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3352,8 +3382,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-23T08:18:32.435829",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-07T08:19:31.979820",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -3400,8 +3430,8 @@
           "SyntheticMeetingTopic": "Oversight - NYC Ferry Operations and Waterfront Sustainability."
         },
         "first_seen_timestamp": "2025-10-04T08:16:34.523460",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-04T08:16:34.523460",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3442,8 +3472,8 @@
           "SyntheticMeetingTopic": "Quarterly advance payments to vendors under certain contracts with the dept of homeless services, the mayor's office of criminal justice and other agencies and to establish a pilot program for quarterly advance payments to vendors under contract."
         },
         "first_seen_timestamp": "2025-10-04T08:16:34.523460",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-04T08:16:34.523460",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3484,8 +3514,8 @@
           "SyntheticMeetingTopic": "Oversight - NYC: ATWORK Employment Program for New Yorkers with Disabilities."
         },
         "first_seen_timestamp": "2025-10-02T08:18:28.798844",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-02T08:18:28.798844",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3526,8 +3556,8 @@
           "SyntheticMeetingTopic": "Oversight - Right to Counsel in Housing Court."
         },
         "first_seen_timestamp": "2025-10-01T08:19:19.412411",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3567,8 +3597,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-10-01T08:19:19.412411",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-07T08:19:31.979820",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -3615,8 +3645,8 @@
           "SyntheticMeetingTopic": "Oversight - Improving Maternal Health in New York City."
         },
         "first_seen_timestamp": "2025-10-01T08:19:19.412411",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3657,8 +3687,8 @@
           "SyntheticMeetingTopic": "Oversight - Improving Maternal Health in New York City."
         },
         "first_seen_timestamp": "2025-10-01T08:19:19.412411",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3698,8 +3728,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-01T08:19:19.412411",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": {
@@ -3752,8 +3782,8 @@
           "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
         },
         "first_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3794,8 +3824,8 @@
           "SyntheticMeetingTopic": "Oversight \u2013 Legal Services for Immigrant New Yorkers."
         },
         "first_seen_timestamp": "2025-09-30T08:20:14.829046",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3836,8 +3866,8 @@
           "SyntheticMeetingTopic": "Agenda 1:30 p.m."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3878,8 +3908,8 @@
           "SyntheticMeetingTopic": "Agenda 1:30 p.m."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3920,8 +3950,8 @@
           "SyntheticMeetingTopic": "Agenda 1:30 p.m."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3962,8 +3992,8 @@
           "SyntheticMeetingTopic": "Agenda 1:30 p.m."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4004,8 +4034,8 @@
           "SyntheticMeetingTopic": "Oversight - Examining the Adequacy of Domestic and Gender-based Violence Data in NYC."
         },
         "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4045,8 +4075,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-08-22T08:19:11.769532",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-30T08:20:14.829046",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": {
@@ -4099,8 +4129,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-09-26T08:19:59.936416",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4141,8 +4171,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-09-26T08:19:59.936416",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4182,8 +4212,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-26T08:19:59.936416",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-10-03T08:17:50.870337",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4224,8 +4254,8 @@
           "SyntheticMeetingTopic": "AGENDA TO BE ANNOUNCED"
         },
         "first_seen_timestamp": "2025-09-25T08:19:00.026025",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-25T08:19:00.026025",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -4273,6 +4303,7 @@
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
         "processing_tags": [
+          "vanished_from_api_while_active",
           "vanished_from_api_while_active",
           "vanished_from_api_while_active",
           "vanished_from_api_while_active",
@@ -4349,6 +4380,7 @@
           "vanished_from_api_while_active",
           "vanished_from_api_while_active",
           "vanished_from_api_while_active",
+          "vanished_from_api_while_active",
           "vanished_from_api_while_active"
         ],
         "last_alert_type": "new",
@@ -4386,8 +4418,8 @@
           "SyntheticMeetingTopic": "Oversight - Stormwater Resiliency in a Changing Climate."
         },
         "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -4434,8 +4466,8 @@
           "SyntheticMeetingTopic": "Oversight  - The: Hart Island Capital Projects Proposal."
         },
         "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4476,8 +4508,8 @@
           "SyntheticMeetingTopic": "Oversight  - The: Hart Island Capital Projects Proposal."
         },
         "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4518,8 +4550,8 @@
           "SyntheticMeetingTopic": "Oversight  - The: Hart Island Capital Projects Proposal."
         },
         "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4560,8 +4592,8 @@
           "SyntheticMeetingTopic": "Oversight - Cybersecurity for Small Businesses."
         },
         "first_seen_timestamp": "2025-09-17T08:18:22.020880",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4601,8 +4633,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-16T08:19:29.312184",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -4648,8 +4680,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-16T08:19:29.312184",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-26T08:19:59.936416",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -4695,8 +4727,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-11T08:18:34.738875",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-16T08:19:29.312184",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -4742,8 +4774,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-11T08:18:34.738875",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-16T08:19:29.312184",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -4789,8 +4821,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-09-10T08:18:38.693371",
-        "last_seen_timestamp": "2025-10-10T08:19:01.172428",
-        "last_processed_timestamp": "2025-10-10T08:19:01.172428",
+        "last_seen_timestamp": "2025-10-11T08:16:20.805812",
+        "last_processed_timestamp": "2025-10-11T08:16:20.805812",
         "last_significant_change_timestamp": "2025-09-17T08:18:22.020880",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -4807,7 +4839,7 @@
       }
     }
   ],
-  "source_newly_added_ids_count": 3,
+  "source_newly_added_ids_count": 1,
   "source_newly_deferred_ids_count": 0,
   "source_newly_rescheduled_pairs_count": 0
 }
