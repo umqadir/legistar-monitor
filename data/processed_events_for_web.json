@@ -1,84 +1,6 @@
 {
-  "generation_timestamp": "2025-12-10T08:21:38.502986",
+  "generation_timestamp": "2025-12-11T08:22:47.078367",
   "upcoming_hearings": [
-    {
-      "event_data": {
-        "EventId": 22023,
-        "EventGuid": "18B47A3C-86AB-4EFC-86F5-950C7064767F",
-        "EventLastModifiedUtc": "2025-11-12T21:13:37.07",
-        "EventRowVersion": "AAAAAOf1hqE=",
-        "EventBodyId": 5237,
-        "EventBodyName": "Committee on Criminal Justice",
-        "EventDate": "2025-12-10T00:00:00",
-        "EventTime": "10:00 AM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "Council Chambers - City Hall",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22023_A_Committee_on_Criminal_Justice_25-12-10_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2025-11-12T21:13:37.037",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": "Jointly with the Committee on Oversight and Investigations.",
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22023&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Oversight - Visiting Rikers Island."
-      },
-      "first_seen_timestamp": "2025-11-13T08:20:05.975116",
-      "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-      "last_processed_timestamp": "2025-12-10T08:21:38.411148",
-      "last_significant_change_timestamp": "2025-11-13T08:20:05.975116",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2025-11-13T08:20:05.975116",
-      "user_facing_tags": []
-    },
-    {
-      "event_data": {
-        "EventId": 22024,
-        "EventGuid": "32F15D4F-818E-48E0-ABAA-1ED8DA857E13",
-        "EventLastModifiedUtc": "2025-11-12T21:14:11.087",
-        "EventRowVersion": "AAAAAOf1hsI=",
-        "EventBodyId": 5107,
-        "EventBodyName": "Committee on Oversight and Investigations",
-        "EventDate": "2025-12-10T00:00:00",
-        "EventTime": "10:00 AM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "Council Chambers - City Hall",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22024_A_Committee_on_Oversight_and_Investigations_25-12-10_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2025-11-12T21:14:11.043",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": "Jointly with the Committee on Criminal Justice",
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22024&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Oversight - Visiting Rikers Island."
-      },
-      "first_seen_timestamp": "2025-11-13T08:20:05.975116",
-      "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-      "last_processed_timestamp": "2025-12-10T08:21:38.411148",
-      "last_significant_change_timestamp": "2025-11-13T08:20:05.975116",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2025-11-13T08:20:05.975116",
-      "user_facing_tags": []
-    },
     {
       "event_data": {
         "EventId": 22063,
@@ -107,8 +29,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-12-02T08:22:32.558276",
-      "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-      "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+      "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+      "last_processed_timestamp": "2025-12-11T08:22:46.455770",
       "last_significant_change_timestamp": "2025-12-02T08:22:32.558276",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -146,8 +68,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-12-02T08:22:32.558276",
-      "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-      "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+      "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+      "last_processed_timestamp": "2025-12-11T08:22:46.455770",
       "last_significant_change_timestamp": "2025-12-02T08:22:32.558276",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -185,8 +107,8 @@
         "SyntheticMeetingTopic": "Oversight - Status of HealthyNYC and Citywide Health Outcomes."
       },
       "first_seen_timestamp": "2025-12-03T08:21:32.525886",
-      "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-      "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+      "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+      "last_processed_timestamp": "2025-12-11T08:22:46.455770",
       "last_significant_change_timestamp": "2025-12-03T08:21:32.525886",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -224,8 +146,8 @@
         "SyntheticMeetingTopic": "Compensation of the mayor, public advocate, members of the city council, borough presidents, comptroller and district attorneys."
       },
       "first_seen_timestamp": "2025-12-04T08:22:20.104720",
-      "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-      "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+      "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+      "last_processed_timestamp": "2025-12-11T08:22:46.455770",
       "last_significant_change_timestamp": "2025-12-04T08:22:20.104720",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -263,8 +185,8 @@
         "SyntheticMeetingTopic": "Oversight - Evaluating DOHMH\u2019s Systems for Measuring Outcomes and Equity in City-Funded Mental Health Programs."
       },
       "first_seen_timestamp": "2025-11-21T08:20:48.360958",
-      "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-      "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+      "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+      "last_processed_timestamp": "2025-12-11T08:22:46.455770",
       "last_significant_change_timestamp": "2025-11-21T08:20:48.360958",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -302,8 +224,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-12-04T08:22:20.104720",
-      "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-      "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+      "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+      "last_processed_timestamp": "2025-12-11T08:22:46.455770",
       "last_significant_change_timestamp": "2025-12-04T08:22:20.104720",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -341,8 +263,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-11-27T08:21:44.312866",
-      "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-      "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+      "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+      "last_processed_timestamp": "2025-12-11T08:22:46.455770",
       "last_significant_change_timestamp": "2025-11-27T08:21:44.312866",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -380,8 +302,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-11-27T08:21:44.312866",
-      "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-      "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+      "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+      "last_processed_timestamp": "2025-12-11T08:22:46.455770",
       "last_significant_change_timestamp": "2025-11-27T08:21:44.312866",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -390,6 +312,57 @@
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-11-27T08:21:44.312866",
       "user_facing_tags": []
+    },
+    {
+      "event_data": {
+        "EventId": 22089,
+        "EventGuid": "7C900721-BB8F-4832-A38D-0C5C7E6BE547",
+        "EventLastModifiedUtc": "2025-12-11T04:46:24.6",
+        "EventRowVersion": "AAAAAOf7tY8=",
+        "EventBodyId": 11,
+        "EventBodyName": "Committee on Finance",
+        "EventDate": "2025-12-18T00:00:00",
+        "EventTime": "11:30 AM",
+        "EventVideoStatus": "Public",
+        "EventAgendaStatusId": 2,
+        "EventAgendaStatusName": "Final",
+        "EventMinutesStatusId": 1,
+        "EventMinutesStatusName": "Draft",
+        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
+        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22089_A_Committee_on_Finance_25-12-18_Committee_Agenda.pdf",
+        "EventMinutesFile": null,
+        "EventAgendaLastPublishedUTC": "2025-12-11T04:46:24.49",
+        "EventMinutesLastPublishedUTC": null,
+        "EventComment": null,
+        "EventVideoPath": null,
+        "EventMedia": null,
+        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22089&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+        "EventItems": [],
+        "SyntheticMeetingTopic": "Coney Island business improvement district, Brooklyn."
+      },
+      "first_seen_timestamp": "2025-12-11T08:22:46.455770",
+      "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+      "last_processed_timestamp": "2025-12-11T08:22:46.455770",
+      "last_significant_change_timestamp": "2025-12-11T08:22:46.455770",
+      "current_status": "active",
+      "original_event_details_if_rescheduled": {
+        "original_event_id": "22031",
+        "original_date": "2025-12-11T00:00:00",
+        "original_time": "10:00 AM",
+        "original_status_when_deferred": "Deferred",
+        "match_timestamp": "2025-12-11T08:22:46.455770"
+      },
+      "rescheduled_event_details_if_deferred": null,
+      "processing_tags": [
+        "newly_added",
+        "newly_added_as_reschedule_target"
+      ],
+      "last_alert_type": "new",
+      "last_alert_timestamp": "2025-12-11T08:22:46.455770",
+      "user_facing_tags": [
+        "new_hearing_tag",
+        "rescheduled_hearing_tag"
+      ]
     },
     {
       "event_data": {
@@ -419,8 +392,8 @@
         "SyntheticMeetingTopic": "Agenda 1:30 p.m."
       },
       "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-      "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-      "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+      "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+      "last_processed_timestamp": "2025-12-11T08:22:46.455770",
       "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -466,6 +439,7 @@
       "rescheduled_event_details_if_deferred": null,
       "processing_tags": [
         "newly_added",
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
@@ -746,6 +720,7 @@
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active"
       ],
       "last_alert_type": "new",
@@ -862,6 +837,7 @@
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active"
       ],
       "last_alert_type": "new",
@@ -869,96 +845,166 @@
       "user_facing_tags": []
     }
   ],
-  "updates_since_last_run": [],
+  "updates_since_last_run": [
+    {
+      "type": "new",
+      "alert_timestamp": "2025-12-11T08:22:46.455770",
+      "data": {
+        "event_data": {
+          "EventId": 22089,
+          "EventGuid": "7C900721-BB8F-4832-A38D-0C5C7E6BE547",
+          "EventLastModifiedUtc": "2025-12-11T04:46:24.6",
+          "EventRowVersion": "AAAAAOf7tY8=",
+          "EventBodyId": 11,
+          "EventBodyName": "Committee on Finance",
+          "EventDate": "2025-12-18T00:00:00",
+          "EventTime": "11:30 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22089_A_Committee_on_Finance_25-12-18_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-12-11T04:46:24.49",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22089&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Coney Island business improvement district, Brooklyn."
+        },
+        "first_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
+        "last_significant_change_timestamp": "2025-12-11T08:22:46.455770",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": {
+          "original_event_id": "22031",
+          "original_date": "2025-12-11T00:00:00",
+          "original_time": "10:00 AM",
+          "original_status_when_deferred": "Deferred",
+          "match_timestamp": "2025-12-11T08:22:46.455770"
+        },
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added",
+          "newly_added_as_reschedule_target"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-12-11T08:22:46.455770"
+      }
+    }
+  ],
   "updates_last_7_days": [
     {
       "type": "new",
-      "alert_timestamp": "2025-12-04T08:22:20.104720",
+      "alert_timestamp": "2025-12-11T08:22:46.455770",
       "data": {
         "event_data": {
-          "EventId": 22073,
-          "EventGuid": "CB428356-9E79-4582-A8BA-B10CF0AA69F2",
-          "EventLastModifiedUtc": "2025-12-04T00:43:13.343",
-          "EventRowVersion": "AAAAAOf6ZYc=",
-          "EventBodyId": 5261,
-          "EventBodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
+          "EventId": 22089,
+          "EventGuid": "7C900721-BB8F-4832-A38D-0C5C7E6BE547",
+          "EventLastModifiedUtc": "2025-12-11T04:46:24.6",
+          "EventRowVersion": "AAAAAOf7tY8=",
+          "EventBodyId": 11,
+          "EventBodyName": "Committee on Finance",
           "EventDate": "2025-12-18T00:00:00",
-          "EventTime": "10:30 AM",
+          "EventTime": "11:30 AM",
           "EventVideoStatus": "Public",
           "EventAgendaStatusId": 2,
           "EventAgendaStatusName": "Final",
           "EventMinutesStatusId": 1,
           "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 3",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22073_A_Subcommittee_on_Landmarks%2C_Public_Sitings_and_Dispositions_25-12-18_Committee_Agenda.pdf",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22089_A_Committee_on_Finance_25-12-18_Committee_Agenda.pdf",
           "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-12-04T00:43:13.203",
+          "EventAgendaLastPublishedUTC": "2025-12-11T04:46:24.49",
           "EventMinutesLastPublishedUTC": null,
           "EventComment": null,
           "EventVideoPath": null,
           "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22073&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22089&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
           "EventItems": [],
-          "SyntheticMeetingTopic": "See Land Use Calendar"
+          "SyntheticMeetingTopic": "Coney Island business improvement district, Brooklyn."
         },
-        "first_seen_timestamp": "2025-12-04T08:22:20.104720",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
-        "last_significant_change_timestamp": "2025-12-04T08:22:20.104720",
+        "first_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
+        "last_significant_change_timestamp": "2025-12-11T08:22:46.455770",
         "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-12-04T08:22:20.104720"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-12-04T08:22:20.104720",
-      "data": {
-        "event_data": {
-          "EventId": 22049,
-          "EventGuid": "830BA311-2162-4FF2-AB54-85BEB9023415",
-          "EventLastModifiedUtc": "2025-12-03T14:31:45.01",
-          "EventRowVersion": "AAAAAOf6IfM=",
-          "EventBodyId": 5293,
-          "EventBodyName": "Committee on Governmental Operations, State & Federal Legislation",
-          "EventDate": "2025-12-16T00:00:00",
-          "EventTime": "12:00 PM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22049_A_Committee_on_Governmental_Operations%2C_State___Federal_Legislation_25-12-16_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-12-03T14:31:44.9",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22049&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Compensation of the mayor, public advocate, members of the city council, borough presidents, comptroller and district attorneys."
+        "original_event_details_if_rescheduled": {
+          "original_event_id": "22031",
+          "original_date": "2025-12-11T00:00:00",
+          "original_time": "10:00 AM",
+          "original_status_when_deferred": "Deferred",
+          "match_timestamp": "2025-12-11T08:22:46.455770"
         },
-        "first_seen_timestamp": "2025-12-04T08:22:20.104720",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
-        "last_significant_change_timestamp": "2025-12-04T08:22:20.104720",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
+        "processing_tags": [
+          "newly_added",
+          "newly_added_as_reschedule_target"
+        ],
         "last_alert_type": "new",
-        "last_alert_timestamp": "2025-12-04T08:22:20.104720"
+        "last_alert_timestamp": "2025-12-11T08:22:46.455770"
       }
     }
   ],
   "updates_last_30_days": [
     {
       "type": "new",
+      "alert_timestamp": "2025-12-11T08:22:46.455770",
+      "data": {
+        "event_data": {
+          "EventId": 22089,
+          "EventGuid": "7C900721-BB8F-4832-A38D-0C5C7E6BE547",
+          "EventLastModifiedUtc": "2025-12-11T04:46:24.6",
+          "EventRowVersion": "AAAAAOf7tY8=",
+          "EventBodyId": 11,
+          "EventBodyName": "Committee on Finance",
+          "EventDate": "2025-12-18T00:00:00",
+          "EventTime": "11:30 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22089_A_Committee_on_Finance_25-12-18_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-12-11T04:46:24.49",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": null,
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22089&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Coney Island business improvement district, Brooklyn."
+        },
+        "first_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
+        "last_significant_change_timestamp": "2025-12-11T08:22:46.455770",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": {
+          "original_event_id": "22031",
+          "original_date": "2025-12-11T00:00:00",
+          "original_time": "10:00 AM",
+          "original_status_when_deferred": "Deferred",
+          "match_timestamp": "2025-12-11T08:22:46.455770"
+        },
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added",
+          "newly_added_as_reschedule_target"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-12-11T08:22:46.455770"
+      }
+    },
+    {
+      "type": "new",
       "alert_timestamp": "2025-12-04T08:22:20.104720",
       "data": {
         "event_data": {
@@ -988,8 +1034,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-12-04T08:22:20.104720",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
         "last_significant_change_timestamp": "2025-12-04T08:22:20.104720",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1030,8 +1076,8 @@
           "SyntheticMeetingTopic": "Compensation of the mayor, public advocate, members of the city council, borough presidents, comptroller and district attorneys."
         },
         "first_seen_timestamp": "2025-12-04T08:22:20.104720",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
         "last_significant_change_timestamp": "2025-12-04T08:22:20.104720",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1072,8 +1118,8 @@
           "SyntheticMeetingTopic": "Oversight - Status of HealthyNYC and Citywide Health Outcomes."
         },
         "first_seen_timestamp": "2025-12-03T08:21:32.525886",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
         "last_significant_change_timestamp": "2025-12-03T08:21:32.525886",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1114,8 +1160,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-12-02T08:22:32.558276",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
         "last_significant_change_timestamp": "2025-12-02T08:22:32.558276",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1156,8 +1202,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-12-02T08:22:32.558276",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
         "last_significant_change_timestamp": "2025-12-02T08:22:32.558276",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1197,13 +1243,21 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-11T08:20:03.958004",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
-        "last_significant_change_timestamp": "2025-12-02T08:22:32.558276",
-        "current_status": "deferred_pending_match",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
+        "last_significant_change_timestamp": "2025-12-11T08:22:46.455770",
+        "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
+        "rescheduled_event_details_if_deferred": {
+          "matched_event_id": "22089",
+          "new_date": "2025-12-18T00:00:00",
+          "new_time": "11:30 AM",
+          "new_location": "250 Broadway - 8th Floor - Hearing Room 2",
+          "match_timestamp": "2025-12-11T08:22:46.455770"
+        },
+        "processing_tags": [
+          "became_rescheduled_match_found_for_original"
+        ],
         "last_alert_type": "deferred",
         "last_alert_timestamp": "2025-12-02T08:22:32.558276"
       }
@@ -1239,8 +1293,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-11-27T08:21:44.312866",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
         "last_significant_change_timestamp": "2025-11-27T08:21:44.312866",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1281,8 +1335,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-11-27T08:21:44.312866",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
         "last_significant_change_timestamp": "2025-11-27T08:21:44.312866",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1322,8 +1376,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-25T08:21:19.420468",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
         "last_significant_change_timestamp": "2025-11-27T08:21:44.312866",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -1369,8 +1423,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-22T08:17:59.168953",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
         "last_significant_change_timestamp": "2025-11-27T08:21:44.312866",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -1416,8 +1470,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-21T08:20:48.360958",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
         "last_significant_change_timestamp": "2025-12-02T08:22:32.558276",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -1463,8 +1517,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-21T08:20:48.360958",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
         "last_significant_change_timestamp": "2025-12-02T08:22:32.558276",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -1511,8 +1565,8 @@
           "SyntheticMeetingTopic": "Oversight - Evaluating DOHMH\u2019s Systems for Measuring Outcomes and Equity in City-Funded Mental Health Programs."
         },
         "first_seen_timestamp": "2025-11-21T08:20:48.360958",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
         "last_significant_change_timestamp": "2025-11-21T08:20:48.360958",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1552,8 +1606,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-07T08:19:59.807127",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
         "last_significant_change_timestamp": "2025-11-20T08:20:48.021668",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -1599,8 +1653,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-01T08:16:51.523572",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
         "last_significant_change_timestamp": "2025-11-14T08:19:44.132168",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -1614,90 +1668,6 @@
         "processing_tags": [],
         "last_alert_type": "deferred",
         "last_alert_timestamp": "2025-11-14T08:19:44.132168"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-11-13T08:20:05.975116",
-      "data": {
-        "event_data": {
-          "EventId": 22023,
-          "EventGuid": "18B47A3C-86AB-4EFC-86F5-950C7064767F",
-          "EventLastModifiedUtc": "2025-11-12T21:13:37.07",
-          "EventRowVersion": "AAAAAOf1hqE=",
-          "EventBodyId": 5237,
-          "EventBodyName": "Committee on Criminal Justice",
-          "EventDate": "2025-12-10T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "Council Chambers - City Hall",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22023_A_Committee_on_Criminal_Justice_25-12-10_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-11-12T21:13:37.037",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "Jointly with the Committee on Oversight and Investigations.",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22023&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Oversight - Visiting Rikers Island."
-        },
-        "first_seen_timestamp": "2025-11-13T08:20:05.975116",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
-        "last_significant_change_timestamp": "2025-11-13T08:20:05.975116",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-11-13T08:20:05.975116"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-11-13T08:20:05.975116",
-      "data": {
-        "event_data": {
-          "EventId": 22024,
-          "EventGuid": "32F15D4F-818E-48E0-ABAA-1ED8DA857E13",
-          "EventLastModifiedUtc": "2025-11-12T21:14:11.087",
-          "EventRowVersion": "AAAAAOf1hsI=",
-          "EventBodyId": 5107,
-          "EventBodyName": "Committee on Oversight and Investigations",
-          "EventDate": "2025-12-10T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "Council Chambers - City Hall",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22024_A_Committee_on_Oversight_and_Investigations_25-12-10_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-11-12T21:14:11.043",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "Jointly with the Committee on Criminal Justice",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22024&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Oversight - Visiting Rikers Island."
-        },
-        "first_seen_timestamp": "2025-11-13T08:20:05.975116",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
-        "last_significant_change_timestamp": "2025-11-13T08:20:05.975116",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-11-13T08:20:05.975116"
       }
     },
     {
@@ -1730,8 +1700,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-04T08:20:32.736747",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
         "last_significant_change_timestamp": "2025-11-13T08:20:05.975116",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -1777,8 +1747,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-04T08:20:32.736747",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
+        "last_seen_timestamp": "2025-12-11T08:22:46.455770",
+        "last_processed_timestamp": "2025-12-11T08:22:46.455770",
         "last_significant_change_timestamp": "2025-11-13T08:20:05.975116",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -1793,56 +1763,9 @@
         "last_alert_type": "deferred",
         "last_alert_timestamp": "2025-11-13T08:20:05.975116"
       }
-    },
-    {
-      "type": "deferred",
-      "alert_timestamp": "2025-11-11T08:20:03.958004",
-      "data": {
-        "event_data": {
-          "EventId": 21958,
-          "EventGuid": "EBE451CB-8590-494E-B86E-EA3D79D4B804",
-          "EventLastModifiedUtc": "2025-11-10T17:57:05.343",
-          "EventRowVersion": "AAAAAOf061I=",
-          "EventBodyId": 16,
-          "EventBodyName": "Committee on Housing and Buildings",
-          "EventDate": "2025-11-13T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 4,
-          "EventAgendaStatusName": "Deferred",
-          "EventMinutesStatusId": 4,
-          "EventMinutesStatusName": "Deferred",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/21958_A_Committee_on_Housing_and_Buildings_25-11-13_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-11-10T17:57:05.31",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=21958&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": []
-        },
-        "first_seen_timestamp": "2025-10-24T08:19:15.604039",
-        "last_seen_timestamp": "2025-12-10T08:21:38.411148",
-        "last_processed_timestamp": "2025-12-10T08:21:38.411148",
-        "last_significant_change_timestamp": "2025-11-11T08:20:03.958004",
-        "current_status": "deferred_rescheduled_internal",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": {
-          "matched_event_id": "22029",
-          "new_date": "2025-12-02T00:00:00",
-          "new_time": "10:00 AM",
-          "new_location": "250 Broadway - 8th Floor - Hearing Room 1",
-          "match_timestamp": "2025-11-11T08:20:03.958004"
-        },
-        "processing_tags": [],
-        "last_alert_type": "deferred",
-        "last_alert_timestamp": "2025-11-11T08:20:03.958004"
-      }
     }
   ],
-  "source_newly_added_ids_count": 0,
+  "source_newly_added_ids_count": 1,
   "source_newly_deferred_ids_count": 0,
-  "source_newly_rescheduled_pairs_count": 0
+  "source_newly_rescheduled_pairs_count": 1
 }
