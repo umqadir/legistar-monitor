@@ -1,162 +1,6 @@
 {
-  "generation_timestamp": "2025-12-17T08:22:29.736269",
+  "generation_timestamp": "2025-12-18T08:21:55.077741",
   "upcoming_hearings": [
-    {
-      "event_data": {
-        "EventId": 22099,
-        "EventGuid": "5242C4B2-0AD3-479B-8253-092596BD1B58",
-        "EventLastModifiedUtc": "2025-12-12T19:40:54.397",
-        "EventRowVersion": "AAAAAOf8Goc=",
-        "EventBodyId": 14,
-        "EventBodyName": "Committee on Health",
-        "EventDate": "2025-12-17T00:00:00",
-        "EventTime": "10:00 AM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22099_A_Committee_on_Health_25-12-17_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2025-12-12T19:40:54.357",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": "VOTE*",
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22099&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Requiring pain management options be offered to patients undergoing in-office gynecologic procedures."
-      },
-      "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
-      "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2025-12-13T08:18:47.567575",
-      "user_facing_tags": []
-    },
-    {
-      "event_data": {
-        "EventId": 22098,
-        "EventGuid": "26E80739-F5C4-4A55-8BE2-EBA99898A553",
-        "EventLastModifiedUtc": "2025-12-12T19:36:26.897",
-        "EventRowVersion": "AAAAAOf8GjE=",
-        "EventBodyId": 5122,
-        "EventBodyName": "Committee on Veterans",
-        "EventDate": "2025-12-17T00:00:00",
-        "EventTime": "10:45 AM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22098_A_Committee_on_Veterans_25-12-17_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2025-12-12T19:36:26.767",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": "VOTE*",
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22098&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Requiring the department of housing preservation and development to submit reports on veteran preference in Mitchell-Lama developments."
-      },
-      "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
-      "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2025-12-13T08:18:47.567575",
-      "user_facing_tags": []
-    },
-    {
-      "event_data": {
-        "EventId": 22065,
-        "EventGuid": "23DBF4FF-75B6-44DE-B7AD-B26DEFA16EF7",
-        "EventLastModifiedUtc": "2025-12-12T20:26:47.223",
-        "EventRowVersion": "AAAAAOf8Iq0=",
-        "EventBodyId": 5243,
-        "EventBodyName": "Committee on Mental Health, Disabilities and Addiction",
-        "EventDate": "2025-12-17T00:00:00",
-        "EventTime": "12:45 PM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22065_A_Committee_on_Mental_Health%2C_Disabilities_and_Addiction_25-12-17_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2025-12-12T20:26:47.107",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": "VOTE*",
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22065&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Prohibiting the distribution of hypodermic syringes and needles by mobile syringe service programs in certain locations."
-      },
-      "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
-      "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2025-12-13T08:18:47.567575",
-      "user_facing_tags": []
-    },
-    {
-      "event_data": {
-        "EventId": 22047,
-        "EventGuid": "F533A70D-5AEB-41DE-85C4-0C1A1A55186F",
-        "EventLastModifiedUtc": "2025-11-20T21:06:14.32",
-        "EventRowVersion": "AAAAAOf2yo4=",
-        "EventBodyId": 5243,
-        "EventBodyName": "Committee on Mental Health, Disabilities and Addiction",
-        "EventDate": "2025-12-17T00:00:00",
-        "EventTime": "1:00 PM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22047_A_Committee_on_Mental_Health%2C_Disabilities_and_Addiction_25-12-17_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2025-11-20T21:06:14.207",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": null,
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22047&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Oversight - Evaluating DOHMH\u2019s Systems for Measuring Outcomes and Equity in City-Funded Mental Health Programs."
-      },
-      "first_seen_timestamp": "2025-11-21T08:20:48.360958",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
-      "last_significant_change_timestamp": "2025-11-21T08:20:48.360958",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2025-11-21T08:20:48.360958",
-      "user_facing_tags": []
-    },
     {
       "event_data": {
         "EventId": 22112,
@@ -185,15 +29,13 @@
         "SyntheticMeetingTopic": "Oversight - Meeting pursuant to Council Rule 10.60."
       },
       "first_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [
-        "newly_added"
-      ],
+      "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-12-17T08:22:27.891798",
       "user_facing_tags": [
@@ -228,8 +70,8 @@
         "SyntheticMeetingTopic": "Requiring the department of education to report on student access to home internet and electronic devices."
       },
       "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -267,8 +109,8 @@
         "SyntheticMeetingTopic": "Housing decisions for transgender, gender nonconforming, non-binary and intersex individuals."
       },
       "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -308,15 +150,13 @@
         "SyntheticMeetingTopic": "Allocating funds for the restoration of the SS United States and for its relocation to the City of New York."
       },
       "first_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [
-        "newly_added"
-      ],
+      "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-12-17T08:22:27.891798",
       "user_facing_tags": [
@@ -362,6 +202,7 @@
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active"
       ],
       "last_alert_type": "new",
@@ -396,8 +237,8 @@
         "SyntheticMeetingTopic": "Requiring the department of social services to create web forms for benefits and services applications."
       },
       "first_seen_timestamp": "2025-12-14T08:19:19.089953",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-14T08:19:19.089953",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -435,8 +276,8 @@
         "SyntheticMeetingTopic": "Prohibiting the police department from collecting DNA from a minor without consent from a parent, legal guardian or attorney."
       },
       "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -476,8 +317,8 @@
         "SyntheticMeetingTopic": "The New York State College Safety Act"
       },
       "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -517,8 +358,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-12-04T08:22:20.104720",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-04T08:22:20.104720",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -556,8 +397,8 @@
         "SyntheticMeetingTopic": "Redefining terms concerning immigration enforcement to account for current enforcement practices, and prohibiting the maintenance of an office or quarters on property under the jurisdiction of the DOC by federal immigration authorities."
       },
       "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -595,15 +436,13 @@
         "SyntheticMeetingTopic": "Creation of a task force to review the impacts of artificial intelligence on civil service and civil service employees."
       },
       "first_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [
-        "newly_added"
-      ],
+      "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-12-17T08:22:27.891798",
       "user_facing_tags": [
@@ -638,8 +477,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-11-27T08:21:44.312866",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-11-27T08:21:44.312866",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -677,8 +516,8 @@
         "SyntheticMeetingTopic": "Wrongful deactivation of app-based contracted delivery workers."
       },
       "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -718,15 +557,13 @@
         "SyntheticMeetingTopic": "Wrongful deactivation of high-volume for-hire vehicle drivers."
       },
       "first_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [
-        "newly_added"
-      ],
+      "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-12-17T08:22:27.891798",
       "user_facing_tags": [
@@ -761,8 +598,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2025-11-27T08:21:44.312866",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-11-27T08:21:44.312866",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -800,8 +637,8 @@
         "SyntheticMeetingTopic": "Requiring the borough presidents to provide equal employment opportunity trainings to community board members."
       },
       "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -839,8 +676,8 @@
         "SyntheticMeetingTopic": "Establishment of standards and procedures to determine the existence of conflicts of interest and other misconduct concerning city contracts."
       },
       "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -880,8 +717,8 @@
         "SyntheticMeetingTopic": "Department of sanitation rule regarding supplemental sanitation service providers placing out refuse or recycling."
       },
       "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -921,8 +758,8 @@
         "SyntheticMeetingTopic": "Establishment of a Wards Island affordable housing task force."
       },
       "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -962,8 +799,8 @@
         "SyntheticMeetingTopic": "Small business loan readiness resources."
       },
       "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1002,8 +839,8 @@
         "EventItems": []
       },
       "first_seen_timestamp": "2025-12-11T08:22:46.455770",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -1014,9 +851,7 @@
         "match_timestamp": "2025-12-11T08:22:46.455770"
       },
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [
-        "data_changed"
-      ],
+      "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-12-11T08:22:46.455770",
       "user_facing_tags": [
@@ -1051,8 +886,8 @@
         "SyntheticMeetingTopic": "Naming of 77 thoroughfares and public places."
       },
       "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1090,8 +925,8 @@
         "SyntheticMeetingTopic": "Providing contracted ferry service at reduced cost to middle school students."
       },
       "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1130,8 +965,8 @@
         "EventItems": []
       },
       "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-15T08:24:42.054660",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1140,6 +975,49 @@
       "last_alert_type": "new",
       "last_alert_timestamp": "2025-12-13T08:18:47.567575",
       "user_facing_tags": []
+    },
+    {
+      "event_data": {
+        "EventId": 22113,
+        "EventGuid": "7DC9F0FA-A8C9-493C-A9D3-D6F21048D37D",
+        "EventLastModifiedUtc": "2025-12-17T15:25:59.207",
+        "EventRowVersion": "AAAAAOf855Q=",
+        "EventBodyId": 5239,
+        "EventBodyName": "Committee on Fire and Emergency Management",
+        "EventDate": "2025-12-18T00:00:00",
+        "EventTime": "11:45 AM",
+        "EventVideoStatus": "Public",
+        "EventAgendaStatusId": 2,
+        "EventAgendaStatusName": "Final",
+        "EventMinutesStatusId": 1,
+        "EventMinutesStatusName": "Draft",
+        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
+        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22113_A_Committee_on_Fire_and_Emergency_Management_25-12-18_Committee_Agenda.pdf",
+        "EventMinutesFile": null,
+        "EventAgendaLastPublishedUTC": "2025-12-17T15:25:59.1",
+        "EventMinutesLastPublishedUTC": null,
+        "EventComment": "VOTE*",
+        "EventVideoPath": null,
+        "EventMedia": null,
+        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22113&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+        "EventItems": [],
+        "SyntheticMeetingTopic": "Annual reporting on fire department vehicles and equipment."
+      },
+      "first_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
+      "last_significant_change_timestamp": "2025-12-18T08:21:54.738880",
+      "current_status": "active",
+      "original_event_details_if_rescheduled": null,
+      "rescheduled_event_details_if_deferred": null,
+      "processing_tags": [
+        "newly_added"
+      ],
+      "last_alert_type": "new",
+      "last_alert_timestamp": "2025-12-18T08:21:54.738880",
+      "user_facing_tags": [
+        "new_hearing_tag"
+      ]
     },
     {
       "event_data": {
@@ -1169,8 +1047,8 @@
         "SyntheticMeetingTopic": "Agenda 1:30 p.m."
       },
       "first_seen_timestamp": "2025-09-27T08:16:14.797768",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-09-27T08:16:14.797768",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1385,6 +1263,7 @@
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active"
       ],
       "last_alert_type": "new",
@@ -1419,8 +1298,8 @@
         "SyntheticMeetingTopic": "Prohibiting calf roping and the use of electric prods and flank straps in connection with rodeos."
       },
       "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-      "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-      "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+      "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+      "last_processed_timestamp": "2025-12-18T08:21:54.738880",
       "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1465,6 +1344,7 @@
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
       "processing_tags": [
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
@@ -1672,6 +1552,7 @@
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active"
       ],
       "last_alert_type": "new",
@@ -1682,38 +1563,38 @@
   "updates_since_last_run": [
     {
       "type": "new",
-      "alert_timestamp": "2025-12-17T08:22:27.891798",
+      "alert_timestamp": "2025-12-18T08:21:54.738880",
       "data": {
         "event_data": {
-          "EventId": 22103,
-          "EventGuid": "E19D9A98-18B3-42E0-9D9F-A1E7DA427AD0",
-          "EventLastModifiedUtc": "2025-12-16T14:26:05.447",
-          "EventRowVersion": "AAAAAOf8m3g=",
-          "EventBodyId": 5268,
-          "EventBodyName": "Committee on Transportation and Infrastructure",
+          "EventId": 22113,
+          "EventGuid": "7DC9F0FA-A8C9-493C-A9D3-D6F21048D37D",
+          "EventLastModifiedUtc": "2025-12-17T15:25:59.207",
+          "EventRowVersion": "AAAAAOf855Q=",
+          "EventBodyId": 5239,
+          "EventBodyName": "Committee on Fire and Emergency Management",
           "EventDate": "2025-12-18T00:00:00",
-          "EventTime": "10:45 AM",
+          "EventTime": "11:45 AM",
           "EventVideoStatus": "Public",
           "EventAgendaStatusId": 2,
           "EventAgendaStatusName": "Final",
           "EventMinutesStatusId": 1,
           "EventMinutesStatusName": "Draft",
           "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22103_A_Committee_on_Transportation_and_Infrastructure_25-12-18_Committee_Agenda.pdf",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22113_A_Committee_on_Fire_and_Emergency_Management_25-12-18_Committee_Agenda.pdf",
           "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-12-16T14:26:05.307",
+          "EventAgendaLastPublishedUTC": "2025-12-17T15:25:59.1",
           "EventMinutesLastPublishedUTC": null,
           "EventComment": "VOTE*",
           "EventVideoPath": null,
           "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22103&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22113&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
           "EventItems": [],
-          "SyntheticMeetingTopic": "Wrongful deactivation of high-volume for-hire vehicle drivers."
+          "SyntheticMeetingTopic": "Annual reporting on fire department vehicles and equipment."
         },
-        "first_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
-        "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
+        "first_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
+        "last_significant_change_timestamp": "2025-12-18T08:21:54.738880",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
@@ -1721,145 +1602,57 @@
           "newly_added"
         ],
         "last_alert_type": "new",
-        "last_alert_timestamp": "2025-12-17T08:22:27.891798"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-12-17T08:22:27.891798",
-      "data": {
-        "event_data": {
-          "EventId": 22077,
-          "EventGuid": "531B5931-6FFD-46CD-BF12-BFBC9A68E323",
-          "EventLastModifiedUtc": "2025-12-16T19:46:59.603",
-          "EventRowVersion": "AAAAAOf8vgI=",
-          "EventBodyId": 4,
-          "EventBodyName": "Committee on Civil Service and Labor",
-          "EventDate": "2025-12-18T00:00:00",
-          "EventTime": "10:30 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22077_A_Committee_on_Civil_Service_and_Labor_25-12-18_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-12-16T19:46:59.463",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22077&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Creation of a task force to review the impacts of artificial intelligence on civil service and civil service employees."
-        },
-        "first_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
-        "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-12-17T08:22:27.891798"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-12-17T08:22:27.891798",
-      "data": {
-        "event_data": {
-          "EventId": 22109,
-          "EventGuid": "31DD7A01-57FB-47E6-95A0-2F79B4FF745A",
-          "EventLastModifiedUtc": "2025-12-16T15:56:10.477",
-          "EventRowVersion": "AAAAAOf8o1w=",
-          "EventBodyId": 5299,
-          "EventBodyName": "Committee on Cultural Affairs, Libraries and International Intergroup Organizations ",
-          "EventDate": "2025-12-18T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 3",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22109_A_Committee_on_Cultural_Affairs%2C_Libraries_and_International_Intergroup_Organizations__25-12-18_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-12-16T15:56:10.337",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22109&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Allocating funds for the restoration of the SS United States and for its relocation to the City of New York."
-        },
-        "first_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
-        "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-12-17T08:22:27.891798"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-12-17T08:22:27.891798",
-      "data": {
-        "event_data": {
-          "EventId": 22112,
-          "EventGuid": "F63DA48A-7B74-4AFE-9A2E-190EA382F074",
-          "EventLastModifiedUtc": "2025-12-16T22:09:02.477",
-          "EventRowVersion": "AAAAAOf8x7M=",
-          "EventBodyId": 21,
-          "EventBodyName": "Committee on Standards and Ethics",
-          "EventDate": "2025-12-18T00:00:00",
-          "EventTime": "9:15 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 3",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22112_A_Committee_on_Standards_and_Ethics_25-12-18_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-12-16T22:09:02.36",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22112&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Oversight - Meeting pursuant to Council Rule 10.60."
-        },
-        "first_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
-        "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-12-17T08:22:27.891798"
+        "last_alert_timestamp": "2025-12-18T08:21:54.738880"
       }
     }
   ],
   "updates_last_7_days": [
     {
       "type": "new",
+      "alert_timestamp": "2025-12-18T08:21:54.738880",
+      "data": {
+        "event_data": {
+          "EventId": 22113,
+          "EventGuid": "7DC9F0FA-A8C9-493C-A9D3-D6F21048D37D",
+          "EventLastModifiedUtc": "2025-12-17T15:25:59.207",
+          "EventRowVersion": "AAAAAOf855Q=",
+          "EventBodyId": 5239,
+          "EventBodyName": "Committee on Fire and Emergency Management",
+          "EventDate": "2025-12-18T00:00:00",
+          "EventTime": "11:45 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22113_A_Committee_on_Fire_and_Emergency_Management_25-12-18_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-12-17T15:25:59.1",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "VOTE*",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22113&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Annual reporting on fire department vehicles and equipment."
+        },
+        "first_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
+        "last_significant_change_timestamp": "2025-12-18T08:21:54.738880",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-12-18T08:21:54.738880"
+      }
+    },
+    {
+      "type": "new",
       "alert_timestamp": "2025-12-17T08:22:27.891798",
       "data": {
         "event_data": {
@@ -1889,15 +1682,13 @@
           "SyntheticMeetingTopic": "Wrongful deactivation of high-volume for-hire vehicle drivers."
         },
         "first_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2025-12-17T08:22:27.891798"
       }
@@ -1933,15 +1724,13 @@
           "SyntheticMeetingTopic": "Creation of a task force to review the impacts of artificial intelligence on civil service and civil service employees."
         },
         "first_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2025-12-17T08:22:27.891798"
       }
@@ -1977,15 +1766,13 @@
           "SyntheticMeetingTopic": "Allocating funds for the restoration of the SS United States and for its relocation to the City of New York."
         },
         "first_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2025-12-17T08:22:27.891798"
       }
@@ -2021,15 +1808,13 @@
           "SyntheticMeetingTopic": "Oversight - Meeting pursuant to Council Rule 10.60."
         },
         "first_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2025-12-17T08:22:27.891798"
       }
@@ -2065,8 +1850,8 @@
           "SyntheticMeetingTopic": "Providing contracted ferry service at reduced cost to middle school students."
         },
         "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2107,8 +1892,8 @@
           "SyntheticMeetingTopic": "Department of sanitation rule regarding supplemental sanitation service providers placing out refuse or recycling."
         },
         "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2149,8 +1934,8 @@
           "SyntheticMeetingTopic": "Establishment of a Wards Island affordable housing task force."
         },
         "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2191,8 +1976,8 @@
           "SyntheticMeetingTopic": "Small business loan readiness resources."
         },
         "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2233,8 +2018,8 @@
           "SyntheticMeetingTopic": "Establishment of standards and procedures to determine the existence of conflicts of interest and other misconduct concerning city contracts."
         },
         "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2275,8 +2060,8 @@
           "SyntheticMeetingTopic": "Wrongful deactivation of app-based contracted delivery workers."
         },
         "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2317,8 +2102,8 @@
           "SyntheticMeetingTopic": "Prohibiting the police department from collecting DNA from a minor without consent from a parent, legal guardian or attorney."
         },
         "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2359,8 +2144,8 @@
           "SyntheticMeetingTopic": "The New York State College Safety Act"
         },
         "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2401,8 +2186,8 @@
           "SyntheticMeetingTopic": "Housing decisions for transgender, gender nonconforming, non-binary and intersex individuals."
         },
         "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2443,8 +2228,8 @@
           "SyntheticMeetingTopic": "Requiring the department of social services to create web forms for benefits and services applications."
         },
         "first_seen_timestamp": "2025-12-14T08:19:19.089953",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-14T08:19:19.089953",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2485,8 +2270,8 @@
           "SyntheticMeetingTopic": "Prohibiting calf roping and the use of electric prods and flank straps in connection with rodeos."
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2526,8 +2311,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-15T08:24:42.054660",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2568,8 +2353,8 @@
           "SyntheticMeetingTopic": "Naming of 77 thoroughfares and public places."
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2610,8 +2395,8 @@
           "SyntheticMeetingTopic": "Requiring the borough presidents to provide equal employment opportunity trainings to community board members."
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2652,8 +2437,8 @@
           "SyntheticMeetingTopic": "Redefining terms concerning immigration enforcement to account for current enforcement practices, and prohibiting the maintenance of an office or quarters on property under the jurisdiction of the DOC by federal immigration authorities."
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2705,6 +2490,7 @@
           "vanished_from_api_while_active",
           "vanished_from_api_while_active",
           "vanished_from_api_while_active",
+          "vanished_from_api_while_active",
           "vanished_from_api_while_active"
         ],
         "last_alert_type": "new",
@@ -2742,134 +2528,8 @@
           "SyntheticMeetingTopic": "Requiring the department of education to report on student access to home internet and electronic devices."
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
-        "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-12-13T08:18:47.567575"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-12-13T08:18:47.567575",
-      "data": {
-        "event_data": {
-          "EventId": 22065,
-          "EventGuid": "23DBF4FF-75B6-44DE-B7AD-B26DEFA16EF7",
-          "EventLastModifiedUtc": "2025-12-12T20:26:47.223",
-          "EventRowVersion": "AAAAAOf8Iq0=",
-          "EventBodyId": 5243,
-          "EventBodyName": "Committee on Mental Health, Disabilities and Addiction",
-          "EventDate": "2025-12-17T00:00:00",
-          "EventTime": "12:45 PM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22065_A_Committee_on_Mental_Health%2C_Disabilities_and_Addiction_25-12-17_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-12-12T20:26:47.107",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22065&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Prohibiting the distribution of hypodermic syringes and needles by mobile syringe service programs in certain locations."
-        },
-        "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
-        "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-12-13T08:18:47.567575"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-12-13T08:18:47.567575",
-      "data": {
-        "event_data": {
-          "EventId": 22098,
-          "EventGuid": "26E80739-F5C4-4A55-8BE2-EBA99898A553",
-          "EventLastModifiedUtc": "2025-12-12T19:36:26.897",
-          "EventRowVersion": "AAAAAOf8GjE=",
-          "EventBodyId": 5122,
-          "EventBodyName": "Committee on Veterans",
-          "EventDate": "2025-12-17T00:00:00",
-          "EventTime": "10:45 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22098_A_Committee_on_Veterans_25-12-17_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-12-12T19:36:26.767",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22098&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Requiring the department of housing preservation and development to submit reports on veteran preference in Mitchell-Lama developments."
-        },
-        "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
-        "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-12-13T08:18:47.567575"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-12-13T08:18:47.567575",
-      "data": {
-        "event_data": {
-          "EventId": 22099,
-          "EventGuid": "5242C4B2-0AD3-479B-8253-092596BD1B58",
-          "EventLastModifiedUtc": "2025-12-12T19:40:54.397",
-          "EventRowVersion": "AAAAAOf8Goc=",
-          "EventBodyId": 14,
-          "EventBodyName": "Committee on Health",
-          "EventDate": "2025-12-17T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22099_A_Committee_on_Health_25-12-17_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-12-12T19:40:54.357",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22099&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Requiring pain management options be offered to patients undergoing in-office gynecologic procedures."
-        },
-        "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2909,8 +2569,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-12-11T08:22:46.455770",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -2921,9 +2581,7 @@
           "match_timestamp": "2025-12-11T08:22:46.455770"
         },
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "data_changed"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2025-12-11T08:22:46.455770"
       }
@@ -2932,6 +2590,50 @@
   "updates_last_30_days": [
     {
       "type": "new",
+      "alert_timestamp": "2025-12-18T08:21:54.738880",
+      "data": {
+        "event_data": {
+          "EventId": 22113,
+          "EventGuid": "7DC9F0FA-A8C9-493C-A9D3-D6F21048D37D",
+          "EventLastModifiedUtc": "2025-12-17T15:25:59.207",
+          "EventRowVersion": "AAAAAOf855Q=",
+          "EventBodyId": 5239,
+          "EventBodyName": "Committee on Fire and Emergency Management",
+          "EventDate": "2025-12-18T00:00:00",
+          "EventTime": "11:45 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22113_A_Committee_on_Fire_and_Emergency_Management_25-12-18_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2025-12-17T15:25:59.1",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "VOTE*",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22113&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Annual reporting on fire department vehicles and equipment."
+        },
+        "first_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
+        "last_significant_change_timestamp": "2025-12-18T08:21:54.738880",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2025-12-18T08:21:54.738880"
+      }
+    },
+    {
+      "type": "new",
       "alert_timestamp": "2025-12-17T08:22:27.891798",
       "data": {
         "event_data": {
@@ -2961,15 +2663,13 @@
           "SyntheticMeetingTopic": "Wrongful deactivation of high-volume for-hire vehicle drivers."
         },
         "first_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2025-12-17T08:22:27.891798"
       }
@@ -3005,15 +2705,13 @@
           "SyntheticMeetingTopic": "Creation of a task force to review the impacts of artificial intelligence on civil service and civil service employees."
         },
         "first_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2025-12-17T08:22:27.891798"
       }
@@ -3049,15 +2747,13 @@
           "SyntheticMeetingTopic": "Allocating funds for the restoration of the SS United States and for its relocation to the City of New York."
         },
         "first_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2025-12-17T08:22:27.891798"
       }
@@ -3093,15 +2789,13 @@
           "SyntheticMeetingTopic": "Oversight - Meeting pursuant to Council Rule 10.60."
         },
         "first_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2025-12-17T08:22:27.891798"
       }
@@ -3137,8 +2831,8 @@
           "SyntheticMeetingTopic": "Providing contracted ferry service at reduced cost to middle school students."
         },
         "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3179,8 +2873,8 @@
           "SyntheticMeetingTopic": "Department of sanitation rule regarding supplemental sanitation service providers placing out refuse or recycling."
         },
         "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3221,8 +2915,8 @@
           "SyntheticMeetingTopic": "Establishment of a Wards Island affordable housing task force."
         },
         "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3263,8 +2957,8 @@
           "SyntheticMeetingTopic": "Small business loan readiness resources."
         },
         "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3305,8 +2999,8 @@
           "SyntheticMeetingTopic": "Establishment of standards and procedures to determine the existence of conflicts of interest and other misconduct concerning city contracts."
         },
         "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3347,8 +3041,8 @@
           "SyntheticMeetingTopic": "Wrongful deactivation of app-based contracted delivery workers."
         },
         "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3389,8 +3083,8 @@
           "SyntheticMeetingTopic": "Prohibiting the police department from collecting DNA from a minor without consent from a parent, legal guardian or attorney."
         },
         "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3431,8 +3125,8 @@
           "SyntheticMeetingTopic": "The New York State College Safety Act"
         },
         "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3473,8 +3167,8 @@
           "SyntheticMeetingTopic": "Housing decisions for transgender, gender nonconforming, non-binary and intersex individuals."
         },
         "first_seen_timestamp": "2025-12-16T08:22:44.354309",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-16T08:22:44.354309",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3515,8 +3209,8 @@
           "SyntheticMeetingTopic": "Requiring the department of social services to create web forms for benefits and services applications."
         },
         "first_seen_timestamp": "2025-12-14T08:19:19.089953",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-14T08:19:19.089953",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3557,8 +3251,8 @@
           "SyntheticMeetingTopic": "Prohibiting calf roping and the use of electric prods and flank straps in connection with rodeos."
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3598,8 +3292,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-15T08:24:42.054660",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3640,8 +3334,8 @@
           "SyntheticMeetingTopic": "Naming of 77 thoroughfares and public places."
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3682,8 +3376,8 @@
           "SyntheticMeetingTopic": "Requiring the borough presidents to provide equal employment opportunity trainings to community board members."
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3724,8 +3418,8 @@
           "SyntheticMeetingTopic": "Redefining terms concerning immigration enforcement to account for current enforcement practices, and prohibiting the maintenance of an office or quarters on property under the jurisdiction of the DOC by federal immigration authorities."
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3777,6 +3471,7 @@
           "vanished_from_api_while_active",
           "vanished_from_api_while_active",
           "vanished_from_api_while_active",
+          "vanished_from_api_while_active",
           "vanished_from_api_while_active"
         ],
         "last_alert_type": "new",
@@ -3814,134 +3509,8 @@
           "SyntheticMeetingTopic": "Requiring the department of education to report on student access to home internet and electronic devices."
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
-        "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-12-13T08:18:47.567575"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-12-13T08:18:47.567575",
-      "data": {
-        "event_data": {
-          "EventId": 22065,
-          "EventGuid": "23DBF4FF-75B6-44DE-B7AD-B26DEFA16EF7",
-          "EventLastModifiedUtc": "2025-12-12T20:26:47.223",
-          "EventRowVersion": "AAAAAOf8Iq0=",
-          "EventBodyId": 5243,
-          "EventBodyName": "Committee on Mental Health, Disabilities and Addiction",
-          "EventDate": "2025-12-17T00:00:00",
-          "EventTime": "12:45 PM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22065_A_Committee_on_Mental_Health%2C_Disabilities_and_Addiction_25-12-17_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-12-12T20:26:47.107",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22065&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Prohibiting the distribution of hypodermic syringes and needles by mobile syringe service programs in certain locations."
-        },
-        "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
-        "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-12-13T08:18:47.567575"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-12-13T08:18:47.567575",
-      "data": {
-        "event_data": {
-          "EventId": 22098,
-          "EventGuid": "26E80739-F5C4-4A55-8BE2-EBA99898A553",
-          "EventLastModifiedUtc": "2025-12-12T19:36:26.897",
-          "EventRowVersion": "AAAAAOf8GjE=",
-          "EventBodyId": 5122,
-          "EventBodyName": "Committee on Veterans",
-          "EventDate": "2025-12-17T00:00:00",
-          "EventTime": "10:45 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22098_A_Committee_on_Veterans_25-12-17_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-12-12T19:36:26.767",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22098&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Requiring the department of housing preservation and development to submit reports on veteran preference in Mitchell-Lama developments."
-        },
-        "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
-        "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-12-13T08:18:47.567575"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-12-13T08:18:47.567575",
-      "data": {
-        "event_data": {
-          "EventId": 22099,
-          "EventGuid": "5242C4B2-0AD3-479B-8253-092596BD1B58",
-          "EventLastModifiedUtc": "2025-12-12T19:40:54.397",
-          "EventRowVersion": "AAAAAOf8Goc=",
-          "EventBodyId": 14,
-          "EventBodyName": "Committee on Health",
-          "EventDate": "2025-12-17T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22099_A_Committee_on_Health_25-12-17_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-12-12T19:40:54.357",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22099&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Requiring pain management options be offered to patients undergoing in-office gynecologic procedures."
-        },
-        "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-13T08:18:47.567575",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3981,8 +3550,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-12-11T08:22:46.455770",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-17T08:22:27.891798",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -3993,9 +3562,7 @@
           "match_timestamp": "2025-12-11T08:22:46.455770"
         },
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "data_changed"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2025-12-11T08:22:46.455770"
       }
@@ -4031,8 +3598,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-12-04T08:22:20.104720",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-04T08:22:20.104720",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4072,8 +3639,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-11T08:20:03.958004",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-11T08:22:46.455770",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -4120,8 +3687,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-11-27T08:21:44.312866",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-11-27T08:21:44.312866",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4162,8 +3729,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2025-11-27T08:21:44.312866",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-11-27T08:21:44.312866",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4203,8 +3770,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-25T08:21:19.420468",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-11-27T08:21:44.312866",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -4250,8 +3817,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-22T08:17:59.168953",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-11-27T08:21:44.312866",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -4297,8 +3864,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-21T08:20:48.360958",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-02T08:22:32.558276",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -4344,8 +3911,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-21T08:20:48.360958",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-12-02T08:22:32.558276",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -4359,48 +3926,6 @@
         "processing_tags": [],
         "last_alert_type": "deferred",
         "last_alert_timestamp": "2025-11-25T08:21:19.420468"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2025-11-21T08:20:48.360958",
-      "data": {
-        "event_data": {
-          "EventId": 22047,
-          "EventGuid": "F533A70D-5AEB-41DE-85C4-0C1A1A55186F",
-          "EventLastModifiedUtc": "2025-11-20T21:06:14.32",
-          "EventRowVersion": "AAAAAOf2yo4=",
-          "EventBodyId": 5243,
-          "EventBodyName": "Committee on Mental Health, Disabilities and Addiction",
-          "EventDate": "2025-12-17T00:00:00",
-          "EventTime": "1:00 PM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22047_A_Committee_on_Mental_Health%2C_Disabilities_and_Addiction_25-12-17_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-11-20T21:06:14.207",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22047&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Oversight - Evaluating DOHMH\u2019s Systems for Measuring Outcomes and Equity in City-Funded Mental Health Programs."
-        },
-        "first_seen_timestamp": "2025-11-21T08:20:48.360958",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
-        "last_significant_change_timestamp": "2025-11-21T08:20:48.360958",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2025-11-21T08:20:48.360958"
       }
     },
     {
@@ -4433,8 +3958,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-07T08:19:59.807127",
-        "last_seen_timestamp": "2025-12-17T08:22:27.891798",
-        "last_processed_timestamp": "2025-12-17T08:22:27.891798",
+        "last_seen_timestamp": "2025-12-18T08:21:54.738880",
+        "last_processed_timestamp": "2025-12-18T08:21:54.738880",
         "last_significant_change_timestamp": "2025-11-20T08:20:48.021668",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -4451,7 +3976,7 @@
       }
     }
   ],
-  "source_newly_added_ids_count": 4,
+  "source_newly_added_ids_count": 1,
   "source_newly_deferred_ids_count": 0,
   "source_newly_rescheduled_pairs_count": 0
 }
