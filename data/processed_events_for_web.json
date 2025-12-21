@@ -1,5 +1,5 @@
 {
-  "generation_timestamp": "2025-12-20T08:19:10.329740",
+  "generation_timestamp": "2025-12-21T08:19:30.500994",
   "upcoming_hearings": [
     {
       "event_data": {
@@ -36,6 +36,7 @@
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
       "processing_tags": [
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
@@ -249,6 +250,7 @@
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active"
       ],
       "last_alert_type": "new",
@@ -256,51 +258,7 @@
       "user_facing_tags": []
     }
   ],
-  "updates_since_last_run": [
-    {
-      "type": "deferred",
-      "alert_timestamp": "2025-12-20T08:19:10.227701",
-      "data": {
-        "event_data": {
-          "EventId": 22097,
-          "EventGuid": "AF2089D0-94D8-4AA5-B2DB-01665BB93CF5",
-          "EventLastModifiedUtc": "2025-12-19T14:30:08.163",
-          "EventRowVersion": "AAAAAOf/q7A=",
-          "EventBodyId": 14,
-          "EventBodyName": "Committee on Health",
-          "EventDate": "2025-12-31T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 4,
-          "EventAgendaStatusName": "Deferred",
-          "EventMinutesStatusId": 4,
-          "EventMinutesStatusName": "Deferred",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22097_A_Committee_on_Health_25-12-31_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-12-19T14:30:08.03",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22097&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": []
-        },
-        "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-20T08:19:10.227701",
-        "last_processed_timestamp": "2025-12-20T08:19:10.227701",
-        "last_significant_change_timestamp": "2025-12-20T08:19:10.227701",
-        "current_status": "deferred_pending_match",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "became_deferred"
-        ],
-        "last_alert_type": "deferred",
-        "last_alert_timestamp": "2025-12-20T08:19:10.227701"
-      }
-    }
-  ],
+  "updates_since_last_run": [],
   "updates_last_7_days": [
     {
       "type": "deferred",
@@ -332,15 +290,13 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-20T08:19:10.227701",
-        "last_processed_timestamp": "2025-12-20T08:19:10.227701",
+        "last_seen_timestamp": "2025-12-21T08:19:30.378622",
+        "last_processed_timestamp": "2025-12-21T08:19:30.378622",
         "last_significant_change_timestamp": "2025-12-20T08:19:10.227701",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "became_deferred"
-        ],
+        "processing_tags": [],
         "last_alert_type": "deferred",
         "last_alert_timestamp": "2025-12-20T08:19:10.227701"
       }
@@ -377,15 +333,13 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-20T08:19:10.227701",
-        "last_processed_timestamp": "2025-12-20T08:19:10.227701",
+        "last_seen_timestamp": "2025-12-21T08:19:30.378622",
+        "last_processed_timestamp": "2025-12-21T08:19:30.378622",
         "last_significant_change_timestamp": "2025-12-20T08:19:10.227701",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "became_deferred"
-        ],
+        "processing_tags": [],
         "last_alert_type": "deferred",
         "last_alert_timestamp": "2025-12-20T08:19:10.227701"
       }
@@ -420,8 +374,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-11T08:20:03.958004",
-        "last_seen_timestamp": "2025-12-20T08:19:10.227701",
-        "last_processed_timestamp": "2025-12-20T08:19:10.227701",
+        "last_seen_timestamp": "2025-12-21T08:19:30.378622",
+        "last_processed_timestamp": "2025-12-21T08:19:30.378622",
         "last_significant_change_timestamp": "2025-12-11T08:22:46.455770",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -467,8 +421,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-25T08:21:19.420468",
-        "last_seen_timestamp": "2025-12-20T08:19:10.227701",
-        "last_processed_timestamp": "2025-12-20T08:19:10.227701",
+        "last_seen_timestamp": "2025-12-21T08:19:30.378622",
+        "last_processed_timestamp": "2025-12-21T08:19:30.378622",
         "last_significant_change_timestamp": "2025-11-27T08:21:44.312866",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -514,8 +468,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-22T08:17:59.168953",
-        "last_seen_timestamp": "2025-12-20T08:19:10.227701",
-        "last_processed_timestamp": "2025-12-20T08:19:10.227701",
+        "last_seen_timestamp": "2025-12-21T08:19:30.378622",
+        "last_processed_timestamp": "2025-12-21T08:19:30.378622",
         "last_significant_change_timestamp": "2025-11-27T08:21:44.312866",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -561,8 +515,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-21T08:20:48.360958",
-        "last_seen_timestamp": "2025-12-20T08:19:10.227701",
-        "last_processed_timestamp": "2025-12-20T08:19:10.227701",
+        "last_seen_timestamp": "2025-12-21T08:19:30.378622",
+        "last_processed_timestamp": "2025-12-21T08:19:30.378622",
         "last_significant_change_timestamp": "2025-12-02T08:22:32.558276",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -608,8 +562,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-21T08:20:48.360958",
-        "last_seen_timestamp": "2025-12-20T08:19:10.227701",
-        "last_processed_timestamp": "2025-12-20T08:19:10.227701",
+        "last_seen_timestamp": "2025-12-21T08:19:30.378622",
+        "last_processed_timestamp": "2025-12-21T08:19:30.378622",
         "last_significant_change_timestamp": "2025-12-02T08:22:32.558276",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -624,56 +578,9 @@
         "last_alert_type": "deferred",
         "last_alert_timestamp": "2025-11-25T08:21:19.420468"
       }
-    },
-    {
-      "type": "deferred",
-      "alert_timestamp": "2025-11-20T08:20:48.021668",
-      "data": {
-        "event_data": {
-          "EventId": 22019,
-          "EventGuid": "51BBF867-F203-4577-AE7F-E664A900666A",
-          "EventLastModifiedUtc": "2025-11-06T20:10:43.217",
-          "EventRowVersion": "AAAAAOf2gWk=",
-          "EventBodyId": 34,
-          "EventBodyName": "Subcommittee on Zoning and Franchises",
-          "EventDate": "2025-11-24T00:00:00",
-          "EventTime": "11:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 4,
-          "EventAgendaStatusName": "Deferred",
-          "EventMinutesStatusId": 4,
-          "EventMinutesStatusName": "Deferred",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 3",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/22019_A_Subcommittee_on_Zoning_and_Franchises_25-11-24_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-11-06T20:10:43.187",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22019&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": []
-        },
-        "first_seen_timestamp": "2025-11-07T08:19:59.807127",
-        "last_seen_timestamp": "2025-12-20T08:19:10.227701",
-        "last_processed_timestamp": "2025-12-20T08:19:10.227701",
-        "last_significant_change_timestamp": "2025-11-20T08:20:48.021668",
-        "current_status": "deferred_rescheduled_internal",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": {
-          "matched_event_id": "22020",
-          "new_date": "2025-11-25T00:00:00",
-          "new_time": "10:30 AM",
-          "new_location": "250 Broadway - 8th Floor - Hearing Room 3",
-          "match_timestamp": "2025-11-20T08:20:48.021668"
-        },
-        "processing_tags": [],
-        "last_alert_type": "deferred",
-        "last_alert_timestamp": "2025-11-20T08:20:48.021668"
-      }
     }
   ],
   "source_newly_added_ids_count": 0,
-  "source_newly_deferred_ids_count": 1,
+  "source_newly_deferred_ids_count": 0,
   "source_newly_rescheduled_pairs_count": 0
 }
