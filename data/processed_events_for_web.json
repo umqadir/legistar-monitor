@@ -1,5 +1,5 @@
 {
-  "generation_timestamp": "2025-12-24T08:21:57.039027",
+  "generation_timestamp": "2025-12-25T08:21:23.025255",
   "upcoming_hearings": [
     {
       "event_data": {
@@ -36,6 +36,7 @@
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
       "processing_tags": [
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
@@ -257,6 +258,7 @@
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active"
       ],
       "last_alert_type": "new",
@@ -296,8 +298,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-24T08:21:56.955604",
-        "last_processed_timestamp": "2025-12-24T08:21:56.955604",
+        "last_seen_timestamp": "2025-12-25T08:21:22.953184",
+        "last_processed_timestamp": "2025-12-25T08:21:22.953184",
         "last_significant_change_timestamp": "2025-12-20T08:19:10.227701",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -339,8 +341,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-24T08:21:56.955604",
-        "last_processed_timestamp": "2025-12-24T08:21:56.955604",
+        "last_seen_timestamp": "2025-12-25T08:21:22.953184",
+        "last_processed_timestamp": "2025-12-25T08:21:22.953184",
         "last_significant_change_timestamp": "2025-12-20T08:19:10.227701",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -380,8 +382,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-11T08:20:03.958004",
-        "last_seen_timestamp": "2025-12-24T08:21:56.955604",
-        "last_processed_timestamp": "2025-12-24T08:21:56.955604",
+        "last_seen_timestamp": "2025-12-25T08:21:22.953184",
+        "last_processed_timestamp": "2025-12-25T08:21:22.953184",
         "last_significant_change_timestamp": "2025-12-11T08:22:46.455770",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -427,8 +429,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-25T08:21:19.420468",
-        "last_seen_timestamp": "2025-12-24T08:21:56.955604",
-        "last_processed_timestamp": "2025-12-24T08:21:56.955604",
+        "last_seen_timestamp": "2025-12-25T08:21:22.953184",
+        "last_processed_timestamp": "2025-12-25T08:21:22.953184",
         "last_significant_change_timestamp": "2025-11-27T08:21:44.312866",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -442,147 +444,6 @@
         "processing_tags": [],
         "last_alert_type": "deferred",
         "last_alert_timestamp": "2025-11-27T08:21:44.312866"
-      }
-    },
-    {
-      "type": "deferred",
-      "alert_timestamp": "2025-11-25T08:21:19.420468",
-      "data": {
-        "event_data": {
-          "EventId": 22053,
-          "EventGuid": "7C9942E2-1D1C-4418-BFFB-311750C85199",
-          "EventLastModifiedUtc": "2025-11-24T21:38:43.573",
-          "EventRowVersion": "AAAAAOf3rII=",
-          "EventBodyId": 12,
-          "EventBodyName": "Committee on General Welfare",
-          "EventDate": "2025-11-25T00:00:00",
-          "EventTime": "12:00 PM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 4,
-          "EventAgendaStatusName": "Deferred",
-          "EventMinutesStatusId": 4,
-          "EventMinutesStatusName": "Deferred",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/22053_A_Committee_on_General_Welfare_25-11-25_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-11-24T21:38:43.403",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22053&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": []
-        },
-        "first_seen_timestamp": "2025-11-22T08:17:59.168953",
-        "last_seen_timestamp": "2025-12-24T08:21:56.955604",
-        "last_processed_timestamp": "2025-12-24T08:21:56.955604",
-        "last_significant_change_timestamp": "2025-11-27T08:21:44.312866",
-        "current_status": "deferred_rescheduled_internal",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": {
-          "matched_event_id": "22076",
-          "new_date": "2025-12-04T00:00:00",
-          "new_time": "11:00 AM",
-          "new_location": "250 Broadway - 8th Floor - Hearing Room 2",
-          "match_timestamp": "2025-11-27T08:21:44.312866"
-        },
-        "processing_tags": [],
-        "last_alert_type": "deferred",
-        "last_alert_timestamp": "2025-11-25T08:21:19.420468"
-      }
-    },
-    {
-      "type": "deferred",
-      "alert_timestamp": "2025-11-25T08:21:19.420468",
-      "data": {
-        "event_data": {
-          "EventId": 22048,
-          "EventGuid": "90A82DC4-EF20-4B11-9178-73DE90AA7B83",
-          "EventLastModifiedUtc": "2025-11-24T21:40:10.613",
-          "EventRowVersion": "AAAAAOf3rIM=",
-          "EventBodyId": 5235,
-          "EventBodyName": "Committee on Civil and Human Rights",
-          "EventDate": "2025-11-25T00:00:00",
-          "EventTime": "11:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 4,
-          "EventAgendaStatusName": "Deferred",
-          "EventMinutesStatusId": 4,
-          "EventMinutesStatusName": "Deferred",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/22048_A_Committee_on_Civil_and_Human_Rights_25-11-25_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-11-24T21:40:10.547",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22048&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": []
-        },
-        "first_seen_timestamp": "2025-11-21T08:20:48.360958",
-        "last_seen_timestamp": "2025-12-24T08:21:56.955604",
-        "last_processed_timestamp": "2025-12-24T08:21:56.955604",
-        "last_significant_change_timestamp": "2025-12-02T08:22:32.558276",
-        "current_status": "deferred_rescheduled_internal",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": {
-          "matched_event_id": "22078",
-          "new_date": "2025-12-04T00:00:00",
-          "new_time": "10:30 AM",
-          "new_location": "250 Broadway - 8th Floor - Hearing Room 2",
-          "match_timestamp": "2025-12-02T08:22:32.558276"
-        },
-        "processing_tags": [],
-        "last_alert_type": "deferred",
-        "last_alert_timestamp": "2025-11-25T08:21:19.420468"
-      }
-    },
-    {
-      "type": "deferred",
-      "alert_timestamp": "2025-11-25T08:21:19.420468",
-      "data": {
-        "event_data": {
-          "EventId": 22054,
-          "EventGuid": "3291A348-AAEE-4558-8F52-F0266D3EFCA1",
-          "EventLastModifiedUtc": "2025-11-24T21:39:11.637",
-          "EventRowVersion": "AAAAAOf3rIQ=",
-          "EventBodyId": 6,
-          "EventBodyName": "Committee on Contracts",
-          "EventDate": "2025-11-25T00:00:00",
-          "EventTime": "9:30 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 4,
-          "EventAgendaStatusName": "Deferred",
-          "EventMinutesStatusId": 4,
-          "EventMinutesStatusName": "Deferred",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/11/22054_A_Committee_on_Contracts_25-11-25_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-11-24T21:39:11.573",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22054&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": []
-        },
-        "first_seen_timestamp": "2025-11-21T08:20:48.360958",
-        "last_seen_timestamp": "2025-12-24T08:21:56.955604",
-        "last_processed_timestamp": "2025-12-24T08:21:56.955604",
-        "last_significant_change_timestamp": "2025-12-02T08:22:32.558276",
-        "current_status": "deferred_rescheduled_internal",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": {
-          "matched_event_id": "22075",
-          "new_date": "2025-12-04T00:00:00",
-          "new_time": "11:00 AM",
-          "new_location": "250 Broadway - 8th Floor - Hearing Room 1",
-          "match_timestamp": "2025-12-02T08:22:32.558276"
-        },
-        "processing_tags": [],
-        "last_alert_type": "deferred",
-        "last_alert_timestamp": "2025-11-25T08:21:19.420468"
       }
     }
   ],
