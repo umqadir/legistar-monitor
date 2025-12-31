@@ -1,5 +1,5 @@
 {
-  "generation_timestamp": "2025-12-30T08:21:50.386521",
+  "generation_timestamp": "2025-12-31T08:21:51.832109",
   "upcoming_hearings": [
     {
       "event_data": {
@@ -36,6 +36,7 @@
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
       "processing_tags": [
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
@@ -267,6 +268,7 @@
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
         "vanished_from_api_while_active",
+        "vanished_from_api_while_active",
         "vanished_from_api_while_active"
       ],
       "last_alert_type": "new",
@@ -307,8 +309,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2025-12-30T08:21:50.297068",
-        "last_processed_timestamp": "2025-12-30T08:21:50.297068",
+        "last_seen_timestamp": "2025-12-31T08:21:51.716997",
+        "last_processed_timestamp": "2025-12-31T08:21:51.716997",
         "last_significant_change_timestamp": "2025-12-20T08:19:10.227701",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -348,8 +350,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-11-11T08:20:03.958004",
-        "last_seen_timestamp": "2025-12-30T08:21:50.297068",
-        "last_processed_timestamp": "2025-12-30T08:21:50.297068",
+        "last_seen_timestamp": "2025-12-31T08:21:51.716997",
+        "last_processed_timestamp": "2025-12-31T08:21:51.716997",
         "last_significant_change_timestamp": "2025-12-11T08:22:46.455770",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
