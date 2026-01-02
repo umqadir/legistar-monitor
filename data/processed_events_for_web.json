@@ -1,5 +1,5 @@
 {
-  "generation_timestamp": "2026-01-01T08:21:44.791724",
+  "generation_timestamp": "2026-01-02T08:21:53.176449",
   "upcoming_hearings": [],
   "updates_since_last_run": [],
   "updates_last_7_days": [],
@@ -34,8 +34,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2026-01-01T08:21:44.713080",
-        "last_processed_timestamp": "2026-01-01T08:21:44.713080",
+        "last_seen_timestamp": "2026-01-02T08:21:52.994913",
+        "last_processed_timestamp": "2026-01-02T08:21:52.994913",
         "last_significant_change_timestamp": "2025-12-20T08:19:10.227701",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -43,53 +43,6 @@
         "processing_tags": [],
         "last_alert_type": "deferred",
         "last_alert_timestamp": "2025-12-20T08:19:10.227701"
-      }
-    },
-    {
-      "type": "deferred",
-      "alert_timestamp": "2025-12-02T08:22:32.558276",
-      "data": {
-        "event_data": {
-          "EventId": 22031,
-          "EventGuid": "844740B2-9CA6-4783-B245-E422333B10FF",
-          "EventLastModifiedUtc": "2025-12-01T15:55:39.017",
-          "EventRowVersion": "AAAAAOf5yjQ=",
-          "EventBodyId": 11,
-          "EventBodyName": "Committee on Finance",
-          "EventDate": "2025-12-11T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 4,
-          "EventAgendaStatusName": "Deferred",
-          "EventMinutesStatusId": 4,
-          "EventMinutesStatusName": "Deferred",
-          "EventLocation": "Council Chambers - City Hall",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2025/12/22031_A_Committee_on_Finance_25-12-11_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2025-12-01T15:55:38.883",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22031&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": []
-        },
-        "first_seen_timestamp": "2025-11-11T08:20:03.958004",
-        "last_seen_timestamp": "2026-01-01T08:21:44.713080",
-        "last_processed_timestamp": "2026-01-01T08:21:44.713080",
-        "last_significant_change_timestamp": "2025-12-11T08:22:46.455770",
-        "current_status": "deferred_rescheduled_internal",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": {
-          "matched_event_id": "22089",
-          "new_date": "2025-12-18T00:00:00",
-          "new_time": "11:30 AM",
-          "new_location": "250 Broadway - 8th Floor - Hearing Room 2",
-          "match_timestamp": "2025-12-11T08:22:46.455770"
-        },
-        "processing_tags": [],
-        "last_alert_type": "deferred",
-        "last_alert_timestamp": "2025-12-02T08:22:32.558276"
       }
     }
   ],
