@@ -1,9 +1,187 @@
 {
-  "generation_timestamp": "2026-01-02T08:21:53.176449",
-  "upcoming_hearings": [],
-  "updates_since_last_run": [],
-  "updates_last_7_days": [],
+  "generation_timestamp": "2026-01-03T08:19:53.553090",
+  "upcoming_hearings": [
+    {
+      "event_data": {
+        "EventId": 22119,
+        "EventGuid": "22F562FB-3918-4BA9-A590-DB8F95B440D1",
+        "EventLastModifiedUtc": "2026-01-02T20:30:39.923",
+        "EventRowVersion": "AAAAAOgEmxU=",
+        "EventBodyId": 1,
+        "EventBodyName": "City Council",
+        "EventDate": "2026-01-07T00:00:00",
+        "EventTime": "12:00 PM",
+        "EventVideoStatus": "Public",
+        "EventAgendaStatusId": 2,
+        "EventAgendaStatusName": "Final",
+        "EventMinutesStatusId": 1,
+        "EventMinutesStatusName": "Draft",
+        "EventLocation": "Council Chambers - City Hall",
+        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22119_A_City_Council_26-01-07_Committee_Agenda.pdf",
+        "EventMinutesFile": null,
+        "EventAgendaLastPublishedUTC": "2026-01-02T20:30:39.777",
+        "EventMinutesLastPublishedUTC": null,
+        "EventComment": "CHARTER MEETING",
+        "EventVideoPath": null,
+        "EventMedia": null,
+        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22119&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+        "EventItems": [],
+        "SyntheticMeetingTopic": "Agenda - 12:00 p.m."
+      },
+      "first_seen_timestamp": "2026-01-03T08:19:53.174833",
+      "last_seen_timestamp": "2026-01-03T08:19:53.174833",
+      "last_processed_timestamp": "2026-01-03T08:19:53.174833",
+      "last_significant_change_timestamp": "2026-01-03T08:19:53.174833",
+      "current_status": "active",
+      "original_event_details_if_rescheduled": null,
+      "rescheduled_event_details_if_deferred": null,
+      "processing_tags": [
+        "newly_added"
+      ],
+      "last_alert_type": "new",
+      "last_alert_timestamp": "2026-01-03T08:19:53.174833",
+      "user_facing_tags": [
+        "new_hearing_tag"
+      ]
+    }
+  ],
+  "updates_since_last_run": [
+    {
+      "type": "new",
+      "alert_timestamp": "2026-01-03T08:19:53.174833",
+      "data": {
+        "event_data": {
+          "EventId": 22119,
+          "EventGuid": "22F562FB-3918-4BA9-A590-DB8F95B440D1",
+          "EventLastModifiedUtc": "2026-01-02T20:30:39.923",
+          "EventRowVersion": "AAAAAOgEmxU=",
+          "EventBodyId": 1,
+          "EventBodyName": "City Council",
+          "EventDate": "2026-01-07T00:00:00",
+          "EventTime": "12:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22119_A_City_Council_26-01-07_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2026-01-02T20:30:39.777",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "CHARTER MEETING",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22119&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Agenda - 12:00 p.m."
+        },
+        "first_seen_timestamp": "2026-01-03T08:19:53.174833",
+        "last_seen_timestamp": "2026-01-03T08:19:53.174833",
+        "last_processed_timestamp": "2026-01-03T08:19:53.174833",
+        "last_significant_change_timestamp": "2026-01-03T08:19:53.174833",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2026-01-03T08:19:53.174833"
+      }
+    }
+  ],
+  "updates_last_7_days": [
+    {
+      "type": "new",
+      "alert_timestamp": "2026-01-03T08:19:53.174833",
+      "data": {
+        "event_data": {
+          "EventId": 22119,
+          "EventGuid": "22F562FB-3918-4BA9-A590-DB8F95B440D1",
+          "EventLastModifiedUtc": "2026-01-02T20:30:39.923",
+          "EventRowVersion": "AAAAAOgEmxU=",
+          "EventBodyId": 1,
+          "EventBodyName": "City Council",
+          "EventDate": "2026-01-07T00:00:00",
+          "EventTime": "12:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22119_A_City_Council_26-01-07_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2026-01-02T20:30:39.777",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "CHARTER MEETING",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22119&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Agenda - 12:00 p.m."
+        },
+        "first_seen_timestamp": "2026-01-03T08:19:53.174833",
+        "last_seen_timestamp": "2026-01-03T08:19:53.174833",
+        "last_processed_timestamp": "2026-01-03T08:19:53.174833",
+        "last_significant_change_timestamp": "2026-01-03T08:19:53.174833",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2026-01-03T08:19:53.174833"
+      }
+    }
+  ],
   "updates_last_30_days": [
+    {
+      "type": "new",
+      "alert_timestamp": "2026-01-03T08:19:53.174833",
+      "data": {
+        "event_data": {
+          "EventId": 22119,
+          "EventGuid": "22F562FB-3918-4BA9-A590-DB8F95B440D1",
+          "EventLastModifiedUtc": "2026-01-02T20:30:39.923",
+          "EventRowVersion": "AAAAAOgEmxU=",
+          "EventBodyId": 1,
+          "EventBodyName": "City Council",
+          "EventDate": "2026-01-07T00:00:00",
+          "EventTime": "12:00 PM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22119_A_City_Council_26-01-07_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2026-01-02T20:30:39.777",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "CHARTER MEETING",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22119&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Agenda - 12:00 p.m."
+        },
+        "first_seen_timestamp": "2026-01-03T08:19:53.174833",
+        "last_seen_timestamp": "2026-01-03T08:19:53.174833",
+        "last_processed_timestamp": "2026-01-03T08:19:53.174833",
+        "last_significant_change_timestamp": "2026-01-03T08:19:53.174833",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2026-01-03T08:19:53.174833"
+      }
+    },
     {
       "type": "deferred",
       "alert_timestamp": "2025-12-20T08:19:10.227701",
@@ -34,8 +212,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2026-01-02T08:21:52.994913",
-        "last_processed_timestamp": "2026-01-02T08:21:52.994913",
+        "last_seen_timestamp": "2026-01-03T08:19:53.174833",
+        "last_processed_timestamp": "2026-01-03T08:19:53.174833",
         "last_significant_change_timestamp": "2025-12-20T08:19:10.227701",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -46,7 +224,7 @@
       }
     }
   ],
-  "source_newly_added_ids_count": 0,
+  "source_newly_added_ids_count": 1,
   "source_newly_deferred_ids_count": 0,
   "source_newly_rescheduled_pairs_count": 0
 }
