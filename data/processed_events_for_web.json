@@ -1,5 +1,5 @@
 {
-  "generation_timestamp": "2026-01-04T08:20:25.062245",
+  "generation_timestamp": "2026-01-05T08:25:43.501002",
   "upcoming_hearings": [
     {
       "event_data": {
@@ -29,8 +29,8 @@
         "SyntheticMeetingTopic": "Agenda - 12:00 p.m."
       },
       "first_seen_timestamp": "2026-01-03T08:19:53.174833",
-      "last_seen_timestamp": "2026-01-04T08:20:24.978622",
-      "last_processed_timestamp": "2026-01-04T08:20:24.978622",
+      "last_seen_timestamp": "2026-01-05T08:25:43.364273",
+      "last_processed_timestamp": "2026-01-05T08:25:43.364273",
       "last_significant_change_timestamp": "2026-01-03T08:19:53.174833",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -38,9 +38,7 @@
       "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-01-03T08:19:53.174833",
-      "user_facing_tags": [
-        "new_hearing_tag"
-      ]
+      "user_facing_tags": []
     }
   ],
   "updates_since_last_run": [],
@@ -76,8 +74,8 @@
           "SyntheticMeetingTopic": "Agenda - 12:00 p.m."
         },
         "first_seen_timestamp": "2026-01-03T08:19:53.174833",
-        "last_seen_timestamp": "2026-01-04T08:20:24.978622",
-        "last_processed_timestamp": "2026-01-04T08:20:24.978622",
+        "last_seen_timestamp": "2026-01-05T08:25:43.364273",
+        "last_processed_timestamp": "2026-01-05T08:25:43.364273",
         "last_significant_change_timestamp": "2026-01-03T08:19:53.174833",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -120,8 +118,8 @@
           "SyntheticMeetingTopic": "Agenda - 12:00 p.m."
         },
         "first_seen_timestamp": "2026-01-03T08:19:53.174833",
-        "last_seen_timestamp": "2026-01-04T08:20:24.978622",
-        "last_processed_timestamp": "2026-01-04T08:20:24.978622",
+        "last_seen_timestamp": "2026-01-05T08:25:43.364273",
+        "last_processed_timestamp": "2026-01-05T08:25:43.364273",
         "last_significant_change_timestamp": "2026-01-03T08:19:53.174833",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -161,8 +159,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2026-01-04T08:20:24.978622",
-        "last_processed_timestamp": "2026-01-04T08:20:24.978622",
+        "last_seen_timestamp": "2026-01-05T08:25:43.364273",
+        "last_processed_timestamp": "2026-01-05T08:25:43.364273",
         "last_significant_change_timestamp": "2025-12-20T08:19:10.227701",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
