@@ -1,5 +1,5 @@
 {
-  "generation_timestamp": "2026-01-09T08:23:05.417137",
+  "generation_timestamp": "2026-01-10T08:20:12.743686",
   "upcoming_hearings": [
     {
       "event_data": {
@@ -29,15 +29,13 @@
         "SyntheticMeetingTopic": null
       },
       "first_seen_timestamp": "2026-01-09T08:23:04.889352",
-      "last_seen_timestamp": "2026-01-09T08:23:04.889352",
-      "last_processed_timestamp": "2026-01-09T08:23:04.889352",
+      "last_seen_timestamp": "2026-01-10T08:20:12.647101",
+      "last_processed_timestamp": "2026-01-10T08:20:12.647101",
       "last_significant_change_timestamp": "2026-01-09T08:23:04.889352",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [
-        "newly_added"
-      ],
+      "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-01-09T08:23:04.889352",
       "user_facing_tags": [
@@ -72,8 +70,8 @@
         "SyntheticMeetingTopic": "Agenda 1:30 p.m."
       },
       "first_seen_timestamp": "2026-01-08T08:23:08.970078",
-      "last_seen_timestamp": "2026-01-09T08:23:04.889352",
-      "last_processed_timestamp": "2026-01-09T08:23:04.889352",
+      "last_seen_timestamp": "2026-01-10T08:20:12.647101",
+      "last_processed_timestamp": "2026-01-10T08:20:12.647101",
       "last_significant_change_timestamp": "2026-01-08T08:23:08.970078",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -86,52 +84,7 @@
       ]
     }
   ],
-  "updates_since_last_run": [
-    {
-      "type": "new",
-      "alert_timestamp": "2026-01-09T08:23:04.889352",
-      "data": {
-        "event_data": {
-          "EventId": 22121,
-          "EventGuid": "E0C9E1FD-EC77-4B48-95AC-53CBFF4C3091",
-          "EventLastModifiedUtc": "2026-01-08T18:22:54.99",
-          "EventRowVersion": "AAAAAOgFBDQ=",
-          "EventBodyId": 20,
-          "EventBodyName": "Committee on Rules, Privileges and Elections",
-          "EventDate": "2026-01-15T00:00:00",
-          "EventTime": "11:30 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/1/22121_A_Committee_on_Rules%2C_Privileges_and_Elections_26-01-15_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-01-08T18:22:54.883",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22121&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": null
-        },
-        "first_seen_timestamp": "2026-01-09T08:23:04.889352",
-        "last_seen_timestamp": "2026-01-09T08:23:04.889352",
-        "last_processed_timestamp": "2026-01-09T08:23:04.889352",
-        "last_significant_change_timestamp": "2026-01-09T08:23:04.889352",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2026-01-09T08:23:04.889352"
-      }
-    }
-  ],
+  "updates_since_last_run": [],
   "updates_last_7_days": [
     {
       "type": "new",
@@ -164,15 +117,13 @@
           "SyntheticMeetingTopic": null
         },
         "first_seen_timestamp": "2026-01-09T08:23:04.889352",
-        "last_seen_timestamp": "2026-01-09T08:23:04.889352",
-        "last_processed_timestamp": "2026-01-09T08:23:04.889352",
+        "last_seen_timestamp": "2026-01-10T08:20:12.647101",
+        "last_processed_timestamp": "2026-01-10T08:20:12.647101",
         "last_significant_change_timestamp": "2026-01-09T08:23:04.889352",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2026-01-09T08:23:04.889352"
       }
@@ -208,8 +159,8 @@
           "SyntheticMeetingTopic": "Agenda 1:30 p.m."
         },
         "first_seen_timestamp": "2026-01-08T08:23:08.970078",
-        "last_seen_timestamp": "2026-01-09T08:23:04.889352",
-        "last_processed_timestamp": "2026-01-09T08:23:04.889352",
+        "last_seen_timestamp": "2026-01-10T08:20:12.647101",
+        "last_processed_timestamp": "2026-01-10T08:20:12.647101",
         "last_significant_change_timestamp": "2026-01-08T08:23:08.970078",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -252,15 +203,13 @@
           "SyntheticMeetingTopic": null
         },
         "first_seen_timestamp": "2026-01-09T08:23:04.889352",
-        "last_seen_timestamp": "2026-01-09T08:23:04.889352",
-        "last_processed_timestamp": "2026-01-09T08:23:04.889352",
+        "last_seen_timestamp": "2026-01-10T08:20:12.647101",
+        "last_processed_timestamp": "2026-01-10T08:20:12.647101",
         "last_significant_change_timestamp": "2026-01-09T08:23:04.889352",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2026-01-09T08:23:04.889352"
       }
@@ -296,8 +245,8 @@
           "SyntheticMeetingTopic": "Agenda 1:30 p.m."
         },
         "first_seen_timestamp": "2026-01-08T08:23:08.970078",
-        "last_seen_timestamp": "2026-01-09T08:23:04.889352",
-        "last_processed_timestamp": "2026-01-09T08:23:04.889352",
+        "last_seen_timestamp": "2026-01-10T08:20:12.647101",
+        "last_processed_timestamp": "2026-01-10T08:20:12.647101",
         "last_significant_change_timestamp": "2026-01-08T08:23:08.970078",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -337,8 +286,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2025-12-13T08:18:47.567575",
-        "last_seen_timestamp": "2026-01-09T08:23:04.889352",
-        "last_processed_timestamp": "2026-01-09T08:23:04.889352",
+        "last_seen_timestamp": "2026-01-10T08:20:12.647101",
+        "last_processed_timestamp": "2026-01-10T08:20:12.647101",
         "last_significant_change_timestamp": "2025-12-20T08:19:10.227701",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -349,7 +298,7 @@
       }
     }
   ],
-  "source_newly_added_ids_count": 1,
+  "source_newly_added_ids_count": 0,
   "source_newly_deferred_ids_count": 0,
   "source_newly_rescheduled_pairs_count": 0
 }
