@@ -51,7 +51,7 @@ The core logic resides in `check_new_hearings.py` and `generate_web_page.py`, or
 
 ### Static Website
 
-The hearing monitor generates a static website with a clean, responsive design, accessible at `https://[your-username].github.io/[your-repo-name]/` (e.g., `https://umq7573.github.io/legistar-monitor/`).
+The hearing monitor generates a static website with a clean, responsive design, accessible at `https://[your-username].github.io/[your-repo-name]/` (e.g., `https://umqadir.github.io/legistar-monitor/`).
 
 The website features a two-column layout:
 
