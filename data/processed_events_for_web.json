@@ -1,132 +1,12 @@
 {
-  "generation_timestamp": "2026-05-20T10:44:43.590792",
+  "generation_timestamp": "2026-05-21T11:15:42.124232",
   "upcoming_hearings": [
-    {
-      "event_data": {
-        "EventId": 22436,
-        "EventGuid": "91240B75-79BF-4386-BEAF-E477970B50C5",
-        "EventLastModifiedUtc": "2026-05-07T15:31:16.067",
-        "EventRowVersion": "AAAAAOg3Jcc=",
-        "EventBodyId": 11,
-        "EventBodyName": "Committee on Finance",
-        "EventDate": "2026-05-20T00:00:00",
-        "EventTime": "10:00 AM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "Committee Room - City Hall",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22436_A_Committee_on_Finance_26-05-20_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2026-05-07T15:31:15.933",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": "VOTE*",
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22436&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": []
-      },
-      "first_seen_timestamp": "2026-05-07T10:17:58.162908",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-      "last_significant_change_timestamp": "2026-05-08T09:10:07.118932",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2026-05-07T10:17:58.162908",
-      "user_facing_tags": []
-    },
-    {
-      "event_data": {
-        "EventId": 22507,
-        "EventGuid": "9FF3D0E0-9F64-4D0C-A618-5BEB151E515F",
-        "EventLastModifiedUtc": "2026-05-19T15:44:57.58",
-        "EventRowVersion": "AAAAAOg5onw=",
-        "EventBodyId": 19,
-        "EventBodyName": "Committee on Public Safety",
-        "EventDate": "2026-05-20T00:00:00",
-        "EventTime": "10:30 AM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22507_A_Committee_on_Public_Safety_26-05-20_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2026-05-19T15:44:57.527",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": "VOTE*",
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22507&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "The Didarul Islam Police Recruitment Act (S.9274/A.10381)."
-      },
-      "first_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-      "last_significant_change_timestamp": "2026-05-20T10:44:42.292525",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [
-        "newly_added"
-      ],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2026-05-20T10:44:42.292525",
-      "user_facing_tags": [
-        "new_hearing_tag"
-      ]
-    },
-    {
-      "event_data": {
-        "EventId": 22374,
-        "EventGuid": "0EA4AB22-596E-42A0-ACBE-CE9467A5DA53",
-        "EventLastModifiedUtc": "2026-03-30T13:20:15.16",
-        "EventRowVersion": "AAAAAOgv/Xk=",
-        "EventBodyId": 1,
-        "EventBodyName": "City Council",
-        "EventDate": "2026-05-20T00:00:00",
-        "EventTime": "1:30 PM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "Council Chambers - City Hall",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22374_A_City_Council_26-05-20_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2026-03-30T13:20:15.11",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": null,
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22374&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Agenda 1:30 p.m."
-      },
-      "first_seen_timestamp": "2026-03-31T08:51:33.190662",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-      "last_significant_change_timestamp": "2026-03-31T08:51:33.190662",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2026-03-31T08:51:33.190662",
-      "user_facing_tags": []
-    },
     {
       "event_data": {
         "EventId": 22455,
         "EventGuid": "77272726-6CEB-46A5-930B-F74C48E55BDA",
-        "EventLastModifiedUtc": "2026-05-12T11:54:38.637",
-        "EventRowVersion": "AAAAAOg3l2A=",
+        "EventLastModifiedUtc": "2026-05-20T15:17:19.593",
+        "EventRowVersion": "AAAAAOg6Fqw=",
         "EventBodyId": 11,
         "EventBodyName": "Committee on Finance",
         "EventDate": "2026-05-26T00:00:00",
@@ -139,23 +19,24 @@
         "EventLocation": "Council Chambers - City Hall",
         "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22455_A_Committee_on_Finance_26-05-26_Committee_Agenda.pdf",
         "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2026-05-12T11:54:38.573",
+        "EventAgendaLastPublishedUTC": "2026-05-20T15:17:19.533",
         "EventMinutesLastPublishedUTC": null,
-        "EventComment": "Jointly with the Committee on Aging and the Committee on Cultural Affairs, Libraries and International Relations.",
+        "EventComment": "Jointly with the Committee on Aging and the Committee on Cultural Affairs, Libraries and International Relations.*",
         "EventVideoPath": null,
         "EventMedia": null,
         "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22455&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Executive Budget Hearings - Finance"
+        "EventItems": []
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-      "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+      "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
+      "processing_tags": [
+        "data_changed"
+      ],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-05-13T10:18:25.633941",
       "user_facing_tags": []
@@ -188,8 +69,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Aging"
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -227,8 +108,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Cultural Affairs, Libraries and International Relations"
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -242,8 +123,8 @@
       "event_data": {
         "EventId": 22458,
         "EventGuid": "F37D6289-3C4D-4098-B4AD-84902C58DB4C",
-        "EventLastModifiedUtc": "2026-05-14T17:14:24",
-        "EventRowVersion": "AAAAAOg4TIw=",
+        "EventLastModifiedUtc": "2026-05-20T15:17:01.717",
+        "EventRowVersion": "AAAAAOg6Fpw=",
         "EventBodyId": 11,
         "EventBodyName": "Committee on Finance",
         "EventDate": "2026-05-27T00:00:00",
@@ -256,22 +137,24 @@
         "EventLocation": "Council Chambers - City Hall",
         "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22458_A_Committee_on_Finance_26-05-27_Committee_Agenda.pdf",
         "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2026-05-14T17:14:23.953",
+        "EventAgendaLastPublishedUTC": "2026-05-20T15:17:01.667",
         "EventMinutesLastPublishedUTC": null,
-        "EventComment": "Jointly with the Committee on Civil and Human Rights and the Committee on Parks and Recreation.",
+        "EventComment": "Jointly with the Committee on Civil and Human Rights and the Committee on Parks and Recreation.*",
         "EventVideoPath": null,
         "EventMedia": null,
         "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22458&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
         "EventItems": []
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-      "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+      "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
+      "processing_tags": [
+        "data_changed"
+      ],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-05-13T10:18:25.633941",
       "user_facing_tags": []
@@ -304,8 +187,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Civil and Human Rights"
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -343,8 +226,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-04-03T08:44:39.305624",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-04-03T08:44:39.305624",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -382,8 +265,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Parks and Recreation"
       },
       "first_seen_timestamp": "2026-05-15T10:15:30.118261",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -421,8 +304,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Children and Youth"
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -436,8 +319,8 @@
       "event_data": {
         "EventId": 22462,
         "EventGuid": "921DA540-629D-4739-A544-5F119AA08E72",
-        "EventLastModifiedUtc": "2026-05-14T17:29:35.467",
-        "EventRowVersion": "AAAAAOg4UH8=",
+        "EventLastModifiedUtc": "2026-05-20T15:16:41.003",
+        "EventRowVersion": "AAAAAOg6Fow=",
         "EventBodyId": 11,
         "EventBodyName": "Committee on Finance",
         "EventDate": "2026-05-28T00:00:00",
@@ -450,22 +333,24 @@
         "EventLocation": "Council Chambers - City Hall",
         "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22462_A_Committee_on_Finance_26-05-28_Committee_Agenda.pdf",
         "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2026-05-14T17:29:35.253",
+        "EventAgendaLastPublishedUTC": "2026-05-20T15:16:40.94",
         "EventMinutesLastPublishedUTC": null,
-        "EventComment": "Jointly with the Committee on Children and Youth and the Committee on Immigration.",
+        "EventComment": "Jointly with the Committee on Children and Youth and the Committee on Immigration.*",
         "EventVideoPath": null,
         "EventMedia": null,
         "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22462&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
         "EventItems": []
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-      "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+      "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
+      "processing_tags": [
+        "data_changed"
+      ],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-05-13T10:18:25.633941",
       "user_facing_tags": []
@@ -498,8 +383,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Immigration"
       },
       "first_seen_timestamp": "2026-05-15T10:15:30.118261",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -521,8 +406,8 @@
       "event_data": {
         "EventId": 22463,
         "EventGuid": "1AFD551D-6348-4D19-955D-BD24023F2CEB",
-        "EventLastModifiedUtc": "2026-05-12T11:57:52.46",
-        "EventRowVersion": "AAAAAOg3l9I=",
+        "EventLastModifiedUtc": "2026-05-20T15:16:20.55",
+        "EventRowVersion": "AAAAAOg6Fnw=",
         "EventBodyId": 11,
         "EventBodyName": "Committee on Finance",
         "EventDate": "2026-05-29T00:00:00",
@@ -535,23 +420,24 @@
         "EventLocation": "Council Chambers - City Hall",
         "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22463_A_Committee_on_Finance_26-05-29_Committee_Agenda.pdf",
         "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2026-05-12T11:57:52.44",
+        "EventAgendaLastPublishedUTC": "2026-05-20T15:16:20.513",
         "EventMinutesLastPublishedUTC": null,
-        "EventComment": "Jointly with the Committee on Transportation and Infrastructure and the Committee on Consumer and Worker Protection and the Committee on Economic Development.",
+        "EventComment": "Jointly with the Committee on Transportation and Infrastructure and the Committee on Consumer and Worker Protection and the Committee on Economic Development.*",
         "EventVideoPath": null,
         "EventMedia": null,
         "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22463&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Executive Budget Hearings - Finance"
+        "EventItems": []
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-      "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+      "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
+      "processing_tags": [
+        "data_changed"
+      ],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-05-13T10:18:25.633941",
       "user_facing_tags": []
@@ -584,8 +470,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Transportation and Infrastructure"
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -623,8 +509,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Consumer and Worker Protection"
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -662,8 +548,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Economic Development"
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -677,8 +563,8 @@
       "event_data": {
         "EventId": 22467,
         "EventGuid": "FAABDF6D-249D-4116-833D-3B31F5D61F78",
-        "EventLastModifiedUtc": "2026-05-12T12:05:52.623",
-        "EventRowVersion": "AAAAAOg3mCU=",
+        "EventLastModifiedUtc": "2026-05-20T15:15:59.99",
+        "EventRowVersion": "AAAAAOg6Fmw=",
         "EventBodyId": 11,
         "EventBodyName": "Committee on Finance",
         "EventDate": "2026-06-01T00:00:00",
@@ -691,23 +577,24 @@
         "EventLocation": "Council Chambers - City Hall",
         "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22467_A_Committee_on_Finance_26-06-01_Committee_Agenda.pdf",
         "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2026-05-12T12:05:52.413",
+        "EventAgendaLastPublishedUTC": "2026-05-20T15:15:59.923",
         "EventMinutesLastPublishedUTC": null,
-        "EventComment": "Jointly with the Committee on Public Safety and the Committee on Fire and Emergency Management.",
+        "EventComment": "Jointly with the Committee on Public Safety and the Committee on Fire and Emergency Management.*",
         "EventVideoPath": null,
         "EventMedia": null,
         "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22467&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Executive Budget Hearings - Finance"
+        "EventItems": []
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-      "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+      "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
+      "processing_tags": [
+        "data_changed"
+      ],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-05-13T10:18:25.633941",
       "user_facing_tags": []
@@ -740,8 +627,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Public Safety"
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -779,8 +666,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Fire and Emergency Management"
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -794,8 +681,8 @@
       "event_data": {
         "EventId": 22470,
         "EventGuid": "129B34CA-ECCC-4AF7-8F0B-48473311F786",
-        "EventLastModifiedUtc": "2026-05-14T17:38:00.98",
-        "EventRowVersion": "AAAAAOg4ULc=",
+        "EventLastModifiedUtc": "2026-05-20T15:15:38.22",
+        "EventRowVersion": "AAAAAOg6Flw=",
         "EventBodyId": 11,
         "EventBodyName": "Committee on Finance",
         "EventDate": "2026-06-02T00:00:00",
@@ -808,22 +695,24 @@
         "EventLocation": "Council Chambers - City Hall",
         "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22470_A_Committee_on_Finance_26-06-02_Committee_Agenda.pdf",
         "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2026-05-14T17:38:00.387",
+        "EventAgendaLastPublishedUTC": "2026-05-20T15:15:38.193",
         "EventMinutesLastPublishedUTC": null,
-        "EventComment": "Jointly with the Committee on Criminal Justice and the Committee on Housing and Buildings and the Committee on Public Housing.",
+        "EventComment": "Jointly with the Committee on Criminal Justice and the Committee on Housing and Buildings and the Committee on Public Housing.*",
         "EventVideoPath": null,
         "EventMedia": null,
         "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22470&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
         "EventItems": []
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-      "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+      "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
+      "processing_tags": [
+        "data_changed"
+      ],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-05-13T10:18:25.633941",
       "user_facing_tags": []
@@ -856,8 +745,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Criminal Justice"
       },
       "first_seen_timestamp": "2026-05-15T10:15:30.118261",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -894,8 +783,8 @@
         "EventItems": []
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -932,8 +821,8 @@
         "EventItems": []
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -947,8 +836,8 @@
       "event_data": {
         "EventId": 22477,
         "EventGuid": "23D67CCA-F4FD-49EC-927A-F5C25FBE0DF2",
-        "EventLastModifiedUtc": "2026-05-14T17:48:55.18",
-        "EventRowVersion": "AAAAAOg4Uew=",
+        "EventLastModifiedUtc": "2026-05-20T15:15:12.503",
+        "EventRowVersion": "AAAAAOg6Fkw=",
         "EventBodyId": 11,
         "EventBodyName": "Committee on Finance",
         "EventDate": "2026-06-04T00:00:00",
@@ -961,22 +850,24 @@
         "EventLocation": "Council Chambers - City Hall",
         "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22477_A_Committee_on_Finance_26-06-04_Committee_Agenda.pdf",
         "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2026-05-14T17:48:55.1",
+        "EventAgendaLastPublishedUTC": "2026-05-20T15:15:12.443",
         "EventMinutesLastPublishedUTC": null,
-        "EventComment": "Jointly with the Committee on General Welfare and the Committee on Sanitation and Solid Waste Management.",
+        "EventComment": "Jointly with the Committee on General Welfare and the Committee on Sanitation and Solid Waste Management.*",
         "EventVideoPath": null,
         "EventMedia": null,
         "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22477&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
         "EventItems": []
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-      "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+      "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
+      "processing_tags": [
+        "data_changed"
+      ],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-05-13T10:18:25.633941",
       "user_facing_tags": []
@@ -1009,8 +900,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - General Welfare"
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1048,8 +939,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Sanitation and Solid Waste Management"
       },
       "first_seen_timestamp": "2026-05-15T10:15:30.118261",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -1071,8 +962,8 @@
       "event_data": {
         "EventId": 22479,
         "EventGuid": "D1D5E484-44EC-4E62-8424-85EB88B6DA8A",
-        "EventLastModifiedUtc": "2026-05-12T12:10:11.28",
-        "EventRowVersion": "AAAAAOg3mPQ=",
+        "EventLastModifiedUtc": "2026-05-20T15:14:54.063",
+        "EventRowVersion": "AAAAAOg6Fjw=",
         "EventBodyId": 11,
         "EventBodyName": "Committee on Finance",
         "EventDate": "2026-06-05T00:00:00",
@@ -1085,23 +976,24 @@
         "EventLocation": "Council Chambers - City Hall",
         "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22479_A_Committee_on_Finance_26-06-05_Committee_Agenda.pdf",
         "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2026-05-12T12:10:11.247",
+        "EventAgendaLastPublishedUTC": "2026-05-20T15:14:54.003",
         "EventMinutesLastPublishedUTC": null,
-        "EventComment": "Jointly with the Committee on Health and the Committee on Mental Health and Substance Use and the Committee on Hospitals.",
+        "EventComment": "Jointly with the Committee on Health and the Committee on Mental Health and Substance Use and the Committee on Hospitals.*",
         "EventVideoPath": null,
         "EventMedia": null,
         "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22479&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Executive Budget Hearings - Finance"
+        "EventItems": []
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-      "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+      "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
+      "processing_tags": [
+        "data_changed"
+      ],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-05-13T10:18:25.633941",
       "user_facing_tags": []
@@ -1134,8 +1026,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Health"
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1173,8 +1065,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Mental Health and Substance Use"
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1212,8 +1104,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Hospitals"
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1227,8 +1119,8 @@
       "event_data": {
         "EventId": 22483,
         "EventGuid": "F9F4065F-C869-4CD3-8ED5-D1037D73C753",
-        "EventLastModifiedUtc": "2026-05-12T12:11:05.773",
-        "EventRowVersion": "AAAAAOg3mSQ=",
+        "EventLastModifiedUtc": "2026-05-20T15:14:31.66",
+        "EventRowVersion": "AAAAAOg6Fiw=",
         "EventBodyId": 11,
         "EventBodyName": "Committee on Finance",
         "EventDate": "2026-06-08T00:00:00",
@@ -1241,23 +1133,24 @@
         "EventLocation": "Council Chambers - City Hall",
         "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22483_A_Committee_on_Finance_26-06-08_Committee_Agenda.pdf",
         "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2026-05-12T12:11:05.74",
+        "EventAgendaLastPublishedUTC": "2026-05-20T15:14:31.58",
         "EventMinutesLastPublishedUTC": null,
-        "EventComment": "Jointly with the Committee on Higher Education and the Committee on Education.",
+        "EventComment": "Jointly with the Committee on Higher Education and the Committee on Education.*",
         "EventVideoPath": null,
         "EventMedia": null,
         "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22483&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Executive Budget Hearings - Finance"
+        "EventItems": []
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-      "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+      "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
+      "processing_tags": [
+        "data_changed"
+      ],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-05-13T10:18:25.633941",
       "user_facing_tags": []
@@ -1290,8 +1183,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Higher Education"
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1329,8 +1222,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Education"
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1368,8 +1261,8 @@
         "SyntheticMeetingTopic": "Establishing a support fund for small businesses affected by roadway construction."
       },
       "first_seen_timestamp": "2026-05-19T10:57:03.869929",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-19T10:57:03.869929",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1377,16 +1270,14 @@
       "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-05-19T10:57:03.869929",
-      "user_facing_tags": [
-        "new_hearing_tag"
-      ]
+      "user_facing_tags": []
     },
     {
       "event_data": {
         "EventId": 22486,
         "EventGuid": "DACE4389-684F-446D-B28F-ED0A3DE7931C",
-        "EventLastModifiedUtc": "2026-05-12T12:11:56.617",
-        "EventRowVersion": "AAAAAOg3mVQ=",
+        "EventLastModifiedUtc": "2026-05-20T15:14:08.26",
+        "EventRowVersion": "AAAAAOg6Fhw=",
         "EventBodyId": 11,
         "EventBodyName": "Committee on Finance",
         "EventDate": "2026-06-09T00:00:00",
@@ -1399,23 +1290,24 @@
         "EventLocation": "Council Chambers - City Hall",
         "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22486_A_Committee_on_Finance_26-06-09_Committee_Agenda.pdf",
         "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2026-05-12T12:11:56.58",
+        "EventAgendaLastPublishedUTC": "2026-05-20T15:14:08.083",
         "EventMinutesLastPublishedUTC": null,
-        "EventComment": null,
+        "EventComment": "*",
         "EventVideoPath": null,
         "EventMedia": null,
         "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22486&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Executive Budget Hearings - Finance"
+        "EventItems": []
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-      "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+      "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
+      "processing_tags": [
+        "data_changed"
+      ],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-05-13T10:18:25.633941",
       "user_facing_tags": []
@@ -1448,8 +1340,8 @@
         "SyntheticMeetingTopic": "Executive Budget Hearings - Finance"
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1487,8 +1379,8 @@
         "SyntheticMeetingTopic": "Agenda 1 p.m."
       },
       "first_seen_timestamp": "2026-03-04T08:32:06.040233",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-03-04T08:32:06.040233",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1526,8 +1418,8 @@
         "SyntheticMeetingTopic": "Oversight - Interagency Coordination for Older Adults."
       },
       "first_seen_timestamp": "2026-05-09T09:12:42.000347",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-09T09:12:42.000347",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1565,15 +1457,13 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-20T10:44:42.292525",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [
-        "newly_added"
-      ],
+      "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-05-20T10:44:42.292525",
       "user_facing_tags": [
@@ -1608,8 +1498,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-05-08T09:10:07.118932",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-08T09:10:07.118932",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -1655,8 +1545,8 @@
         "SyntheticMeetingTopic": "Oversight - Racial Equity at CUNY."
       },
       "first_seen_timestamp": "2026-05-15T10:15:30.118261",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1694,8 +1584,8 @@
         "SyntheticMeetingTopic": "Oversight - Support and Programs for LGBTQ+ Veterans."
       },
       "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1733,8 +1623,8 @@
         "SyntheticMeetingTopic": "Oversight - Community-based Prevention and Response to Hate and Bias."
       },
       "first_seen_timestamp": "2026-05-19T10:57:03.869929",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-19T10:57:03.869929",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1742,9 +1632,7 @@
       "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-05-19T10:57:03.869929",
-      "user_facing_tags": [
-        "new_hearing_tag"
-      ]
+      "user_facing_tags": []
     },
     {
       "event_data": {
@@ -1774,8 +1662,8 @@
         "SyntheticMeetingTopic": "Oversight - Housing Instability Among LGBTQ+ Individuals in NYC."
       },
       "first_seen_timestamp": "2026-05-19T10:57:03.869929",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-19T10:57:03.869929",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1783,9 +1671,7 @@
       "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-05-19T10:57:03.869929",
-      "user_facing_tags": [
-        "new_hearing_tag"
-      ]
+      "user_facing_tags": []
     },
     {
       "event_data": {
@@ -1815,8 +1701,8 @@
         "SyntheticMeetingTopic": "Oversight - Housing Instability Among LGBTQ+ Individuals in NYC."
       },
       "first_seen_timestamp": "2026-05-19T10:57:03.869929",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-19T10:57:03.869929",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1824,9 +1710,7 @@
       "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-05-19T10:57:03.869929",
-      "user_facing_tags": [
-        "new_hearing_tag"
-      ]
+      "user_facing_tags": []
     },
     {
       "event_data": {
@@ -1856,8 +1740,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-05-08T09:10:07.118932",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-08T09:10:07.118932",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -1903,8 +1787,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-05-08T09:10:07.118932",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-08T09:10:07.118932",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -1950,8 +1834,8 @@
         "SyntheticMeetingTopic": "Agenda 1 p.m."
       },
       "first_seen_timestamp": "2026-03-04T08:32:06.040233",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-03-04T08:32:06.040233",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1989,8 +1873,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-05-16T09:25:42.461578",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-16T09:25:42.461578",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -2028,8 +1912,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-05-08T09:10:07.118932",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-08T09:10:07.118932",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -2067,8 +1951,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-05-08T09:10:07.118932",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-08T09:10:07.118932",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -2106,8 +1990,8 @@
         "SyntheticMeetingTopic": "Agenda 1 p.m."
       },
       "first_seen_timestamp": "2026-03-04T08:32:06.040233",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-03-04T08:32:06.040233",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -2145,8 +2029,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-05-16T09:25:42.461578",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-16T09:25:42.461578",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -2184,15 +2068,13 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-05-20T10:44:42.292525",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
       "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [
-        "newly_added"
-      ],
+      "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-05-20T10:44:42.292525",
       "user_facing_tags": [
@@ -2227,8 +2109,8 @@
         "SyntheticMeetingTopic": "Agenda 1 p.m."
       },
       "first_seen_timestamp": "2026-03-04T08:32:06.040233",
-      "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+      "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+      "last_processed_timestamp": "2026-05-21T11:15:41.258291",
       "last_significant_change_timestamp": "2026-03-04T08:32:06.040233",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -2242,126 +2124,38 @@
   "updates_since_last_run": [
     {
       "type": "new",
-      "alert_timestamp": "2026-05-20T10:44:42.292525",
+      "alert_timestamp": "2026-05-21T11:15:41.258291",
       "data": {
         "event_data": {
-          "EventId": 22509,
-          "EventGuid": "056B062A-E017-477E-8774-F6500EE07716",
-          "EventLastModifiedUtc": "2026-05-19T18:27:44.113",
-          "EventRowVersion": "AAAAAOg5uZM=",
-          "EventBodyId": 5309,
-          "EventBodyName": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
-          "EventDate": "2026-07-22T00:00:00",
-          "EventTime": "11:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/7/22509_A_Subcommittee_on_Landmarks%2C_Public_Sitings%2C_Resiliency_and_Dispositions_26-07-22_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-05-19T18:27:44.063",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22509&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "See Land Use Calendar"
-        },
-        "first_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-        "last_significant_change_timestamp": "2026-05-20T10:44:42.292525",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2026-05-20T10:44:42.292525"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2026-05-20T10:44:42.292525",
-      "data": {
-        "event_data": {
-          "EventId": 22508,
-          "EventGuid": "65A9A76D-99B7-4812-92BB-EE9AFC7F0776",
-          "EventLastModifiedUtc": "2026-05-19T18:24:29.647",
-          "EventRowVersion": "AAAAAOg5uMY=",
-          "EventBodyId": 5309,
-          "EventBodyName": "Subcommittee on Landmarks, Public Sitings, Resiliency and Dispositions",
-          "EventDate": "2026-06-16T00:00:00",
-          "EventTime": "11:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22508_A_Subcommittee_on_Landmarks%2C_Public_Sitings%2C_Resiliency_and_Dispositions_26-06-16_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-05-19T18:24:29.533",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22508&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "See Land Use Calendar"
-        },
-        "first_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-        "last_significant_change_timestamp": "2026-05-20T10:44:42.292525",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2026-05-20T10:44:42.292525"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2026-05-20T10:44:42.292525",
-      "data": {
-        "event_data": {
-          "EventId": 22507,
-          "EventGuid": "9FF3D0E0-9F64-4D0C-A618-5BEB151E515F",
-          "EventLastModifiedUtc": "2026-05-19T15:44:57.58",
-          "EventRowVersion": "AAAAAOg5onw=",
-          "EventBodyId": 19,
-          "EventBodyName": "Committee on Public Safety",
+          "EventId": 22503,
+          "EventGuid": "43310602-6620-4352-BA51-63C1BE884C42",
+          "EventLastModifiedUtc": "2026-05-20T19:17:02.067",
+          "EventRowVersion": "AAAAAOg6RtA=",
+          "EventBodyId": 1,
+          "EventBodyName": "City Council",
           "EventDate": "2026-05-20T00:00:00",
-          "EventTime": "10:30 AM",
+          "EventTime": "1:30 PM",
           "EventVideoStatus": "Public",
           "EventAgendaStatusId": 2,
           "EventAgendaStatusName": "Final",
           "EventMinutesStatusId": 1,
           "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22507_A_Committee_on_Public_Safety_26-05-20_Committee_Agenda.pdf",
+          "EventLocation": "Council Chambers - City Hall",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22503_A_City_Council_26-05-20_Committee_Agenda.pdf",
           "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-05-19T15:44:57.527",
+          "EventAgendaLastPublishedUTC": "2026-05-20T17:12:44.72",
           "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
+          "EventComment": null,
+          "EventVideoPath": "https://councilnyc.viebit.com/vod/?s=true&v=NYCC-PV-CH-CHA_260520-134247.mp4",
           "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22507&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22503&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
           "EventItems": [],
-          "SyntheticMeetingTopic": "The Didarul Islam Police Recruitment Act (S.9274/A.10381)."
+          "SyntheticMeetingTopic": "Roll Call"
         },
-        "first_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-        "last_significant_change_timestamp": "2026-05-20T10:44:42.292525",
+        "first_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+        "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
@@ -2369,7 +2163,7 @@
           "newly_added"
         ],
         "last_alert_type": "new",
-        "last_alert_timestamp": "2026-05-20T10:44:42.292525"
+        "last_alert_timestamp": "2026-05-21T11:15:41.258291"
       }
     }
   ],
@@ -2405,15 +2199,13 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-20T10:44:42.292525",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2026-05-20T10:44:42.292525"
       }
@@ -2449,59 +2241,13 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-20T10:44:42.292525",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2026-05-20T10:44:42.292525"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2026-05-20T10:44:42.292525",
-      "data": {
-        "event_data": {
-          "EventId": 22507,
-          "EventGuid": "9FF3D0E0-9F64-4D0C-A618-5BEB151E515F",
-          "EventLastModifiedUtc": "2026-05-19T15:44:57.58",
-          "EventRowVersion": "AAAAAOg5onw=",
-          "EventBodyId": 19,
-          "EventBodyName": "Committee on Public Safety",
-          "EventDate": "2026-05-20T00:00:00",
-          "EventTime": "10:30 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22507_A_Committee_on_Public_Safety_26-05-20_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-05-19T15:44:57.527",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22507&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "The Didarul Islam Police Recruitment Act (S.9274/A.10381)."
-        },
-        "first_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-        "last_significant_change_timestamp": "2026-05-20T10:44:42.292525",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2026-05-20T10:44:42.292525"
       }
@@ -2537,8 +2283,8 @@
           "SyntheticMeetingTopic": "Oversight - Housing Instability Among LGBTQ+ Individuals in NYC."
         },
         "first_seen_timestamp": "2026-05-19T10:57:03.869929",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-19T10:57:03.869929",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2579,8 +2325,8 @@
           "SyntheticMeetingTopic": "Oversight - Housing Instability Among LGBTQ+ Individuals in NYC."
         },
         "first_seen_timestamp": "2026-05-19T10:57:03.869929",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-19T10:57:03.869929",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2621,8 +2367,8 @@
           "SyntheticMeetingTopic": "Oversight - Community-based Prevention and Response to Hate and Bias."
         },
         "first_seen_timestamp": "2026-05-19T10:57:03.869929",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-19T10:57:03.869929",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2663,8 +2409,8 @@
           "SyntheticMeetingTopic": "Establishing a support fund for small businesses affected by roadway construction."
         },
         "first_seen_timestamp": "2026-05-19T10:57:03.869929",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-19T10:57:03.869929",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2705,8 +2451,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2026-05-16T09:25:42.461578",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-16T09:25:42.461578",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2747,8 +2493,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2026-05-16T09:25:42.461578",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-16T09:25:42.461578",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2788,8 +2534,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-16T09:25:42.461578",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -2830,8 +2576,8 @@
           "SyntheticMeetingTopic": "Oversight - Racial Equity at CUNY."
         },
         "first_seen_timestamp": "2026-05-15T10:15:30.118261",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2872,8 +2618,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Sanitation and Solid Waste Management"
         },
         "first_seen_timestamp": "2026-05-15T10:15:30.118261",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -2919,8 +2665,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -2966,8 +2712,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -3007,8 +2753,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -3049,8 +2795,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Criminal Justice"
         },
         "first_seen_timestamp": "2026-05-15T10:15:30.118261",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3091,8 +2837,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Immigration"
         },
         "first_seen_timestamp": "2026-05-15T10:15:30.118261",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -3138,8 +2884,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -3186,8 +2932,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Parks and Recreation"
         },
         "first_seen_timestamp": "2026-05-15T10:15:30.118261",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3230,15 +2976,13 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-20T10:44:42.292525",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2026-05-20T10:44:42.292525"
       }
@@ -3274,59 +3018,13 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-20T10:44:42.292525",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2026-05-20T10:44:42.292525"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2026-05-20T10:44:42.292525",
-      "data": {
-        "event_data": {
-          "EventId": 22507,
-          "EventGuid": "9FF3D0E0-9F64-4D0C-A618-5BEB151E515F",
-          "EventLastModifiedUtc": "2026-05-19T15:44:57.58",
-          "EventRowVersion": "AAAAAOg5onw=",
-          "EventBodyId": 19,
-          "EventBodyName": "Committee on Public Safety",
-          "EventDate": "2026-05-20T00:00:00",
-          "EventTime": "10:30 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22507_A_Committee_on_Public_Safety_26-05-20_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-05-19T15:44:57.527",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22507&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "The Didarul Islam Police Recruitment Act (S.9274/A.10381)."
-        },
-        "first_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-        "last_significant_change_timestamp": "2026-05-20T10:44:42.292525",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "newly_added"
-        ],
+        "processing_tags": [],
         "last_alert_type": "new",
         "last_alert_timestamp": "2026-05-20T10:44:42.292525"
       }
@@ -3362,8 +3060,8 @@
           "SyntheticMeetingTopic": "Oversight - Housing Instability Among LGBTQ+ Individuals in NYC."
         },
         "first_seen_timestamp": "2026-05-19T10:57:03.869929",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-19T10:57:03.869929",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3404,8 +3102,8 @@
           "SyntheticMeetingTopic": "Oversight - Housing Instability Among LGBTQ+ Individuals in NYC."
         },
         "first_seen_timestamp": "2026-05-19T10:57:03.869929",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-19T10:57:03.869929",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3446,8 +3144,8 @@
           "SyntheticMeetingTopic": "Oversight - Community-based Prevention and Response to Hate and Bias."
         },
         "first_seen_timestamp": "2026-05-19T10:57:03.869929",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-19T10:57:03.869929",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3488,8 +3186,8 @@
           "SyntheticMeetingTopic": "Establishing a support fund for small businesses affected by roadway construction."
         },
         "first_seen_timestamp": "2026-05-19T10:57:03.869929",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-19T10:57:03.869929",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3530,8 +3228,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2026-05-16T09:25:42.461578",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-16T09:25:42.461578",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3572,8 +3270,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2026-05-16T09:25:42.461578",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-16T09:25:42.461578",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3613,8 +3311,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-16T09:25:42.461578",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -3655,8 +3353,8 @@
           "SyntheticMeetingTopic": "Oversight - Racial Equity at CUNY."
         },
         "first_seen_timestamp": "2026-05-15T10:15:30.118261",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3697,8 +3395,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Sanitation and Solid Waste Management"
         },
         "first_seen_timestamp": "2026-05-15T10:15:30.118261",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -3744,8 +3442,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -3791,8 +3489,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -3832,8 +3530,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -3874,8 +3572,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Criminal Justice"
         },
         "first_seen_timestamp": "2026-05-15T10:15:30.118261",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3916,8 +3614,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Immigration"
         },
         "first_seen_timestamp": "2026-05-15T10:15:30.118261",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -3963,8 +3661,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -4011,8 +3709,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Parks and Recreation"
         },
         "first_seen_timestamp": "2026-05-15T10:15:30.118261",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4053,8 +3751,8 @@
           "SyntheticMeetingTopic": "Oversight - Support and Programs for LGBTQ+ Veterans."
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4095,8 +3793,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Finance"
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4113,8 +3811,8 @@
         "event_data": {
           "EventId": 22486,
           "EventGuid": "DACE4389-684F-446D-B28F-ED0A3DE7931C",
-          "EventLastModifiedUtc": "2026-05-12T12:11:56.617",
-          "EventRowVersion": "AAAAAOg3mVQ=",
+          "EventLastModifiedUtc": "2026-05-20T15:14:08.26",
+          "EventRowVersion": "AAAAAOg6Fhw=",
           "EventBodyId": 11,
           "EventBodyName": "Committee on Finance",
           "EventDate": "2026-06-09T00:00:00",
@@ -4127,23 +3825,24 @@
           "EventLocation": "Council Chambers - City Hall",
           "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22486_A_Committee_on_Finance_26-06-09_Committee_Agenda.pdf",
           "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-05-12T12:11:56.58",
+          "EventAgendaLastPublishedUTC": "2026-05-20T15:14:08.083",
           "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
+          "EventComment": "*",
           "EventVideoPath": null,
           "EventMedia": null,
           "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22486&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Executive Budget Hearings - Finance"
+          "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-        "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+        "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
+        "processing_tags": [
+          "data_changed"
+        ],
         "last_alert_type": "new",
         "last_alert_timestamp": "2026-05-13T10:18:25.633941"
       }
@@ -4179,8 +3878,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Education"
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4197,8 +3896,8 @@
         "event_data": {
           "EventId": 22483,
           "EventGuid": "F9F4065F-C869-4CD3-8ED5-D1037D73C753",
-          "EventLastModifiedUtc": "2026-05-12T12:11:05.773",
-          "EventRowVersion": "AAAAAOg3mSQ=",
+          "EventLastModifiedUtc": "2026-05-20T15:14:31.66",
+          "EventRowVersion": "AAAAAOg6Fiw=",
           "EventBodyId": 11,
           "EventBodyName": "Committee on Finance",
           "EventDate": "2026-06-08T00:00:00",
@@ -4211,23 +3910,24 @@
           "EventLocation": "Council Chambers - City Hall",
           "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22483_A_Committee_on_Finance_26-06-08_Committee_Agenda.pdf",
           "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-05-12T12:11:05.74",
+          "EventAgendaLastPublishedUTC": "2026-05-20T15:14:31.58",
           "EventMinutesLastPublishedUTC": null,
-          "EventComment": "Jointly with the Committee on Higher Education and the Committee on Education.",
+          "EventComment": "Jointly with the Committee on Higher Education and the Committee on Education.*",
           "EventVideoPath": null,
           "EventMedia": null,
           "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22483&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Executive Budget Hearings - Finance"
+          "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-        "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+        "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
+        "processing_tags": [
+          "data_changed"
+        ],
         "last_alert_type": "new",
         "last_alert_timestamp": "2026-05-13T10:18:25.633941"
       }
@@ -4263,8 +3963,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Higher Education"
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4305,8 +4005,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Hospitals"
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4347,8 +4047,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Mental Health and Substance Use"
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4365,8 +4065,8 @@
         "event_data": {
           "EventId": 22479,
           "EventGuid": "D1D5E484-44EC-4E62-8424-85EB88B6DA8A",
-          "EventLastModifiedUtc": "2026-05-12T12:10:11.28",
-          "EventRowVersion": "AAAAAOg3mPQ=",
+          "EventLastModifiedUtc": "2026-05-20T15:14:54.063",
+          "EventRowVersion": "AAAAAOg6Fjw=",
           "EventBodyId": 11,
           "EventBodyName": "Committee on Finance",
           "EventDate": "2026-06-05T00:00:00",
@@ -4379,23 +4079,24 @@
           "EventLocation": "Council Chambers - City Hall",
           "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22479_A_Committee_on_Finance_26-06-05_Committee_Agenda.pdf",
           "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-05-12T12:10:11.247",
+          "EventAgendaLastPublishedUTC": "2026-05-20T15:14:54.003",
           "EventMinutesLastPublishedUTC": null,
-          "EventComment": "Jointly with the Committee on Health and the Committee on Mental Health and Substance Use and the Committee on Hospitals.",
+          "EventComment": "Jointly with the Committee on Health and the Committee on Mental Health and Substance Use and the Committee on Hospitals.*",
           "EventVideoPath": null,
           "EventMedia": null,
           "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22479&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Executive Budget Hearings - Finance"
+          "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-        "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+        "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
+        "processing_tags": [
+          "data_changed"
+        ],
         "last_alert_type": "new",
         "last_alert_timestamp": "2026-05-13T10:18:25.633941"
       }
@@ -4431,8 +4132,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Health"
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4449,8 +4150,8 @@
         "event_data": {
           "EventId": 22477,
           "EventGuid": "23D67CCA-F4FD-49EC-927A-F5C25FBE0DF2",
-          "EventLastModifiedUtc": "2026-05-14T17:48:55.18",
-          "EventRowVersion": "AAAAAOg4Uew=",
+          "EventLastModifiedUtc": "2026-05-20T15:15:12.503",
+          "EventRowVersion": "AAAAAOg6Fkw=",
           "EventBodyId": 11,
           "EventBodyName": "Committee on Finance",
           "EventDate": "2026-06-04T00:00:00",
@@ -4463,22 +4164,24 @@
           "EventLocation": "Council Chambers - City Hall",
           "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22477_A_Committee_on_Finance_26-06-04_Committee_Agenda.pdf",
           "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-05-14T17:48:55.1",
+          "EventAgendaLastPublishedUTC": "2026-05-20T15:15:12.443",
           "EventMinutesLastPublishedUTC": null,
-          "EventComment": "Jointly with the Committee on General Welfare and the Committee on Sanitation and Solid Waste Management.",
+          "EventComment": "Jointly with the Committee on General Welfare and the Committee on Sanitation and Solid Waste Management.*",
           "EventVideoPath": null,
           "EventMedia": null,
           "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22477&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-        "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+        "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
+        "processing_tags": [
+          "data_changed"
+        ],
         "last_alert_type": "new",
         "last_alert_timestamp": "2026-05-13T10:18:25.633941"
       }
@@ -4514,8 +4217,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - General Welfare"
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4555,8 +4258,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4596,8 +4299,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4614,8 +4317,8 @@
         "event_data": {
           "EventId": 22470,
           "EventGuid": "129B34CA-ECCC-4AF7-8F0B-48473311F786",
-          "EventLastModifiedUtc": "2026-05-14T17:38:00.98",
-          "EventRowVersion": "AAAAAOg4ULc=",
+          "EventLastModifiedUtc": "2026-05-20T15:15:38.22",
+          "EventRowVersion": "AAAAAOg6Flw=",
           "EventBodyId": 11,
           "EventBodyName": "Committee on Finance",
           "EventDate": "2026-06-02T00:00:00",
@@ -4628,22 +4331,24 @@
           "EventLocation": "Council Chambers - City Hall",
           "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22470_A_Committee_on_Finance_26-06-02_Committee_Agenda.pdf",
           "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-05-14T17:38:00.387",
+          "EventAgendaLastPublishedUTC": "2026-05-20T15:15:38.193",
           "EventMinutesLastPublishedUTC": null,
-          "EventComment": "Jointly with the Committee on Criminal Justice and the Committee on Housing and Buildings and the Committee on Public Housing.",
+          "EventComment": "Jointly with the Committee on Criminal Justice and the Committee on Housing and Buildings and the Committee on Public Housing.*",
           "EventVideoPath": null,
           "EventMedia": null,
           "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22470&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-        "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+        "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
+        "processing_tags": [
+          "data_changed"
+        ],
         "last_alert_type": "new",
         "last_alert_timestamp": "2026-05-13T10:18:25.633941"
       }
@@ -4679,8 +4384,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Fire and Emergency Management"
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4697,8 +4402,8 @@
         "event_data": {
           "EventId": 22467,
           "EventGuid": "FAABDF6D-249D-4116-833D-3B31F5D61F78",
-          "EventLastModifiedUtc": "2026-05-12T12:05:52.623",
-          "EventRowVersion": "AAAAAOg3mCU=",
+          "EventLastModifiedUtc": "2026-05-20T15:15:59.99",
+          "EventRowVersion": "AAAAAOg6Fmw=",
           "EventBodyId": 11,
           "EventBodyName": "Committee on Finance",
           "EventDate": "2026-06-01T00:00:00",
@@ -4711,23 +4416,24 @@
           "EventLocation": "Council Chambers - City Hall",
           "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22467_A_Committee_on_Finance_26-06-01_Committee_Agenda.pdf",
           "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-05-12T12:05:52.413",
+          "EventAgendaLastPublishedUTC": "2026-05-20T15:15:59.923",
           "EventMinutesLastPublishedUTC": null,
-          "EventComment": "Jointly with the Committee on Public Safety and the Committee on Fire and Emergency Management.",
+          "EventComment": "Jointly with the Committee on Public Safety and the Committee on Fire and Emergency Management.*",
           "EventVideoPath": null,
           "EventMedia": null,
           "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22467&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Executive Budget Hearings - Finance"
+          "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-        "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+        "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
+        "processing_tags": [
+          "data_changed"
+        ],
         "last_alert_type": "new",
         "last_alert_timestamp": "2026-05-13T10:18:25.633941"
       }
@@ -4763,8 +4469,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Public Safety"
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4805,8 +4511,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Economic Development"
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4847,8 +4553,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Consumer and Worker Protection"
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4865,8 +4571,8 @@
         "event_data": {
           "EventId": 22463,
           "EventGuid": "1AFD551D-6348-4D19-955D-BD24023F2CEB",
-          "EventLastModifiedUtc": "2026-05-12T11:57:52.46",
-          "EventRowVersion": "AAAAAOg3l9I=",
+          "EventLastModifiedUtc": "2026-05-20T15:16:20.55",
+          "EventRowVersion": "AAAAAOg6Fnw=",
           "EventBodyId": 11,
           "EventBodyName": "Committee on Finance",
           "EventDate": "2026-05-29T00:00:00",
@@ -4879,23 +4585,24 @@
           "EventLocation": "Council Chambers - City Hall",
           "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22463_A_Committee_on_Finance_26-05-29_Committee_Agenda.pdf",
           "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-05-12T11:57:52.44",
+          "EventAgendaLastPublishedUTC": "2026-05-20T15:16:20.513",
           "EventMinutesLastPublishedUTC": null,
-          "EventComment": "Jointly with the Committee on Transportation and Infrastructure and the Committee on Consumer and Worker Protection and the Committee on Economic Development.",
+          "EventComment": "Jointly with the Committee on Transportation and Infrastructure and the Committee on Consumer and Worker Protection and the Committee on Economic Development.*",
           "EventVideoPath": null,
           "EventMedia": null,
           "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22463&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Executive Budget Hearings - Finance"
+          "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-        "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+        "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
+        "processing_tags": [
+          "data_changed"
+        ],
         "last_alert_type": "new",
         "last_alert_timestamp": "2026-05-13T10:18:25.633941"
       }
@@ -4931,8 +4638,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Transportation and Infrastructure"
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4973,8 +4680,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Children and Youth"
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4991,8 +4698,8 @@
         "event_data": {
           "EventId": 22462,
           "EventGuid": "921DA540-629D-4739-A544-5F119AA08E72",
-          "EventLastModifiedUtc": "2026-05-14T17:29:35.467",
-          "EventRowVersion": "AAAAAOg4UH8=",
+          "EventLastModifiedUtc": "2026-05-20T15:16:41.003",
+          "EventRowVersion": "AAAAAOg6Fow=",
           "EventBodyId": 11,
           "EventBodyName": "Committee on Finance",
           "EventDate": "2026-05-28T00:00:00",
@@ -5005,22 +4712,24 @@
           "EventLocation": "Council Chambers - City Hall",
           "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22462_A_Committee_on_Finance_26-05-28_Committee_Agenda.pdf",
           "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-05-14T17:29:35.253",
+          "EventAgendaLastPublishedUTC": "2026-05-20T15:16:40.94",
           "EventMinutesLastPublishedUTC": null,
-          "EventComment": "Jointly with the Committee on Children and Youth and the Committee on Immigration.",
+          "EventComment": "Jointly with the Committee on Children and Youth and the Committee on Immigration.*",
           "EventVideoPath": null,
           "EventMedia": null,
           "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22462&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-        "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+        "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
+        "processing_tags": [
+          "data_changed"
+        ],
         "last_alert_type": "new",
         "last_alert_timestamp": "2026-05-13T10:18:25.633941"
       }
@@ -5032,8 +4741,8 @@
         "event_data": {
           "EventId": 22458,
           "EventGuid": "F37D6289-3C4D-4098-B4AD-84902C58DB4C",
-          "EventLastModifiedUtc": "2026-05-14T17:14:24",
-          "EventRowVersion": "AAAAAOg4TIw=",
+          "EventLastModifiedUtc": "2026-05-20T15:17:01.717",
+          "EventRowVersion": "AAAAAOg6Fpw=",
           "EventBodyId": 11,
           "EventBodyName": "Committee on Finance",
           "EventDate": "2026-05-27T00:00:00",
@@ -5046,22 +4755,24 @@
           "EventLocation": "Council Chambers - City Hall",
           "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22458_A_Committee_on_Finance_26-05-27_Committee_Agenda.pdf",
           "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-05-14T17:14:23.953",
+          "EventAgendaLastPublishedUTC": "2026-05-20T15:17:01.667",
           "EventMinutesLastPublishedUTC": null,
-          "EventComment": "Jointly with the Committee on Civil and Human Rights and the Committee on Parks and Recreation.",
+          "EventComment": "Jointly with the Committee on Civil and Human Rights and the Committee on Parks and Recreation.*",
           "EventVideoPath": null,
           "EventMedia": null,
           "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22458&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-        "last_significant_change_timestamp": "2026-05-15T10:15:30.118261",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+        "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
+        "processing_tags": [
+          "data_changed"
+        ],
         "last_alert_type": "new",
         "last_alert_timestamp": "2026-05-13T10:18:25.633941"
       }
@@ -5097,8 +4808,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Civil and Human Rights"
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -5139,8 +4850,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Cultural Affairs, Libraries and International Relations"
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -5157,8 +4868,8 @@
         "event_data": {
           "EventId": 22455,
           "EventGuid": "77272726-6CEB-46A5-930B-F74C48E55BDA",
-          "EventLastModifiedUtc": "2026-05-12T11:54:38.637",
-          "EventRowVersion": "AAAAAOg3l2A=",
+          "EventLastModifiedUtc": "2026-05-20T15:17:19.593",
+          "EventRowVersion": "AAAAAOg6Fqw=",
           "EventBodyId": 11,
           "EventBodyName": "Committee on Finance",
           "EventDate": "2026-05-26T00:00:00",
@@ -5171,23 +4882,24 @@
           "EventLocation": "Council Chambers - City Hall",
           "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22455_A_Committee_on_Finance_26-05-26_Committee_Agenda.pdf",
           "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-05-12T11:54:38.573",
+          "EventAgendaLastPublishedUTC": "2026-05-20T15:17:19.533",
           "EventMinutesLastPublishedUTC": null,
-          "EventComment": "Jointly with the Committee on Aging and the Committee on Cultural Affairs, Libraries and International Relations.",
+          "EventComment": "Jointly with the Committee on Aging and the Committee on Cultural Affairs, Libraries and International Relations.*",
           "EventVideoPath": null,
           "EventMedia": null,
           "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22455&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Executive Budget Hearings - Finance"
+          "EventItems": []
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-        "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
+        "last_significant_change_timestamp": "2026-05-21T11:15:41.258291",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
+        "processing_tags": [
+          "data_changed"
+        ],
         "last_alert_type": "new",
         "last_alert_timestamp": "2026-05-13T10:18:25.633941"
       }
@@ -5223,8 +4935,8 @@
           "SyntheticMeetingTopic": "Executive Budget Hearings - Aging"
         },
         "first_seen_timestamp": "2026-05-13T10:18:25.633941",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -5264,8 +4976,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-09T09:12:42.000347",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-13T10:18:25.633941",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -5312,8 +5024,8 @@
           "SyntheticMeetingTopic": "Oversight - Interagency Coordination for Older Adults."
         },
         "first_seen_timestamp": "2026-05-09T09:12:42.000347",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-09T09:12:42.000347",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -5354,8 +5066,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2026-05-08T09:10:07.118932",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-08T09:10:07.118932",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -5396,8 +5108,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2026-05-08T09:10:07.118932",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-08T09:10:07.118932",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -5438,8 +5150,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2026-05-08T09:10:07.118932",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-08T09:10:07.118932",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -5486,8 +5198,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2026-05-08T09:10:07.118932",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-08T09:10:07.118932",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -5534,8 +5246,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2026-05-08T09:10:07.118932",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-08T09:10:07.118932",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -5581,8 +5293,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-02T08:59:49.713147",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-08T09:10:07.118932",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": {
@@ -5634,8 +5346,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-03-31T08:51:33.190662",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-08T09:10:07.118932",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -5681,8 +5393,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-01T09:27:41.949156",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-08T09:10:07.118932",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -5696,47 +5408,6 @@
         "processing_tags": [],
         "last_alert_type": "deferred",
         "last_alert_timestamp": "2026-05-08T09:10:07.118932"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2026-05-07T10:17:58.162908",
-      "data": {
-        "event_data": {
-          "EventId": 22436,
-          "EventGuid": "91240B75-79BF-4386-BEAF-E477970B50C5",
-          "EventLastModifiedUtc": "2026-05-07T15:31:16.067",
-          "EventRowVersion": "AAAAAOg3Jcc=",
-          "EventBodyId": 11,
-          "EventBodyName": "Committee on Finance",
-          "EventDate": "2026-05-20T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "Committee Room - City Hall",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/5/22436_A_Committee_on_Finance_26-05-20_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-05-07T15:31:15.933",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22436&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": []
-        },
-        "first_seen_timestamp": "2026-05-07T10:17:58.162908",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
-        "last_significant_change_timestamp": "2026-05-08T09:10:07.118932",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2026-05-07T10:17:58.162908"
       }
     },
     {
@@ -5769,8 +5440,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-06T10:11:13.040311",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-07T10:17:58.162908",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -5810,8 +5481,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-04-25T08:44:01.091461",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-05-02T08:59:49.713147",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": {
@@ -5863,8 +5534,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-04-17T09:10:40.947911",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-04-24T09:25:55.109363",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -5904,8 +5575,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-04-08T08:54:47.210802",
-        "last_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_processed_timestamp": "2026-05-20T10:44:42.292525",
+        "last_seen_timestamp": "2026-05-21T11:15:41.258291",
+        "last_processed_timestamp": "2026-05-21T11:15:41.258291",
         "last_significant_change_timestamp": "2026-04-24T09:25:55.109363",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -5922,7 +5593,7 @@
       }
     }
   ],
-  "source_newly_added_ids_count": 3,
+  "source_newly_added_ids_count": 1,
   "source_newly_deferred_ids_count": 0,
   "source_newly_rescheduled_pairs_count": 0
 }
