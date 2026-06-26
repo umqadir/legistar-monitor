@@ -1,220 +1,6 @@
 {
-  "generation_timestamp": "2026-06-25T10:37:07.821725",
+  "generation_timestamp": "2026-06-26T10:45:49.805635",
   "upcoming_hearings": [
-    {
-      "event_data": {
-        "EventId": 22498,
-        "EventGuid": "7A664B7E-FF1B-4AD9-BE1D-D96130A7D0B7",
-        "EventLastModifiedUtc": "2026-06-08T14:33:45.577",
-        "EventRowVersion": "AAAAAOg8ap4=",
-        "EventBodyId": 5237,
-        "EventBodyName": "Committee on Criminal Justice",
-        "EventDate": "2026-06-25T00:00:00",
-        "EventTime": "10:00 AM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22498_A_Committee_on_Criminal_Justice_26-06-25_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2026-06-08T14:33:45.407",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": null,
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22498&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Oversight - Improving Court Operations to Reduce the Jail Population."
-      },
-      "first_seen_timestamp": "2026-06-09T10:55:27.540892",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
-      "last_significant_change_timestamp": "2026-06-09T10:55:27.540892",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2026-06-09T10:55:27.540892",
-      "user_facing_tags": []
-    },
-    {
-      "event_data": {
-        "EventId": 22573,
-        "EventGuid": "EAA8B4A2-9557-4051-ABCD-C4C06D5A4CC6",
-        "EventLastModifiedUtc": "2026-06-22T16:15:12.5",
-        "EventRowVersion": "AAAAAOg+MIM=",
-        "EventBodyId": 5268,
-        "EventBodyName": "Committee on Transportation and Infrastructure",
-        "EventDate": "2026-06-25T00:00:00",
-        "EventTime": "10:00 AM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22573_A_Committee_on_Transportation_and_Infrastructure_26-06-25_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2026-06-22T16:15:12.363",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": "VOTE*",
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22573&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": [],
-        "SyntheticMeetingTopic": "Create unlimited transfers within the two-hour period of paying the Metropolitan Transportation Authority subway or bus fare for pay-per-ride users."
-      },
-      "first_seen_timestamp": "2026-06-23T10:57:10.432898",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
-      "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2026-06-23T10:57:10.432898",
-      "user_facing_tags": [
-        "new_hearing_tag"
-      ]
-    },
-    {
-      "event_data": {
-        "EventId": 22531,
-        "EventGuid": "6D482C7D-79C0-41EF-9410-A621D76C2D33",
-        "EventLastModifiedUtc": "2026-06-22T16:16:00.997",
-        "EventRowVersion": "AAAAAOg+MKs=",
-        "EventBodyId": 5268,
-        "EventBodyName": "Committee on Transportation and Infrastructure",
-        "EventDate": "2026-06-25T00:00:00",
-        "EventTime": "10:15 AM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22531_A_Committee_on_Transportation_and_Infrastructure_26-06-25_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2026-06-22T16:16:00.97",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": null,
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22531&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": []
-      },
-      "first_seen_timestamp": "2026-06-09T10:55:27.540892",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
-      "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": null,
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2026-06-09T10:55:27.540892",
-      "user_facing_tags": []
-    },
-    {
-      "event_data": {
-        "EventId": 22548,
-        "EventGuid": "0E102F84-54E1-433E-A97F-713034C7EDCE",
-        "EventLastModifiedUtc": "2026-06-24T20:14:44.803",
-        "EventRowVersion": "AAAAAOg+j+Y=",
-        "EventBodyId": 34,
-        "EventBodyName": "Subcommittee on Zoning and Franchises",
-        "EventDate": "2026-06-25T00:00:00",
-        "EventTime": "12:30 PM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "Council Chambers - City Hall",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22548_A_Subcommittee_on_Zoning_and_Franchises_26-06-25_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2026-06-24T20:14:44.693",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": "VOTE*",
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22548&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": []
-      },
-      "first_seen_timestamp": "2026-06-03T12:37:07.966936",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
-      "last_significant_change_timestamp": "2026-06-25T10:37:07.697812",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": {
-        "original_event_id": "22438",
-        "original_date": "2026-06-24T00:00:00",
-        "original_time": "11:00 AM",
-        "original_status_when_deferred": "Deferred",
-        "match_timestamp": "2026-06-03T12:37:07.966936"
-      },
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [
-        "data_changed"
-      ],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2026-06-03T12:37:07.966936",
-      "user_facing_tags": [
-        "rescheduled_hearing_tag"
-      ]
-    },
-    {
-      "event_data": {
-        "EventId": 22549,
-        "EventGuid": "2591373B-54ED-4165-91D9-654CEAFFD75A",
-        "EventLastModifiedUtc": "2026-06-24T20:15:16.353",
-        "EventRowVersion": "AAAAAOg+kBQ=",
-        "EventBodyId": 17,
-        "EventBodyName": "Committee on Land Use",
-        "EventDate": "2026-06-25T00:00:00",
-        "EventTime": "1:00 PM",
-        "EventVideoStatus": "Public",
-        "EventAgendaStatusId": 2,
-        "EventAgendaStatusName": "Final",
-        "EventMinutesStatusId": 1,
-        "EventMinutesStatusName": "Draft",
-        "EventLocation": "Council Chambers - City Hall",
-        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22549_A_Committee_on_Land_Use_26-06-25_Committee_Agenda.pdf",
-        "EventMinutesFile": null,
-        "EventAgendaLastPublishedUTC": "2026-06-24T20:15:16.283",
-        "EventMinutesLastPublishedUTC": null,
-        "EventComment": "VOTE*",
-        "EventVideoPath": null,
-        "EventMedia": null,
-        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22549&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-        "EventItems": []
-      },
-      "first_seen_timestamp": "2026-06-03T12:37:07.966936",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
-      "last_significant_change_timestamp": "2026-06-25T10:37:07.697812",
-      "current_status": "active",
-      "original_event_details_if_rescheduled": {
-        "original_event_id": "22439",
-        "original_date": "2026-06-24T00:00:00",
-        "original_time": "11:30 AM",
-        "original_status_when_deferred": "Deferred",
-        "match_timestamp": "2026-06-03T12:37:07.966936"
-      },
-      "rescheduled_event_details_if_deferred": null,
-      "processing_tags": [
-        "data_changed"
-      ],
-      "last_alert_type": "new",
-      "last_alert_timestamp": "2026-06-03T12:37:07.966936",
-      "user_facing_tags": [
-        "rescheduled_hearing_tag"
-      ]
-    },
     {
       "event_data": {
         "EventId": 22552,
@@ -243,8 +29,8 @@
         "SyntheticMeetingTopic": "Oversight - Implementing the Green Economy Action Plan."
       },
       "first_seen_timestamp": "2026-06-03T12:37:07.966936",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-03T12:37:07.966936",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -290,8 +76,8 @@
         "SyntheticMeetingTopic": "Oversight - Implementing the Green Economy Action Plan."
       },
       "first_seen_timestamp": "2026-06-03T12:37:07.966936",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-03T12:37:07.966936",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -337,8 +123,8 @@
         "SyntheticMeetingTopic": "Expanding the categories of establishments that may be subject to requirements regarding the disposal of commercial organic waste, and to repeal subdivision h of section 16-306.1 of such code."
       },
       "first_seen_timestamp": "2026-06-23T10:57:10.432898",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -346,9 +132,7 @@
       "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-06-23T10:57:10.432898",
-      "user_facing_tags": [
-        "new_hearing_tag"
-      ]
+      "user_facing_tags": []
     },
     {
       "event_data": {
@@ -378,8 +162,8 @@
         "SyntheticMeetingTopic": "Requirements and reporting for background checks for child care providers, employees, and volunteers."
       },
       "first_seen_timestamp": "2026-06-24T10:43:11.325984",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-24T10:43:11.325984",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -387,9 +171,7 @@
       "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-06-24T10:43:11.325984",
-      "user_facing_tags": [
-        "new_hearing_tag"
-      ]
+      "user_facing_tags": []
     },
     {
       "event_data": {
@@ -419,8 +201,8 @@
         "SyntheticMeetingTopic": "Establishing a program to provide financial assistance to small retail businesses for the purchase of security system technology."
       },
       "first_seen_timestamp": "2026-06-24T10:43:11.325984",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-24T10:43:11.325984",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -428,9 +210,7 @@
       "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-06-24T10:43:11.325984",
-      "user_facing_tags": [
-        "new_hearing_tag"
-      ]
+      "user_facing_tags": []
     },
     {
       "event_data": {
@@ -460,8 +240,8 @@
         "SyntheticMeetingTopic": "Commemorating the 250th anniversary of the United States of America."
       },
       "first_seen_timestamp": "2026-06-23T10:57:10.432898",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -469,9 +249,7 @@
       "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-06-23T10:57:10.432898",
-      "user_facing_tags": [
-        "new_hearing_tag"
-      ]
+      "user_facing_tags": []
     },
     {
       "event_data": {
@@ -501,8 +279,8 @@
         "SyntheticMeetingTopic": "Requirements and reporting for background checks for child care providers, employees, and volunteers."
       },
       "first_seen_timestamp": "2026-06-24T10:43:11.325984",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-24T10:43:11.325984",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -510,9 +288,7 @@
       "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-06-24T10:43:11.325984",
-      "user_facing_tags": [
-        "new_hearing_tag"
-      ]
+      "user_facing_tags": []
     },
     {
       "event_data": {
@@ -542,8 +318,8 @@
         "SyntheticMeetingTopic": "NYDOE to ensure that all schools in New York City continue to uphold policies that protect the rights and dignity of transgender and gender-nonconforming students, regardless of federal directives."
       },
       "first_seen_timestamp": "2026-06-24T10:43:11.325984",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-24T10:43:11.325984",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -551,9 +327,7 @@
       "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-06-24T10:43:11.325984",
-      "user_facing_tags": [
-        "new_hearing_tag"
-      ]
+      "user_facing_tags": []
     },
     {
       "event_data": {
@@ -583,8 +357,8 @@
         "SyntheticMeetingTopic": "A transparency report regarding New York city police department security perimeters adjacent to educational facilities."
       },
       "first_seen_timestamp": "2026-06-23T10:57:10.432898",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -592,6 +366,47 @@
       "processing_tags": [],
       "last_alert_type": "new",
       "last_alert_timestamp": "2026-06-23T10:57:10.432898",
+      "user_facing_tags": []
+    },
+    {
+      "event_data": {
+        "EventId": 22579,
+        "EventGuid": "8970FF3F-AF14-411B-8415-72260D7D8CCA",
+        "EventLastModifiedUtc": "2026-06-25T16:16:17.113",
+        "EventRowVersion": "AAAAAOg+yZw=",
+        "EventBodyId": 5106,
+        "EventBodyName": "Committee on Parks and Recreation",
+        "EventDate": "2026-06-29T00:00:00",
+        "EventTime": "11:00 AM",
+        "EventVideoStatus": "Public",
+        "EventAgendaStatusId": 2,
+        "EventAgendaStatusName": "Final",
+        "EventMinutesStatusId": 1,
+        "EventMinutesStatusName": "Draft",
+        "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
+        "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22579_A_Committee_on_Parks_and_Recreation_26-06-29_Committee_Agenda.pdf",
+        "EventMinutesFile": null,
+        "EventAgendaLastPublishedUTC": "2026-06-25T16:16:17.037",
+        "EventMinutesLastPublishedUTC": null,
+        "EventComment": "VOTE*",
+        "EventVideoPath": null,
+        "EventMedia": null,
+        "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22579&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+        "EventItems": [],
+        "SyntheticMeetingTopic": "Online publication of new biographical information relating to past local laws that changed the name of streets or parks."
+      },
+      "first_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
+      "last_significant_change_timestamp": "2026-06-26T10:45:49.456809",
+      "current_status": "active",
+      "original_event_details_if_rescheduled": null,
+      "rescheduled_event_details_if_deferred": null,
+      "processing_tags": [
+        "newly_added"
+      ],
+      "last_alert_type": "new",
+      "last_alert_timestamp": "2026-06-26T10:45:49.456809",
       "user_facing_tags": [
         "new_hearing_tag"
       ]
@@ -624,8 +439,8 @@
         "SyntheticMeetingTopic": "Agenda 1:30 p.m."
       },
       "first_seen_timestamp": "2026-05-29T11:22:28.033638",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-05-29T11:22:28.033638",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -671,8 +486,8 @@
         "SyntheticMeetingTopic": "Oversight - Racial Equity Planning for Measurable Impact."
       },
       "first_seen_timestamp": "2026-06-18T11:46:24.193744",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-18T11:46:24.193744",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -718,8 +533,8 @@
         "SyntheticMeetingTopic": "Creating a commercial waste zones working group."
       },
       "first_seen_timestamp": "2026-06-16T12:47:44.418218",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-16T12:47:44.418218",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -757,8 +572,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-06-12T11:39:33.855249",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-12T11:39:33.855249",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -804,8 +619,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-05-23T09:45:29.508678",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-05-23T09:45:29.508678",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -843,8 +658,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-05-08T09:10:07.118932",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-05-08T09:10:07.118932",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -882,8 +697,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-05-08T09:10:07.118932",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-05-08T09:10:07.118932",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -921,8 +736,8 @@
         "SyntheticMeetingTopic": "Agenda 1 p.m."
       },
       "first_seen_timestamp": "2026-03-04T08:32:06.040233",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-03-04T08:32:06.040233",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -960,8 +775,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-05-16T09:25:42.461578",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-05-16T09:25:42.461578",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -999,8 +814,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-05-20T10:44:42.292525",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-05-20T10:44:42.292525",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1038,8 +853,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-05-22T10:44:26.054986",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-05-22T10:44:26.054986",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1077,8 +892,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-05-22T10:44:26.054986",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-05-22T10:44:26.054986",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1116,8 +931,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-05-22T10:44:26.054986",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-05-22T10:44:26.054986",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1155,8 +970,8 @@
         "SyntheticMeetingTopic": "See Land Use Calendar"
       },
       "first_seen_timestamp": "2026-05-23T09:45:29.508678",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-05-23T09:45:29.508678",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1194,8 +1009,8 @@
         "SyntheticMeetingTopic": "Agenda 1 p.m."
       },
       "first_seen_timestamp": "2026-03-04T08:32:06.040233",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-03-04T08:32:06.040233",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1233,8 +1048,8 @@
         "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
       },
       "first_seen_timestamp": "2026-06-02T11:59:35.914809",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-02T11:59:35.914809",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1272,8 +1087,8 @@
         "SyntheticMeetingTopic": "Oversight \u2013 Examining the Use of Screens in New York City Public Schools."
       },
       "first_seen_timestamp": "2026-06-09T10:55:27.540892",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-09T10:55:27.540892",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1311,8 +1126,8 @@
         "SyntheticMeetingTopic": "Oversight \u2013 Examining the Use of Screens in New York City Public Schools."
       },
       "first_seen_timestamp": "2026-06-09T10:55:27.540892",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-09T10:55:27.540892",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1350,8 +1165,8 @@
         "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
       },
       "first_seen_timestamp": "2026-06-02T11:59:35.914809",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-02T11:59:35.914809",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1389,8 +1204,8 @@
         "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
       },
       "first_seen_timestamp": "2026-06-02T11:59:35.914809",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-02T11:59:35.914809",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1428,8 +1243,8 @@
         "SyntheticMeetingTopic": "Oversight - Citizen Enforcement Programs."
       },
       "first_seen_timestamp": "2026-06-16T12:47:44.418218",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-16T12:47:44.418218",
       "current_status": "active",
       "original_event_details_if_rescheduled": {
@@ -1475,8 +1290,8 @@
         "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
       },
       "first_seen_timestamp": "2026-06-02T11:59:35.914809",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-02T11:59:35.914809",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1514,8 +1329,8 @@
         "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
       },
       "first_seen_timestamp": "2026-06-02T11:59:35.914809",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-02T11:59:35.914809",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1553,8 +1368,8 @@
         "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
       },
       "first_seen_timestamp": "2026-06-02T11:59:35.914809",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-02T11:59:35.914809",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1592,8 +1407,8 @@
         "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
       },
       "first_seen_timestamp": "2026-06-02T11:59:35.914809",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-02T11:59:35.914809",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1631,8 +1446,8 @@
         "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
       },
       "first_seen_timestamp": "2026-06-02T11:59:35.914809",
-      "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-      "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+      "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+      "last_processed_timestamp": "2026-06-26T10:45:49.456809",
       "last_significant_change_timestamp": "2026-06-02T11:59:35.914809",
       "current_status": "active",
       "original_event_details_if_rescheduled": null,
@@ -1643,8 +1458,97 @@
       "user_facing_tags": []
     }
   ],
-  "updates_since_last_run": [],
+  "updates_since_last_run": [
+    {
+      "type": "new",
+      "alert_timestamp": "2026-06-26T10:45:49.456809",
+      "data": {
+        "event_data": {
+          "EventId": 22579,
+          "EventGuid": "8970FF3F-AF14-411B-8415-72260D7D8CCA",
+          "EventLastModifiedUtc": "2026-06-25T16:16:17.113",
+          "EventRowVersion": "AAAAAOg+yZw=",
+          "EventBodyId": 5106,
+          "EventBodyName": "Committee on Parks and Recreation",
+          "EventDate": "2026-06-29T00:00:00",
+          "EventTime": "11:00 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22579_A_Committee_on_Parks_and_Recreation_26-06-29_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2026-06-25T16:16:17.037",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "VOTE*",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22579&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Online publication of new biographical information relating to past local laws that changed the name of streets or parks."
+        },
+        "first_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
+        "last_significant_change_timestamp": "2026-06-26T10:45:49.456809",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2026-06-26T10:45:49.456809"
+      }
+    }
+  ],
   "updates_last_7_days": [
+    {
+      "type": "new",
+      "alert_timestamp": "2026-06-26T10:45:49.456809",
+      "data": {
+        "event_data": {
+          "EventId": 22579,
+          "EventGuid": "8970FF3F-AF14-411B-8415-72260D7D8CCA",
+          "EventLastModifiedUtc": "2026-06-25T16:16:17.113",
+          "EventRowVersion": "AAAAAOg+yZw=",
+          "EventBodyId": 5106,
+          "EventBodyName": "Committee on Parks and Recreation",
+          "EventDate": "2026-06-29T00:00:00",
+          "EventTime": "11:00 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22579_A_Committee_on_Parks_and_Recreation_26-06-29_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2026-06-25T16:16:17.037",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "VOTE*",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22579&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Online publication of new biographical information relating to past local laws that changed the name of streets or parks."
+        },
+        "first_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
+        "last_significant_change_timestamp": "2026-06-26T10:45:49.456809",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2026-06-26T10:45:49.456809"
+      }
+    },
     {
       "type": "new",
       "alert_timestamp": "2026-06-24T10:43:11.325984",
@@ -1676,8 +1580,8 @@
           "SyntheticMeetingTopic": "Requirements and reporting for background checks for child care providers, employees, and volunteers."
         },
         "first_seen_timestamp": "2026-06-24T10:43:11.325984",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-24T10:43:11.325984",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1718,8 +1622,8 @@
           "SyntheticMeetingTopic": "NYDOE to ensure that all schools in New York City continue to uphold policies that protect the rights and dignity of transgender and gender-nonconforming students, regardless of federal directives."
         },
         "first_seen_timestamp": "2026-06-24T10:43:11.325984",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-24T10:43:11.325984",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1760,8 +1664,8 @@
           "SyntheticMeetingTopic": "Requirements and reporting for background checks for child care providers, employees, and volunteers."
         },
         "first_seen_timestamp": "2026-06-24T10:43:11.325984",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-24T10:43:11.325984",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1802,8 +1706,8 @@
           "SyntheticMeetingTopic": "Establishing a program to provide financial assistance to small retail businesses for the purchase of security system technology."
         },
         "first_seen_timestamp": "2026-06-24T10:43:11.325984",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-24T10:43:11.325984",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1844,8 +1748,8 @@
           "SyntheticMeetingTopic": "A transparency report regarding New York city police department security perimeters adjacent to educational facilities."
         },
         "first_seen_timestamp": "2026-06-23T10:57:10.432898",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1886,8 +1790,8 @@
           "SyntheticMeetingTopic": "Commemorating the 250th anniversary of the United States of America."
         },
         "first_seen_timestamp": "2026-06-23T10:57:10.432898",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1928,8 +1832,8 @@
           "SyntheticMeetingTopic": "Expanding the categories of establishments that may be subject to requirements regarding the disposal of commercial organic waste, and to repeal subdivision h of section 16-306.1 of such code."
         },
         "first_seen_timestamp": "2026-06-23T10:57:10.432898",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -1969,8 +1873,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-22T10:44:26.054986",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -2010,8 +1914,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-22T10:44:26.054986",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -2051,8 +1955,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-22T10:44:26.054986",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -2060,102 +1964,56 @@
         "processing_tags": [],
         "last_alert_type": "deferred",
         "last_alert_timestamp": "2026-06-23T10:57:10.432898"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2026-06-23T10:57:10.432898",
-      "data": {
-        "event_data": {
-          "EventId": 22573,
-          "EventGuid": "EAA8B4A2-9557-4051-ABCD-C4C06D5A4CC6",
-          "EventLastModifiedUtc": "2026-06-22T16:15:12.5",
-          "EventRowVersion": "AAAAAOg+MIM=",
-          "EventBodyId": 5268,
-          "EventBodyName": "Committee on Transportation and Infrastructure",
-          "EventDate": "2026-06-25T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22573_A_Committee_on_Transportation_and_Infrastructure_26-06-25_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-06-22T16:15:12.363",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22573&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Create unlimited transfers within the two-hour period of paying the Metropolitan Transportation Authority subway or bus fare for pay-per-ride users."
-        },
-        "first_seen_timestamp": "2026-06-23T10:57:10.432898",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
-        "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2026-06-23T10:57:10.432898"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2026-06-18T11:46:24.193744",
-      "data": {
-        "event_data": {
-          "EventId": 22570,
-          "EventGuid": "543193F3-F024-4A58-94C9-D93777F10D3A",
-          "EventLastModifiedUtc": "2026-06-17T16:22:59.863",
-          "EventRowVersion": "AAAAAOg+FOo=",
-          "EventBodyId": 5235,
-          "EventBodyName": "Committee on Civil and Human Rights",
-          "EventDate": "2026-06-30T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22570_A_Committee_on_Civil_and_Human_Rights_26-06-30_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-06-17T16:22:59.737",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22570&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Oversight - Racial Equity Planning for Measurable Impact."
-        },
-        "first_seen_timestamp": "2026-06-18T11:46:24.193744",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
-        "last_significant_change_timestamp": "2026-06-18T11:46:24.193744",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": {
-          "original_event_id": "22556",
-          "original_date": "2026-06-18T00:00:00",
-          "original_time": "10:00 AM",
-          "original_status_when_deferred": "Deferred",
-          "match_timestamp": "2026-06-18T11:46:24.193744"
-        },
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2026-06-18T11:46:24.193744"
       }
     }
   ],
   "updates_last_30_days": [
     {
       "type": "new",
+      "alert_timestamp": "2026-06-26T10:45:49.456809",
+      "data": {
+        "event_data": {
+          "EventId": 22579,
+          "EventGuid": "8970FF3F-AF14-411B-8415-72260D7D8CCA",
+          "EventLastModifiedUtc": "2026-06-25T16:16:17.113",
+          "EventRowVersion": "AAAAAOg+yZw=",
+          "EventBodyId": 5106,
+          "EventBodyName": "Committee on Parks and Recreation",
+          "EventDate": "2026-06-29T00:00:00",
+          "EventTime": "11:00 AM",
+          "EventVideoStatus": "Public",
+          "EventAgendaStatusId": 2,
+          "EventAgendaStatusName": "Final",
+          "EventMinutesStatusId": 1,
+          "EventMinutesStatusName": "Draft",
+          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
+          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22579_A_Committee_on_Parks_and_Recreation_26-06-29_Committee_Agenda.pdf",
+          "EventMinutesFile": null,
+          "EventAgendaLastPublishedUTC": "2026-06-25T16:16:17.037",
+          "EventMinutesLastPublishedUTC": null,
+          "EventComment": "VOTE*",
+          "EventVideoPath": null,
+          "EventMedia": null,
+          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22579&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
+          "EventItems": [],
+          "SyntheticMeetingTopic": "Online publication of new biographical information relating to past local laws that changed the name of streets or parks."
+        },
+        "first_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
+        "last_significant_change_timestamp": "2026-06-26T10:45:49.456809",
+        "current_status": "active",
+        "original_event_details_if_rescheduled": null,
+        "rescheduled_event_details_if_deferred": null,
+        "processing_tags": [
+          "newly_added"
+        ],
+        "last_alert_type": "new",
+        "last_alert_timestamp": "2026-06-26T10:45:49.456809"
+      }
+    },
+    {
+      "type": "new",
       "alert_timestamp": "2026-06-24T10:43:11.325984",
       "data": {
         "event_data": {
@@ -2185,8 +2043,8 @@
           "SyntheticMeetingTopic": "Requirements and reporting for background checks for child care providers, employees, and volunteers."
         },
         "first_seen_timestamp": "2026-06-24T10:43:11.325984",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-24T10:43:11.325984",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2227,8 +2085,8 @@
           "SyntheticMeetingTopic": "NYDOE to ensure that all schools in New York City continue to uphold policies that protect the rights and dignity of transgender and gender-nonconforming students, regardless of federal directives."
         },
         "first_seen_timestamp": "2026-06-24T10:43:11.325984",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-24T10:43:11.325984",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2269,8 +2127,8 @@
           "SyntheticMeetingTopic": "Requirements and reporting for background checks for child care providers, employees, and volunteers."
         },
         "first_seen_timestamp": "2026-06-24T10:43:11.325984",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-24T10:43:11.325984",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2311,8 +2169,8 @@
           "SyntheticMeetingTopic": "Establishing a program to provide financial assistance to small retail businesses for the purchase of security system technology."
         },
         "first_seen_timestamp": "2026-06-24T10:43:11.325984",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-24T10:43:11.325984",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2353,8 +2211,8 @@
           "SyntheticMeetingTopic": "A transparency report regarding New York city police department security perimeters adjacent to educational facilities."
         },
         "first_seen_timestamp": "2026-06-23T10:57:10.432898",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2395,8 +2253,8 @@
           "SyntheticMeetingTopic": "Commemorating the 250th anniversary of the United States of America."
         },
         "first_seen_timestamp": "2026-06-23T10:57:10.432898",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2437,8 +2295,8 @@
           "SyntheticMeetingTopic": "Expanding the categories of establishments that may be subject to requirements regarding the disposal of commercial organic waste, and to repeal subdivision h of section 16-306.1 of such code."
         },
         "first_seen_timestamp": "2026-06-23T10:57:10.432898",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2478,8 +2336,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-22T10:44:26.054986",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -2519,8 +2377,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-22T10:44:26.054986",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -2560,56 +2418,14 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-22T10:44:26.054986",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
         "rescheduled_event_details_if_deferred": null,
         "processing_tags": [],
         "last_alert_type": "deferred",
-        "last_alert_timestamp": "2026-06-23T10:57:10.432898"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2026-06-23T10:57:10.432898",
-      "data": {
-        "event_data": {
-          "EventId": 22573,
-          "EventGuid": "EAA8B4A2-9557-4051-ABCD-C4C06D5A4CC6",
-          "EventLastModifiedUtc": "2026-06-22T16:15:12.5",
-          "EventRowVersion": "AAAAAOg+MIM=",
-          "EventBodyId": 5268,
-          "EventBodyName": "Committee on Transportation and Infrastructure",
-          "EventDate": "2026-06-25T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22573_A_Committee_on_Transportation_and_Infrastructure_26-06-25_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-06-22T16:15:12.363",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22573&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Create unlimited transfers within the two-hour period of paying the Metropolitan Transportation Authority subway or bus fare for pay-per-ride users."
-        },
-        "first_seen_timestamp": "2026-06-23T10:57:10.432898",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
-        "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
         "last_alert_timestamp": "2026-06-23T10:57:10.432898"
       }
     },
@@ -2644,8 +2460,8 @@
           "SyntheticMeetingTopic": "Oversight - Racial Equity Planning for Measurable Impact."
         },
         "first_seen_timestamp": "2026-06-18T11:46:24.193744",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-18T11:46:24.193744",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -2692,8 +2508,8 @@
           "SyntheticMeetingTopic": "Oversight - Citizen Enforcement Programs."
         },
         "first_seen_timestamp": "2026-06-16T12:47:44.418218",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-16T12:47:44.418218",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -2740,8 +2556,8 @@
           "SyntheticMeetingTopic": "Creating a commercial waste zones working group."
         },
         "first_seen_timestamp": "2026-06-16T12:47:44.418218",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-16T12:47:44.418218",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -2781,8 +2597,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-06-09T10:55:27.540892",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-16T12:47:44.418218",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -2828,8 +2644,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-06-06T09:57:56.056203",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-18T11:46:24.193744",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -2876,8 +2692,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2026-06-13T10:23:20.703391",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-13T10:23:20.703391",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -2917,8 +2733,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-23T09:45:29.508678",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-13T10:23:20.703391",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -2959,8 +2775,8 @@
           "SyntheticMeetingTopic": "See Land Use Calendar"
         },
         "first_seen_timestamp": "2026-06-12T11:39:33.855249",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-12T11:39:33.855249",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -3006,8 +2822,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-16T09:25:42.461578",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-12T11:39:33.855249",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -3053,8 +2869,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-20T10:44:42.292525",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-11T12:05:16.133742",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -3095,8 +2911,8 @@
           "SyntheticMeetingTopic": "Oversight \u2013 Examining the Use of Screens in New York City Public Schools."
         },
         "first_seen_timestamp": "2026-06-09T10:55:27.540892",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-09T10:55:27.540892",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3137,91 +2953,8 @@
           "SyntheticMeetingTopic": "Oversight \u2013 Examining the Use of Screens in New York City Public Schools."
         },
         "first_seen_timestamp": "2026-06-09T10:55:27.540892",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
-        "last_significant_change_timestamp": "2026-06-09T10:55:27.540892",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2026-06-09T10:55:27.540892"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2026-06-09T10:55:27.540892",
-      "data": {
-        "event_data": {
-          "EventId": 22531,
-          "EventGuid": "6D482C7D-79C0-41EF-9410-A621D76C2D33",
-          "EventLastModifiedUtc": "2026-06-22T16:16:00.997",
-          "EventRowVersion": "AAAAAOg+MKs=",
-          "EventBodyId": 5268,
-          "EventBodyName": "Committee on Transportation and Infrastructure",
-          "EventDate": "2026-06-25T00:00:00",
-          "EventTime": "10:15 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 1",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22531_A_Committee_on_Transportation_and_Infrastructure_26-06-25_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-06-22T16:16:00.97",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22531&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": []
-        },
-        "first_seen_timestamp": "2026-06-09T10:55:27.540892",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
-        "last_significant_change_timestamp": "2026-06-23T10:57:10.432898",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": null,
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2026-06-09T10:55:27.540892"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2026-06-09T10:55:27.540892",
-      "data": {
-        "event_data": {
-          "EventId": 22498,
-          "EventGuid": "7A664B7E-FF1B-4AD9-BE1D-D96130A7D0B7",
-          "EventLastModifiedUtc": "2026-06-08T14:33:45.577",
-          "EventRowVersion": "AAAAAOg8ap4=",
-          "EventBodyId": 5237,
-          "EventBodyName": "Committee on Criminal Justice",
-          "EventDate": "2026-06-25T00:00:00",
-          "EventTime": "10:00 AM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "250 Broadway - 8th Floor - Hearing Room 2",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22498_A_Committee_on_Criminal_Justice_26-06-25_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-06-08T14:33:45.407",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": null,
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22498&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": [],
-          "SyntheticMeetingTopic": "Oversight - Improving Court Operations to Reduce the Jail Population."
-        },
-        "first_seen_timestamp": "2026-06-09T10:55:27.540892",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-09T10:55:27.540892",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3261,8 +2994,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-29T11:22:28.033638",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-04T10:57:11.653109",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -3302,8 +3035,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-29T11:22:28.033638",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-04T10:57:11.653109",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -3344,8 +3077,8 @@
           "SyntheticMeetingTopic": "Oversight - Implementing the Green Economy Action Plan."
         },
         "first_seen_timestamp": "2026-06-03T12:37:07.966936",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-03T12:37:07.966936",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -3392,8 +3125,8 @@
           "SyntheticMeetingTopic": "Oversight - Implementing the Green Economy Action Plan."
         },
         "first_seen_timestamp": "2026-06-03T12:37:07.966936",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-03T12:37:07.966936",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -3405,104 +3138,6 @@
         },
         "rescheduled_event_details_if_deferred": null,
         "processing_tags": [],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2026-06-03T12:37:07.966936"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2026-06-03T12:37:07.966936",
-      "data": {
-        "event_data": {
-          "EventId": 22549,
-          "EventGuid": "2591373B-54ED-4165-91D9-654CEAFFD75A",
-          "EventLastModifiedUtc": "2026-06-24T20:15:16.353",
-          "EventRowVersion": "AAAAAOg+kBQ=",
-          "EventBodyId": 17,
-          "EventBodyName": "Committee on Land Use",
-          "EventDate": "2026-06-25T00:00:00",
-          "EventTime": "1:00 PM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "Council Chambers - City Hall",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22549_A_Committee_on_Land_Use_26-06-25_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-06-24T20:15:16.283",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22549&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": []
-        },
-        "first_seen_timestamp": "2026-06-03T12:37:07.966936",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
-        "last_significant_change_timestamp": "2026-06-25T10:37:07.697812",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": {
-          "original_event_id": "22439",
-          "original_date": "2026-06-24T00:00:00",
-          "original_time": "11:30 AM",
-          "original_status_when_deferred": "Deferred",
-          "match_timestamp": "2026-06-03T12:37:07.966936"
-        },
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "data_changed"
-        ],
-        "last_alert_type": "new",
-        "last_alert_timestamp": "2026-06-03T12:37:07.966936"
-      }
-    },
-    {
-      "type": "new",
-      "alert_timestamp": "2026-06-03T12:37:07.966936",
-      "data": {
-        "event_data": {
-          "EventId": 22548,
-          "EventGuid": "0E102F84-54E1-433E-A97F-713034C7EDCE",
-          "EventLastModifiedUtc": "2026-06-24T20:14:44.803",
-          "EventRowVersion": "AAAAAOg+j+Y=",
-          "EventBodyId": 34,
-          "EventBodyName": "Subcommittee on Zoning and Franchises",
-          "EventDate": "2026-06-25T00:00:00",
-          "EventTime": "12:30 PM",
-          "EventVideoStatus": "Public",
-          "EventAgendaStatusId": 2,
-          "EventAgendaStatusName": "Final",
-          "EventMinutesStatusId": 1,
-          "EventMinutesStatusName": "Draft",
-          "EventLocation": "Council Chambers - City Hall",
-          "EventAgendaFile": "https://nyc.legistar1.com/nyc/meetings/2026/6/22548_A_Subcommittee_on_Zoning_and_Franchises_26-06-25_Committee_Agenda.pdf",
-          "EventMinutesFile": null,
-          "EventAgendaLastPublishedUTC": "2026-06-24T20:14:44.693",
-          "EventMinutesLastPublishedUTC": null,
-          "EventComment": "VOTE*",
-          "EventVideoPath": null,
-          "EventMedia": null,
-          "EventInSiteURL": "https://nyc.legistar.com/MeetingDetail.aspx?LEGID=22548&GID=61&G=2FD004F1-D85B-4588-A648-0A736C77D6E3",
-          "EventItems": []
-        },
-        "first_seen_timestamp": "2026-06-03T12:37:07.966936",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
-        "last_significant_change_timestamp": "2026-06-25T10:37:07.697812",
-        "current_status": "active",
-        "original_event_details_if_rescheduled": {
-          "original_event_id": "22438",
-          "original_date": "2026-06-24T00:00:00",
-          "original_time": "11:00 AM",
-          "original_status_when_deferred": "Deferred",
-          "match_timestamp": "2026-06-03T12:37:07.966936"
-        },
-        "rescheduled_event_details_if_deferred": null,
-        "processing_tags": [
-          "data_changed"
-        ],
         "last_alert_type": "new",
         "last_alert_timestamp": "2026-06-03T12:37:07.966936"
       }
@@ -3537,8 +3172,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-08T09:10:07.118932",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-03T12:37:07.966936",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": {
@@ -3590,8 +3225,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-08T09:10:07.118932",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-03T12:37:07.966936",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": {
@@ -3643,8 +3278,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-23T09:45:29.508678",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-03T12:37:07.966936",
         "current_status": "deferred_pending_match",
         "original_event_details_if_rescheduled": null,
@@ -3684,8 +3319,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-29T11:22:28.033638",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-03T12:37:07.966936",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -3731,8 +3366,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-05-29T11:22:28.033638",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-03T12:37:07.966936",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -3779,8 +3414,8 @@
           "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
         },
         "first_seen_timestamp": "2026-06-02T11:59:35.914809",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-02T11:59:35.914809",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3821,8 +3456,8 @@
           "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
         },
         "first_seen_timestamp": "2026-06-02T11:59:35.914809",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-02T11:59:35.914809",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3863,8 +3498,8 @@
           "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
         },
         "first_seen_timestamp": "2026-06-02T11:59:35.914809",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-02T11:59:35.914809",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3905,8 +3540,8 @@
           "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
         },
         "first_seen_timestamp": "2026-06-02T11:59:35.914809",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-02T11:59:35.914809",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3947,8 +3582,8 @@
           "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
         },
         "first_seen_timestamp": "2026-06-02T11:59:35.914809",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-02T11:59:35.914809",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -3989,8 +3624,8 @@
           "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
         },
         "first_seen_timestamp": "2026-06-02T11:59:35.914809",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-02T11:59:35.914809",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4031,8 +3666,8 @@
           "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
         },
         "first_seen_timestamp": "2026-06-02T11:59:35.914809",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-02T11:59:35.914809",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4073,8 +3708,8 @@
           "SyntheticMeetingTopic": "Agenda - 1:30 p.m."
         },
         "first_seen_timestamp": "2026-06-02T11:59:35.914809",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-06-02T11:59:35.914809",
         "current_status": "active",
         "original_event_details_if_rescheduled": null,
@@ -4115,8 +3750,8 @@
           "SyntheticMeetingTopic": "Agenda 1:30 p.m."
         },
         "first_seen_timestamp": "2026-05-29T11:22:28.033638",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-05-29T11:22:28.033638",
         "current_status": "active",
         "original_event_details_if_rescheduled": {
@@ -4162,8 +3797,8 @@
           "EventItems": []
         },
         "first_seen_timestamp": "2026-03-04T08:32:06.040233",
-        "last_seen_timestamp": "2026-06-25T10:37:07.697812",
-        "last_processed_timestamp": "2026-06-25T10:37:07.697812",
+        "last_seen_timestamp": "2026-06-26T10:45:49.456809",
+        "last_processed_timestamp": "2026-06-26T10:45:49.456809",
         "last_significant_change_timestamp": "2026-05-29T11:22:28.033638",
         "current_status": "deferred_rescheduled_internal",
         "original_event_details_if_rescheduled": null,
@@ -4180,7 +3815,7 @@
       }
     }
   ],
-  "source_newly_added_ids_count": 0,
+  "source_newly_added_ids_count": 1,
   "source_newly_deferred_ids_count": 0,
   "source_newly_rescheduled_pairs_count": 0
 }
